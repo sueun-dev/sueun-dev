@@ -25,19 +25,19 @@ Welcome to my digital playground—where code meets creativity with a dash of hu
 
 ## 🛠️ My Tech Stack
 
-### Frontend
-I love crafting intuitive and responsive interfaces using:
-- **React.js**  
-- HTML5, CSS3, and JavaScript  
-- Other modern libraries and frameworks
-
 ### Backend
 I build powerful backends using multiple languages:
 - **Java**  
 - **Solidity** (for blockchain smart contracts)  
 - **C++**  
 - **Rust**  
-- And more…
+- **Python**
+
+### Frontend
+I love crafting intuitive and responsive interfaces using:
+- **React.js**  
+- HTML5, CSS3, and JavaScript  
+- Other modern libraries and frameworks
 
 ### Databases
 I work with both relational and NoSQL databases:
