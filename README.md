@@ -61,7 +61,7 @@ Feel free to reach out or connect with me through the following channels:
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=GMail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/YourUsername"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/YourHandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://x.com/cho_sueun"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
 ---
