@@ -1,58 +1,62 @@
 # Hey There, I'm Sueun! 👋
 
-Welcome to my digital playground—where code meets creativity with a dash of humor. Whether I'm building sleek frontends, powering robust backends, or orchestrating scalable cloud solutions, I always have fun while crafting amazing projects!
+Welcome to my digital playground—where code meets creativity with a dash of humor. I build sleek frontends, robust backends, and scalable cloud solutions while keeping innovation and fun at the forefront.
 
 ---
 
-## 🚀 About Me
+## Table of Contents
 
-- **Full-Stack Developer & Blockchain Enthusiast:**  
-  I design and build innovative solutions with a passion for cutting-edge technology—and yes, I love a good laugh along the way!
+- [About Me](#about-me)
+- [Tech Stack](#tech-stack)
+- [Languages & Education](#languages--education)
+- [Contact](#contact)
+- [Let's Code & Conquer](#lets-code--conquer)
+
+---
+
+## About Me
+
+I'm a **Full-Stack Developer & Blockchain Enthusiast** passionate about building innovative solutions. Here are a few highlights of my journey:
 
 - **Investor & Arbitrage Buff:**  
-  I'm deeply interested in coin and stock markets. I often explore arbitrage opportunities and brainstorm creative ways to earn money in these dynamic fields.
+  I actively explore coin and stock markets, seek arbitrage opportunities, and brainstorm creative ways to maximize earnings.
 
-- **Always Learning:**  
-  Currently diving deep into AI and exploring fresh programming paradigms to stay ahead of the curve.
+- **Continuous Learner:**  
+  I’m diving deep into AI and exploring new programming paradigms to stay ahead of the tech curve.
 
-- **Collaborator:**  
-  Proudly working with creative minds like **Bbaguette**, **Gomz Club**, and many more.
+- **Collaborative Spirit:**  
+  I proudly work with creative minds like **Bbaguette**, **Gomz Club**, and many more.
 
 - **Fun Fact:**  
   I believe every bug is just an unsolved riddle waiting for a clever punchline!
 
 ---
 
-## 🛠️ My Tech Stack
+## Tech Stack
 
-### Backend
-I build powerful backends using multiple languages:
-- **Java**  
-- **Solidity** (for blockchain smart contracts)  
-- **C++**  
-- **Rust**  
-- **Python**
+I use a diverse range of technologies across different layers of development. Below is a breakdown of my tech stack:
 
-### Frontend
-I love crafting intuitive and responsive interfaces using:
-- **React.js**  
-- HTML5, CSS3, and JavaScript  
-- Other modern libraries and frameworks
-
-### Databases
-I work with both relational and NoSQL databases:
-- **PostgreSQL**  
-- **MongoDB**
-
-### Cloud & DevOps
-I deploy and manage scalable solutions using:
-- **Google Cloud Platform (GCP)**  
-- Server management, CI/CD, and automation
+| **Category**         | **Technologies**                                                         | **Notes**                                                                 |
+|----------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| **Backend**          | Java, Solidity (smart contracts), C++, Rust, Python                      | Powerful languages for building server-side and blockchain solutions.    |
+| **Frontend**         | React.js, HTML5, CSS3, JavaScript                                          | Modern libraries and frameworks for creating responsive interfaces.      |
+| **Databases**        | PostgreSQL, MongoDB                                                        | A mix of relational and NoSQL databases to meet various data needs.        |
+| **Cloud & DevOps**   | Google Cloud Platform (GCP), CI/CD, Server Management, Automation          | Tools and practices for deploying and managing scalable applications.    |
 
 ---
 
+## Languages & Education
 
-## 📫 Get in Touch
+| **Attribute** | **Details**                                                                                                  |
+|---------------|--------------------------------------------------------------------------------------------------------------|
+| **Languages** | Korean, English                                                                                              |
+| **Education** | **University of Maryland - College Park** <br>*Major: Computer Science - Machine Learning*                    |
+
+---
+
+## Contact
+
+Feel free to reach out or connect with me through the following channels:
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=GMail&logoColor=white" alt="Email"></a>
@@ -62,8 +66,8 @@ I deploy and manage scalable solutions using:
 
 ---
 
-## 🎉 Let's Code & Conquer!
+## Let's Code & Conquer!
 
-Feel free to explore my repositories, drop me a line, or just say hi. Whether you want to talk tech, share memes, or debate the mysteries of blockchain and financial arbitrage, I'm all ears!
+Explore my repositories, drop me a line, or just say hi. Whether you want to discuss tech trends, share memes, or debate blockchain and financial arbitrage, I'm all ears!
 
 Happy coding and stay awesome! 😎
