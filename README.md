@@ -1,66 +1,70 @@
 # Hey There, I'm Sueun! 👋
 
-Welcome to my digital playground, where blockchain meets full-stack wizardry and code turns into art (with a few hilarious bugs along the way)!
+Welcome to my digital playground—where I blend code, creativity, and a bit of humor to build amazing things. Whether I'm crafting sleek frontends, powering robust backends, or architecting scalable databases and cloud solutions, I always strive to keep things fun and innovative!
 
 ---
 
 ## 🚀 About Me
 
 - **Current Gig:**  
-  I'm busy crafting innovative blockchain solutions and working as a full-stack developer—building the future one line of code at a time!
+  I’m a full-stack developer with a passion for blockchain innovation and cutting-edge software solutions.
 
 - **On the Learning Curve:**  
-  Diving deep into the fascinating world of Artificial Intelligence. Yes, I'm teaching machines to understand my jokes (or at least try to)!
+  Constantly exploring the realms of AI and new programming paradigms.
 
 - **Collaborations:**  
-  Proudly teaming up with creative geniuses like **Bbaguette**, **Gomz Club**, and many other extraordinary minds.
+  Proudly collaborating with creative minds like **Bbaguette**, **Gomz Club**, and many more.
 
 - **Fun Fact:**  
-  I believe every bug is just an unsolved riddle waiting for a punchline.
-
-- **Passion:**  
-  I live for the thrill of programming—solving puzzles while creating digital art (and occasionally epic memes).
-
----
-
-## 🤹‍♂️ Fun Stuff & Quirky Tidbits
-
-- **Coffee is my co-pilot:**  
-  My caffeine intake is directly proportional to the number of lines of code I write. ☕💻
-
-- **If blockchain were a party:**  
-  I'd be the DJ spinning the freshest consensus algorithms to keep the data dancing all night long.
-
-- **Techie Humor:**  
-  "I don't always test my code, but when I do, I do it in production." – Stay frosty, coder friends!
+  Every bug is just an unsolved riddle waiting for a clever punchline!
 
 ---
 
 ## 🛠️ Tech Stack
 
-| **Category**    | **Tools & Technologies**                                                     | **Why I Love It**                                               |
-|-----------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| **Blockchain**  | Solidity, Web3.js                                                             | Because decentralization is the future (and really cool)!     |
-| **Full-Stack**  | React, Node.js, Python, Flask, SQLAlchemy                                     | I build everything—from the frontend sparkle to the backend magic! |
-| **AI & ML**     | TensorFlow, PyTorch, scikit-learn                                             | Teaching machines to appreciate a good joke.                  |
+### Frontend
+I love building intuitive and interactive user interfaces using modern web technologies.
+- **React.js** (⚛️)  
+- HTML5, CSS3, and JavaScript  
+- Additional libraries and frameworks as needed
+
+### Backend
+I craft powerful and efficient backends in multiple languages to solve complex problems.
+- **Java**  
+- **Solidity** (for blockchain smart contracts)  
+- **C++**  
+- **Rust**  
+- And more…
+
+### Databases
+Data is at the heart of every application. I work with both relational and NoSQL databases.
+- **PostgreSQL**  
+- **MongoDB**
+
+### Cloud & Server
+I deploy and manage scalable solutions using cloud platforms and modern DevOps practices.
+- **Google Cloud Platform (GCP)**  
+- Server management, CI/CD, and automation
 
 ---
 
 ## 🚀 My GitHub Skills Section
 
-In this section, you can showcase your skills and list the tools and technologies you’re familiar with. I always prefer minimal and crisp design choices over cluttered data—after all, we humans process visuals so much better!
-
-You can use resources like IconFinder, Shields.io, markdown-badges, vector-logo-zone, and simple-icons, but I’d personally recommend **DevIcon**. DevIcon is tailored for providing icons solely related to programming languages and development tools—a perfect fit for this section.
-
-Just copy the SVG image source from DevIcon’s website and paste it inside a `<p>` tag to display multiple icons!
+I believe in showcasing my skills visually, so here are some of the tools I use:
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-  <!-- You can add more icons as needed -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="45" height="45"/>
 </p>
+
+*I always prefer minimal and crisp design choices over cluttered data. Visuals speak louder than words!*
 
 ---
 
@@ -74,6 +78,6 @@ Just copy the SVG image source from DevIcon’s website and paste it inside a `<
 
 ## 🎉 Let's Code & Conquer!
 
-Feel free to explore my repositories, drop me a line, or just say hi. Whether you want to talk tech, share memes, or debate the mysteries of blockchain, I'm all ears!
+Feel free to explore my repositories, drop me a line, or just say hi. Whether you want to talk tech, share memes, or debate the mysteries of blockchain, I’m all ears!
 
 Happy coding and stay awesome! 😎
