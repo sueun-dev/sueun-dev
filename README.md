@@ -51,38 +51,6 @@ I deploy and manage scalable solutions using:
 
 ---
 
-## 🚀 My GitHub Skills Section
-
-I believe in showcasing my skills visually. Here are some tools and technologies I've used:
-
-<h2> 🚀 &nbsp;Tools & Technologies</h2>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="45" height="45"/>
-</p>
-
-*I prefer minimal and crisp designs—visuals speak louder than words!*
-
----
-
-## 📊 GitHub Stats & Fun
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/YourUserName/YourUserName/blob/output/github-contribution-grid-snake.svg" alt="Snake eating my commits" />
-</p>
-
----
 
 ## 📫 Get in Touch
 
