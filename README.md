@@ -1,25 +1,25 @@
 # Hey There, I'm Sueun! 👋
 
-Welcome to my digital playground, where blockchain meets full-stack wizardry and code turns into art (and the occasional hilarious bug)!
+Welcome to my digital playground, where blockchain meets full-stack wizardry and code turns into art (with a few hilarious bugs along the way)!
 
 ---
 
 ## 🚀 About Me
 
 - **Current Gig:**  
-  I'm busy crafting innovative blockchain solutions and working as a full-stack developer – think of it as building the future one line of code at a time!
-  
+  I'm busy crafting innovative blockchain solutions and working as a full-stack developer—building the future one line of code at a time!
+
 - **On the Learning Curve:**  
-  Diving deep into the fascinating world of Artificial Intelligence. Yes, I'm teaching machines to understand my jokes (or at least try to)! 🤖
+  Diving deep into the fascinating world of Artificial Intelligence. Yes, I'm teaching machines to understand my jokes (or at least try to)!
 
 - **Collaborations:**  
-  Proudly teaming up with creative geniuses like **Bbaguette**, **Gomz Club**, and other extraordinary minds.
+  Proudly teaming up with creative geniuses like **Bbaguette**, **Gomz Club**, and many other extraordinary minds.
 
 - **Fun Fact:**  
-  I firmly believe that every bug is just an unsolved riddle waiting for a punchline.
+  I believe every bug is just an unsolved riddle waiting for a punchline.
 
 - **Passion:**  
-  I live for the thrill of programming – it's like solving a puzzle while creating digital art (and sometimes, epic memes).
+  I live for the thrill of programming—solving puzzles while creating digital art (and occasionally epic memes).
 
 ---
 
@@ -41,8 +41,26 @@ Welcome to my digital playground, where blockchain meets full-stack wizardry and
 | **Category**    | **Tools & Technologies**                                                     | **Why I Love It**                                               |
 |-----------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------|
 | **Blockchain**  | Solidity, Web3.js                                                             | Because decentralization is the future (and really cool)!     |
-| **Full-Stack**  | React, Node.js, Python, Flask, SQLAlchemy                                     | I build everything from the frontend sparkle to the backend magic! |
+| **Full-Stack**  | React, Node.js, Python, Flask, SQLAlchemy                                     | I build everything—from the frontend sparkle to the backend magic! |
 | **AI & ML**     | TensorFlow, PyTorch, scikit-learn                                             | Teaching machines to appreciate a good joke.                  |
+
+---
+
+## 🚀 My GitHub Skills Section
+
+In this section, you can showcase your skills and list the tools and technologies you’re familiar with. I always prefer minimal and crisp design choices over cluttered data—after all, we humans process visuals so much better!
+
+You can use resources like IconFinder, Shields.io, markdown-badges, vector-logo-zone, and simple-icons, but I’d personally recommend **DevIcon**. DevIcon is tailored for providing icons solely related to programming languages and development tools—a perfect fit for this section.
+
+Just copy the SVG image source from DevIcon’s website and paste it inside a `<p>` tag to display multiple icons!
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <!-- You can add more icons as needed -->
+</p>
 
 ---
 
