@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Animation Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+There%2C+I'm+Sueun!+%F0%9F%91%8B;Full-Stack+Developer;Blockchain+Enthusiast;Building+the+Future+of+Web3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Sueun+Cho;Quantitative+Systems+Engineer;Blockchain+Infrastructure+Developer" alt="Typing SVG" /></a>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=sueun-dev&style=for-the-badge&color=6C63FF" alt="Profile Views" />
