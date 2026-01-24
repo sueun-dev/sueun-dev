@@ -30,7 +30,6 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 - 📊 **Quantitative Systems** — Developing arbitrage engines, market-making algorithms, and cross-exchange hedging strategies
 - ⛓️ **Web3 Development** — Smart contract development, DeFi protocol integration, and on-chain data analysis
 - 🎓 **CS @ UMD** — Computer Science, University of Maryland - College Park
-- 🤝 **Collaborations** — **Bbaguette**, **Gomz Club**, and select Web3 projects
 
 ---
 
