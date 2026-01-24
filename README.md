@@ -24,13 +24,13 @@
 
 ## 👨‍💻 About Me
 
-Welcome to my digital playground—where code meets creativity with a dash of humor. I build sleek frontends, robust backends, and scalable cloud solutions while keeping innovation and fun at the forefront.
+Software Engineer specializing in **quantitative trading systems** and **blockchain infrastructure**. I architect high-performance, low-latency systems that process real-time market data across centralized and decentralized exchanges.
 
-- 🔗 **Coinhelio Founder:** Building innovative crypto analytics and trading solutions
-- 📈 **Investor & Arbitrage Buff:** Exploring coin and stock markets, seeking arbitrage opportunities
-- 🤖 **Continuous Learner:** Diving deep into AI and new programming paradigms
-- 🤝 **Collaborative Spirit:** Working with creative minds like **Bbaguette**, **Gomz Club**, and more
-- 💡 **Fun Fact:** Every bug is just an unsolved riddle waiting for a clever punchline!
+- 🏗️ **Coinhelio Founder** — Building institutional-grade crypto analytics and execution infrastructure
+- 📊 **Quantitative Systems** — Developing arbitrage engines, market-making algorithms, and cross-exchange hedging strategies
+- ⛓️ **Web3 Development** — Smart contract development, DeFi protocol integration, and on-chain data analysis
+- 🎓 **CS @ UMD** — Studying Machine Learning with focus on predictive modeling for financial markets
+- 🤝 **Collaborations** — **Bbaguette**, **Gomz Club**, and select Web3 projects
 
 ---
 
