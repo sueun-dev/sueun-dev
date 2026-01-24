@@ -29,7 +29,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 - 🏗️ **Coinhelio Founder** — Building institutional-grade crypto analytics and execution infrastructure
 - 📊 **Quantitative Systems** — Developing arbitrage engines, market-making algorithms, and cross-exchange hedging strategies
 - ⛓️ **Web3 Development** — Smart contract development, DeFi protocol integration, and on-chain data analysis
-- 🎓 **CS @ UMD** — Studying Machine Learning with focus on predictive modeling for financial markets
+- 🎓 **CS @ UMD** — Computer Science, University of Maryland - College Park
 - 🤝 **Collaborations** — **Bbaguette**, **Gomz Club**, and select Web3 projects
 
 ---
@@ -76,12 +76,6 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-### Data & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 </div>
 
 ---
@@ -104,7 +98,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | **Attribute** | **Details** |
 |---------------|-------------|
 | 🗣️ **Languages** | Korean, English |
-| 🎓 **Education** | **University of Maryland - College Park** <br>*Major: Computer Science - Machine Learning* |
+| 🎓 **Education** | **University of Maryland - College Park** <br>*Major: Computer Science* |
 
 ---
 
