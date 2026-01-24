@@ -88,20 +88,13 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sueun-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sueun-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph"/>
+
 </div>
 
 ---
 
-## 🌍 Languages & Education
-
-| **Attribute** | **Details** |
-|---------------|-------------|
-| 🗣️ **Languages** | Korean, English |
-| 🎓 **Education** | **University of Maryland - College Park** <br>*Major: Computer Science* |
-
----
-
-## 📫 Let's Connect
+## 📫 Contact
 
 <div align="center">
 
@@ -116,15 +109,6 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 
 <div align="center">
 
-### 🚀 Let's Code & Conquer!
-
-*Explore my repositories, drop me a line, or just say hi.*
-*Whether you want to discuss tech trends, share memes, or debate blockchain and financial arbitrage, I'm all ears!*
-
-**Happy coding and stay awesome!** 😎
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%"/>
 
 </div>
