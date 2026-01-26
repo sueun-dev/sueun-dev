@@ -18,6 +18,19 @@
 
 *Building the next generation crypto analytics platform*
 
+---
+
+### ⚡ Kernel Optimization Challenge
+
+[![Kernel Optimization](https://img.shields.io/badge/Rank_%23141-1,485_cycles-00C853?style=for-the-badge&labelColor=1a1a2e)](https://www.kerneloptimization.fun/)
+[![Recruiting Threshold](https://img.shields.io/badge/✓_Beat_Recruiting_Threshold-Success-00C853?style=for-the-badge&labelColor=1a1a2e)](https://www.kerneloptimization.fun/)
+
+<a href="https://www.kerneloptimization.fun/">
+  <img src="assets/kernel-optimization-rank.png" alt="Kernel Optimization Challenge - Rank #141" width="600"/>
+</a>
+
+*Anthropic's low-level performance optimization competition*
+
 </div>
 
 ---
@@ -29,7 +42,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 - 🏗️ **Coinhelio Founder** — Building institutional-grade crypto analytics and execution infrastructure
 - 📊 **Quantitative Systems** — Developing arbitrage engines, market-making algorithms, and cross-exchange hedging strategies
 - ⛓️ **Web3 Development** — Smart contract development, DeFi protocol integration, and on-chain data analysis
-- ⚡ **[Kernel Optimization Challenge](https://www.kerneloptimization.fun/)** — Ranked #172 in Anthropic's low-level performance optimization competition
+- ⚡ **[Kernel Optimization Challenge](https://www.kerneloptimization.fun/)** — Ranked **#141** (1,485 cycles) - Beat recruiting threshold!
 - 🎓 **CS @ UMD** — Computer Science, University of Maryland - College Park
 
 ---
