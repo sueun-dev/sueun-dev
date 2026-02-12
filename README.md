@@ -98,10 +98,10 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sueun-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sueun-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sueun-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sueun-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sueun-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sueun-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph"/>
 
