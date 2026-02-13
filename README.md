@@ -22,12 +22,12 @@
 
 ### ⚡ Kernel Optimization Challenge
 
-[![Kernel Optimization](https://img.shields.io/badge/Rank_%2373-1,159_cycles-00C853?style=for-the-badge&labelColor=1a1a2e)](https://www.kerneloptimization.fun/)
+[![Kernel Optimization](https://img.shields.io/badge/Rank_%2364-1,146_cycles-00C853?style=for-the-badge&labelColor=1a1a2e)](https://www.kerneloptimization.fun/)
 [![Beat Claude](https://img.shields.io/badge/✓_Beat_Claude-00C853?style=for-the-badge&labelColor=1a1a2e)](https://www.kerneloptimization.fun/)
 [![Recruiting Threshold](https://img.shields.io/badge/✓_Beat_Recruiting_Threshold-00C853?style=for-the-badge&labelColor=1a1a2e)](https://www.kerneloptimization.fun/)
 
 <a href="https://www.kerneloptimization.fun/">
-  <img src="assets/kernel-optimization-rank.png" alt="Kernel Optimization Challenge - Rank #73" width="600"/>
+  <img src="assets/kernel-optimization-rank.png" alt="Kernel Optimization Challenge - Rank #64" width="600"/>
 </a>
 
 *Anthropic's low-level performance optimization competition*
@@ -43,7 +43,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 - 🏗️ **Coinhelio Founder** — Building institutional-grade crypto analytics and execution infrastructure
 - 📊 **Quantitative Systems** — Developing arbitrage engines, market-making algorithms, and cross-exchange hedging strategies
 - ⛓️ **Web3 Development** — Smart contract development, DeFi protocol integration, and on-chain data analysis
-- ⚡ **[Kernel Optimization Challenge](https://www.kerneloptimization.fun/)** — Ranked **#73** (1,159 cycles) - Beat Claude!
+- ⚡ **[Kernel Optimization Challenge](https://www.kerneloptimization.fun/)** — Ranked **#64** (1,146 cycles) — Beat Claude
 - 🎓 **CS @ UMD** — Computer Science, University of Maryland - College Park
 
 ---
