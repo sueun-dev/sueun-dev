@@ -27,7 +27,7 @@
 [![Recruiting Threshold](https://img.shields.io/badge/✓_Beat_Recruiting_Threshold-00C853?style=for-the-badge&labelColor=1a1a2e)](https://www.kerneloptimization.fun/)
 
 <a href="https://www.kerneloptimization.fun/">
-  <img src="assets/kernel-optimization-rank.png" alt="Kernel Optimization Challenge - Rank #64" width="600"/>
+  <img src="assets/kernel-optimization-rank.png?v=2" alt="Kernel Optimization Challenge - Rank #64" width="600"/>
 </a>
 
 *Anthropic's low-level performance optimization competition*
