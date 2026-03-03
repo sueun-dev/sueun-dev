@@ -1,16 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:1A1A2E,100:6C63FF&section=header&text=Sueun%20Cho&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="header"/>
+<!-- Typing Animation Header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Sueun+Cho;Quantitative+Systems+Engineer;Blockchain+Infrastructure+Developer" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=760&lines=Quantitative+Systems+Engineer;Blockchain+Infrastructure+Developer;Building+Low-Latency+Trading+Systems" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sueun-dev&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/sueun-dev?style=for-the-badge&color=00C853&labelColor=1a1a2e" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/sueun-dev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F7931A&labelColor=1a1a2e" alt="Total Stars"/>
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=sueun-dev&style=for-the-badge&color=6C63FF" alt="Profile Views" />
 
 </div>
 
@@ -18,54 +12,47 @@
 
 <div align="center">
 
-### Founder and Builder
+### 🚀 Founder & Builder
 
-[![Coinhelio](https://img.shields.io/badge/Coinhelio-Founder-FFD700?style=for-the-badge&labelColor=1a1a2e)](https://coinhelio.com)
-[![UMD CS](https://img.shields.io/badge/UMD-CS-FF1744?style=for-the-badge&labelColor=1a1a2e)](https://www.cs.umd.edu/)
+[![Coinhelio](https://img.shields.io/badge/🌟_Coinhelio-Founder-FFD700?style=for-the-badge&labelColor=1a1a2e)](https://coinhelio.com)
 
-Building institutional-grade crypto analytics and execution infrastructure.
+*Building the next generation crypto analytics platform*
 
-### Kernel Optimization Challenge
+---
 
-[![Kernel Rank](https://img.shields.io/badge/Rank_%2369-1,146_cycles-00C853?style=for-the-badge&labelColor=1a1a2e)](https://www.kerneloptimization.fun/)
-[![Beat Claude](https://img.shields.io/badge/Beat_Claude_Opus_4.5-00C853?style=for-the-badge&labelColor=1a1a2e)](https://www.kerneloptimization.fun/)
-[![As of 2026-03-02](https://img.shields.io/badge/As_of-2026--03--02-6C63FF?style=for-the-badge&labelColor=1a1a2e)](https://www.kerneloptimization.fun/)
+### ⚡ Kernel Optimization Challenge
+
+[![Kernel Optimization](https://img.shields.io/badge/Rank_%2364-1,146_cycles-00C853?style=for-the-badge&labelColor=1a1a2e)](https://www.kerneloptimization.fun/)
+[![Beat Claude](https://img.shields.io/badge/✓_Beat_Claude-00C853?style=for-the-badge&labelColor=1a1a2e)](https://www.kerneloptimization.fun/)
+[![Recruiting Threshold](https://img.shields.io/badge/✓_Beat_Recruiting_Threshold-00C853?style=for-the-badge&labelColor=1a1a2e)](https://www.kerneloptimization.fun/)
 
 <a href="https://www.kerneloptimization.fun/">
-  <img src="assets/kernel-optimization-rank.png?v=4" alt="Kernel Optimization Challenge Result" width="680"/>
+  <img src="assets/kernel-optimization-rank.png?v=2" alt="Kernel Optimization Challenge - Rank #64" width="600"/>
 </a>
+
+*Anthropic's low-level performance optimization competition*
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I build high-performance systems for **quant trading** and **on-chain infrastructure**:
+Software Engineer specializing in **quantitative trading systems** and **blockchain infrastructure**. I architect high-performance, low-latency systems that process real-time market data across centralized and decentralized exchanges.
 
-- Arbitrage and hedging engines across CEX and DEX venues
-- Market data ingestion and low-latency execution pipelines
-- Smart contract integrations for DeFi workflows
-- Research-to-production quantitative tooling
-
----
-
-## Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [predict-market-arb](https://github.com/sueun-dev/predict-market-arb) | Event market arbitrage research and execution framework | Go, WebSocket |
-| [perp-dex-contango-bot](https://github.com/sueun-dev/perp-dex-contango-bot) | Perp/spot basis capture with risk-aware hedging | Python |
-| [kimchi-premium](https://github.com/sueun-dev/kimchi-premium) | Real-time KRW premium analytics across exchanges | C++ |
-| [upbit-alpha-desk](https://github.com/sueun-dev/upbit-alpha-desk) | Signal automation and trading desk utilities | TypeScript |
+- 🏗️ **Coinhelio Founder** — Building institutional-grade crypto analytics and execution infrastructure
+- 📊 **Quantitative Systems** — Developing arbitrage engines, market-making algorithms, and cross-exchange hedging strategies
+- ⛓️ **Web3 Development** — Smart contract development, DeFi protocol integration, and on-chain data analysis
+- ⚡ **[Kernel Optimization Challenge](https://www.kerneloptimization.fun/)** — Ranked **#64** (1,146 cycles) — Beat Claude
+- 🎓 **CS @ UMD** — Computer Science, University of Maryland - College Park
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Core
+### Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -73,28 +60,41 @@ I build high-performance systems for **quant trading** and **on-chain infrastruc
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Quant and Trading
+### Quantitative Trading & Finance
 ![Algorithmic Trading](https://img.shields.io/badge/Algorithmic_Trading-FF6B6B?style=for-the-badge&logo=tradingview&logoColor=white)
-![Arbitrage](https://img.shields.io/badge/Arbitrage_Systems-00C853?style=for-the-badge&logo=cashapp&logoColor=white)
+![Arbitrage Systems](https://img.shields.io/badge/Arbitrage_Systems-00C853?style=for-the-badge&logo=cashapp&logoColor=white)
 ![Market Making](https://img.shields.io/badge/Market_Making-7B1FA2?style=for-the-badge&logo=stripe&logoColor=white)
-![CEX/DEX](https://img.shields.io/badge/CEX%2FDEX_Integration-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![DeFi](https://img.shields.io/badge/DeFi_Protocols-1A1A2E?style=for-the-badge&logo=aave&logoColor=white)
+![CEX/DEX Integration](https://img.shields.io/badge/CEX%2FDEX_Integration-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 
-### Infrastructure
+### Blockchain & Web3
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.py](https://img.shields.io/badge/Web3.py-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+![CCIP](https://img.shields.io/badge/Chainlink_CCIP-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+
+### Backend & Real-time Systems
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Cloud & Infrastructure
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 </div>
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -109,7 +109,7 @@ I build high-performance systems for **quant trading** and **on-chain infrastruc
 
 ---
 
-## Contact
+## 📫 Contact
 
 <div align="center">
 
@@ -117,10 +117,14 @@ I build high-performance systems for **quant trading** and **on-chain infrastruc
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://sueun-dev.github.io/assets/sueun-cho-resume.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sueun.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sueun-cho-625262252/)
-[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cho_sueun)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/cho_sueun)
 
 </div>
 
+---
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:1A1A2E,100:6C63FF&section=footer" alt="footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%"/>
+
 </div>
