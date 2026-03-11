@@ -48,6 +48,19 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 
 ---
 
+## 🚩 Flagship Repositories
+
+| Repository | Focus |
+| --- | --- |
+| [crypto-market-neutral-platform](https://github.com/sueun-dev/crypto-market-neutral-platform) | Python platform for KRW premium and cross-exchange delta-neutral automation |
+| [krw-arbitrage-console](https://github.com/sueun-dev/krw-arbitrage-console) | TypeScript execution console and real-time premium monitoring stack |
+| [krw-premium-execution-engine](https://github.com/sueun-dev/krw-premium-execution-engine) | Low-latency C++ execution engine for KRW spot versus offshore perpetual hedging |
+| [prediction-market-arbitrage](https://github.com/sueun-dev/prediction-market-arbitrage) | Cross-venue prediction market scanner for Predict.fun and Polymarket |
+| [cross-perp-basis-engine](https://github.com/sueun-dev/cross-perp-basis-engine) | Delta-neutral perpetual basis engine across offshore venues |
+| [upbit-market-intelligence-console](https://github.com/sueun-dev/upbit-market-intelligence-console) | Full-stack Upbit market intelligence and listing strategy console |
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -117,7 +130,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://sueun-dev.github.io/assets/sueun-cho-resume.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sueun.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sueun-cho-625262252/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/cho_sueun)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Bentley_Cho)
 
 </div>
 
