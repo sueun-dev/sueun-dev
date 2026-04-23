@@ -66,7 +66,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | Project | Contribution |
 | --- | --- |
 | [ethrex](https://github.com/lambdaclass/ethrex) | [PR #6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
-| [eth2030](https://github.com/jiayaoqijia/eth2030) | [PR #31](https://github.com/jiayaoqijia/eth2030/pull/31) fix: harden shielded circuit witness and proof validation |
+| [matcha](https://github.com/floatpane/matcha) | [PR #525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
 
 ---
 
