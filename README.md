@@ -54,7 +54,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | --- | --- |
 | [crypto-market-neutral-platform](https://github.com/sueun-dev/crypto-market-neutral-platform) | Python platform for KRW premium and cross-exchange delta-neutral automation |
 | [krw-arbitrage-console](https://github.com/sueun-dev/krw-arbitrage-console) | TypeScript execution console and real-time premium monitoring stack |
-| [krw-premium-execution-engine](https://github.com/sueun-dev/krw-premium-execution-engine) | Low-latency C++ execution engine for KRW spot versus offshore perpetual hedging |
+| [spot-spot-relay-arbitrage](https://github.com/sueun-dev/spot-spot-relay-arbitrage) | Low-latency C++ execution engine for KRW spot versus offshore perpetual hedging |
 | [prediction-market-arbitrage](https://github.com/sueun-dev/prediction-market-arbitrage) | Cross-venue prediction market scanner for Predict.fun and Polymarket |
 | [cross-perp-basis-engine](https://github.com/sueun-dev/cross-perp-basis-engine) | Delta-neutral perpetual basis engine across offshore venues |
 | [upbit-market-intelligence-console](https://github.com/sueun-dev/upbit-market-intelligence-console) | Full-stack Upbit market intelligence and listing strategy console |
