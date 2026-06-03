@@ -63,10 +63,14 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 
 ## 🌍 Open Source Contributions
 
-| Project | Contribution |
-| --- | --- |
-| [ethrex](https://github.com/lambdaclass/ethrex) | [PR #6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
-| [matcha](https://github.com/floatpane/matcha) | [PR #525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
+| Project | Stars | Contribution |
+| --- | --- | --- |
+| [getsentry/responses](https://github.com/getsentry/responses) | ⭐ 4.3k | [#797](https://github.com/getsentry/responses/pull/797) docs: update tox Python version examples |
+| [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 890 | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
+| [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 878 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
+| [near/borsh-rs](https://github.com/near/borsh-rs) | ⭐ 429 | [#369](https://github.com/near/borsh-rs/pull/369) fix: handle PhantomData in enum schema derive |
+| [ava-labs/firewood](https://github.com/ava-labs/firewood) | ⭐ 145 | [#2037](https://github.com/ava-labs/firewood/pull/2037) test(fwdctl): refactor CLI test setup |
+| [jiayaoqijia/eth2030](https://github.com/jiayaoqijia/eth2030) | ⭐ 99 | [#31](https://github.com/jiayaoqijia/eth2030/pull/31) fix: harden shielded circuit witness and proof validation |
 
 ---
 
