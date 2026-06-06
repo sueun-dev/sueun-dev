@@ -1,24 +1,19 @@
 #!/usr/bin/env python3
-"""Regenerate the auto-updating parts of the profile README.
+"""Regenerate the auto-updating part of the profile README.
 
-Two outputs, both driven by the GitHub Search/REST API:
+Open Source Contributions table — merged pull requests to repositories the user
+does not own, sorted by upstream stars. Rewritten between the
+``<!-- OSS-CONTRIBUTIONS:START -->`` / ``...:END -->`` markers in README.md.
 
-1. Open Source Contributions table — merged pull requests to repositories the
-   user does not own, sorted by upstream stars. Rewritten between the
-   ``<!-- OSS-CONTRIBUTIONS:START -->`` / ``...:END -->`` markers in README.md.
-2. Merged-PR activity chart — a cumulative line chart of every merged PR over
-   time, written to assets/pr-activity.svg.
-
-Runs locally (``GH_TOKEN=$(gh auth token) python scripts/update_profile.py``)
-and in CI via .github/workflows/update-profile.yml.
+Driven by the GitHub Search/REST API. Runs locally
+(``GH_TOKEN=$(gh auth token) python scripts/update_profile.py``) and in CI via
+.github/workflows/update-profile.yml.
 """
 from __future__ import annotations
 
-import calendar
 import gzip
 import http.client
 import json
-import math
 import os
 import re
 import sys
@@ -26,8 +21,6 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
-from collections import defaultdict
-from datetime import datetime, timezone
 
 USER = "sueun-dev"
 
@@ -51,7 +44,6 @@ MAX_ROWS = 12
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 README_PATH = os.path.join(ROOT, "README.md")
-SVG_PATH = os.path.join(ROOT, "assets", "pr-activity.svg")
 
 API = "https://api.github.com"
 TOKEN = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
@@ -224,145 +216,6 @@ def replace_marked(content: str, marker: str, body: str) -> str:
 
 
 # --------------------------------------------------------------------------- #
-# Cumulative merged-PR SVG chart
-# --------------------------------------------------------------------------- #
-def monthly_cumulative(prs: list[dict]) -> list[tuple[str, int]]:
-    """Return [(YYYY-MM, cumulative_count)] from first merged month to now."""
-    per_month: dict[str, int] = defaultdict(int)
-    for pr in prs:
-        when = pr.get("closed_at") or pr.get("created_at")
-        if not when:
-            continue
-        per_month[when[:7]] += 1
-    if not per_month:
-        return []
-
-    first = min(per_month)
-    now = datetime.now(timezone.utc)
-    y, m = int(first[:4]), int(first[5:7])
-    series: list[tuple[str, int]] = []
-    cumulative = 0
-    while (y, m) <= (now.year, now.month):
-        key = f"{y:04d}-{m:02d}"
-        cumulative += per_month.get(key, 0)
-        series.append((key, cumulative))
-        m += 1
-        if m > 12:
-            m, y = 1, y + 1
-    return series
-
-
-def nice_scale(maxval: int) -> tuple[int, int]:
-    """Return (axis_max, step) giving 3-6 gridlines for a clean y-axis."""
-    if maxval <= 0:
-        return 1, 1
-    for step in [1, 2, 5, 10, 20, 25, 50, 100, 200, 250, 500, 1000, 2000, 5000]:
-        ticks = math.ceil(maxval / step)
-        if 3 <= ticks <= 6:
-            return step * ticks, step
-    step = 10 ** math.ceil(math.log10(maxval))
-    return step, max(step // 5, 1)
-
-
-def month_label(key: str) -> str:
-    y, m = key.split("-")
-    return f"{calendar.month_abbr[int(m)]} '{y[2:]}"
-
-
-def build_svg(series: list[tuple[str, int]], total: int) -> str:
-    W, H = 800, 220
-    L, R, T, B = 48, 40, 46, 34
-    plot_w, plot_h = W - L - R, H - T - B
-    baseline = T + plot_h
-
-    ymax, step = nice_scale(series[-1][1] if series else 1)
-    n = len(series)
-
-    def px(i: int) -> float:
-        return L + (plot_w / 2 if n == 1 else plot_w * i / (n - 1))
-
-    def py(v: int) -> float:
-        return baseline - plot_h * v / ymax
-
-    pts = [(px(i), py(v)) for i, (_, v) in enumerate(series)]
-
-    line = "M " + " L ".join(f"{x:.1f},{y:.1f}" for x, y in pts)
-    area = (
-        f"M {pts[0][0]:.1f},{baseline:.1f} "
-        + "L " + " L ".join(f"{x:.1f},{y:.1f}" for x, y in pts)
-        + f" L {pts[-1][0]:.1f},{baseline:.1f} Z"
-    )
-
-    # Horizontal gridlines + y labels.
-    grid = []
-    v = 0
-    while v <= ymax:
-        y = py(v)
-        grid.append(
-            f'<line x1="{L}" y1="{y:.1f}" x2="{W - R}" y2="{y:.1f}" '
-            f'stroke="#1e2633" stroke-width="1"/>'
-            f'<text x="{L - 8}" y="{y + 4:.1f}" text-anchor="end" '
-            f'class="ax">{v}</text>'
-        )
-        v += step
-
-    # ~6 x labels, evenly spaced.
-    xlabels = []
-    label_count = min(6, n)
-    if label_count > 0:
-        idxs = (
-            [0]
-            if label_count == 1
-            else [round(i * (n - 1) / (label_count - 1)) for i in range(label_count)]
-        )
-        ordered = sorted(set(idxs))
-        for i in ordered:
-            # Keep the edge labels inside the canvas instead of centering them.
-            anchor = "start" if i == 0 else "end" if i == n - 1 else "middle"
-            xlabels.append(
-                f'<text x="{px(i):.1f}" y="{baseline + 14:.1f}" text-anchor="{anchor}" '
-                f'class="ax">{month_label(series[i][0])}</text>'
-            )
-
-    end_x, end_y = pts[-1]
-    updated = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" \
-width="{W}" height="{H}" role="img" aria-label="Cumulative merged pull requests over time">
-  <defs>
-    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#bb9af7"/>
-      <stop offset="100%" stop-color="#7aa2f7"/>
-    </linearGradient>
-    <style>
-      text {{ font-family: 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; }}
-      .title {{ fill: #c9d1d9; font-size: 15px; font-weight: 600; }}
-      .total {{ fill: #bb9af7; font-size: 13px; font-weight: 600; }}
-      .ax {{ fill: #6b7785; font-size: 10px; }}
-      .upd {{ fill: #3d4754; font-size: 9px; }}
-    </style>
-  </defs>
-  <rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="10"
-        fill="#0d1117" stroke="#1e2633"/>
-  <text x="20" y="28" class="title">Merged Pull Requests Over Time</text>
-  <text x="{W - R}" y="28" text-anchor="end" class="total">{total} merged</text>
-  {''.join(grid)}
-  <path d="{area}" fill="url(#area)"/>
-  <path d="{line}" fill="none" stroke="url(#stroke)" stroke-width="2.5"
-        stroke-linejoin="round" stroke-linecap="round"/>
-  <circle cx="{end_x:.1f}" cy="{end_y:.1f}" r="4" fill="#bb9af7"
-          stroke="#0d1117" stroke-width="2"/>
-  {''.join(xlabels)}
-  <text x="20" y="{H - 7}" text-anchor="start" class="upd">updated {updated}</text>
-</svg>
-"""
-
-
-# --------------------------------------------------------------------------- #
 # Main
 # --------------------------------------------------------------------------- #
 def main() -> int:
@@ -383,17 +236,6 @@ def main() -> int:
     with open(README_PATH, "w", encoding="utf-8") as fh:
         fh.write(readme)
     print(f"  wrote {README_PATH}")
-
-    print("Rendering merged-PR activity chart...")
-    series = monthly_cumulative(prs)
-    if series:
-        svg = build_svg(series, len(prs))
-        os.makedirs(os.path.dirname(SVG_PATH), exist_ok=True)
-        with open(SVG_PATH, "w", encoding="utf-8") as fh:
-            fh.write(svg)
-        print(f"  wrote {SVG_PATH} ({series[-1][1]} cumulative over {len(series)} months)")
-    else:
-        print("  no PR history to chart")
 
     return 0
 

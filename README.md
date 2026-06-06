@@ -148,16 +148,6 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 
 ---
 
-## 📈 Pull Request Activity
-
-<div align="center">
-
-<img src="assets/pr-activity.svg" width="100%" alt="Cumulative merged pull requests over time"/>
-
-</div>
-
----
-
 ## 📫 Contact
 
 <div align="center">

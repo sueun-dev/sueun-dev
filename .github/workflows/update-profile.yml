@@ -28,7 +28,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Regenerate README sections + PR chart
+      - name: Regenerate README OSS contributions table
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_profile.py
@@ -38,7 +38,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if [[ -n "$(git status --porcelain)" ]]; then
-            git add README.md assets/pr-activity.svg
+            git add README.md
             git commit -m "chore: refresh profile stats [skip ci]"
             git push
           else
