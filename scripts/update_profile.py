@@ -188,10 +188,21 @@ def build_oss_table(prs: list[dict], exclude: set[str]) -> str:
         )
 
     rows.sort(key=lambda r: r["stars"], reverse=True)
-    rows = rows[:MAX_ROWS]
 
-    lines = ["| Project | Stars | Contribution |", "| --- | --- | --- |"]
-    for r in rows:
+    # Impact summary across every qualifying external project (pre-cap).
+    total_stars = sum(r["stars"] for r in rows)
+    total_projects = len(rows)
+    total_prs = sum(r["count"] for r in rows)
+
+    lines = [
+        f"<p><strong>🌟 {fmt_stars(total_stars)}+ stars reached"
+        f" &nbsp;·&nbsp; {total_projects} open-source projects"
+        f" &nbsp;·&nbsp; {total_prs} merged PRs</strong></p>",
+        "",
+        "| Project | Stars | Contribution |",
+        "| --- | --- | --- |",
+    ]
+    for r in rows[:MAX_ROWS]:
         extra = f" · +{r['count'] - 1} more" if r["count"] > 1 else ""
         lines.append(
             f"| [{r['full_name']}]({r['repo_url']}) | ⭐ {fmt_stars(r['stars'])} | "
@@ -260,7 +271,7 @@ def month_label(key: str) -> str:
 
 def build_svg(series: list[tuple[str, int]], total: int) -> str:
     W, H = 800, 220
-    L, R, T, B = 48, 24, 46, 34
+    L, R, T, B = 48, 40, 46, 34
     plot_w, plot_h = W - L - R, H - T - B
     baseline = T + plot_h
 
@@ -309,7 +320,7 @@ def build_svg(series: list[tuple[str, int]], total: int) -> str:
             # Keep the edge labels inside the canvas instead of centering them.
             anchor = "start" if i == 0 else "end" if i == n - 1 else "middle"
             xlabels.append(
-                f'<text x="{px(i):.1f}" y="{baseline + 18:.1f}" text-anchor="{anchor}" '
+                f'<text x="{px(i):.1f}" y="{baseline + 14:.1f}" text-anchor="{anchor}" '
                 f'class="ax">{month_label(series[i][0])}</text>'
             )
 
@@ -346,7 +357,7 @@ width="{W}" height="{H}" role="img" aria-label="Cumulative merged pull requests 
   <circle cx="{end_x:.1f}" cy="{end_y:.1f}" r="4" fill="#bb9af7"
           stroke="#0d1117" stroke-width="2"/>
   {''.join(xlabels)}
-  <text x="{W - R}" y="{H - 10}" text-anchor="end" class="upd">updated {updated}</text>
+  <text x="20" y="{H - 7}" text-anchor="start" class="upd">updated {updated}</text>
 </svg>
 """
 

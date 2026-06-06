@@ -1,10 +1,17 @@
 <div align="center">
 
-<!-- Typing Animation Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Sueun+Cho;Quantitative+Systems+Engineer;Blockchain+Infrastructure+Developer" alt="Typing SVG" /></a>
+<!-- Header Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=170&section=header&text=Sueun%20Cho&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Sueun Cho"/>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=sueun-dev&style=for-the-badge&color=6C63FF" alt="Profile Views" />
+<!-- Typing Animation Subtitle -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=620&lines=Quantitative+Systems+Engineer;Blockchain+Infrastructure+Developer;Founder+%40+Coinhelio;Kernel+Optimization+Rank+%2364+%E2%80%94+Beat+Claude" alt="Typing SVG" /></a>
+
+<!-- Badges Row -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sueun-dev&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sueun-dev?style=for-the-badge&color=6C63FF&labelColor=1a1a2e&logo=github&logoColor=white&label=Followers" alt="Followers" />
+  <a href="https://coinhelio.com"><img src="https://img.shields.io/badge/Focus-Quant_·_Crypto_·_Web3-6C63FF?style=for-the-badge&labelColor=1a1a2e" alt="Focus" /></a>
+</p>
 
 </div>
 
@@ -66,6 +73,8 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
+<p><strong>🌟 6.8k+ stars reached &nbsp;·&nbsp; 6 open-source projects &nbsp;·&nbsp; 6 merged PRs</strong></p>
+
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [getsentry/responses](https://github.com/getsentry/responses) | ⭐ 4.3k | [#797](https://github.com/getsentry/responses/pull/797) docs: update tox Python version examples |
