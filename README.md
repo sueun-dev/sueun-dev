@@ -47,11 +47,9 @@
 
 Software Engineer specializing in **quantitative trading systems** and **blockchain infrastructure**. I architect high-performance, low-latency systems that process real-time market data across centralized and decentralized exchanges.
 
-- 🏗️ **Coinhelio Founder** — Building institutional-grade crypto analytics and execution infrastructure
-- 📊 **Quantitative Systems** — Developing arbitrage engines, market-making algorithms, and cross-exchange hedging strategies
+- 📊 **Quantitative Systems** — Arbitrage engines, market-making algorithms, and cross-exchange hedging strategies
 - ⛓️ **Web3 Development** — Smart contract development, DeFi protocol integration, and on-chain data analysis
-- ⚡ **[Kernel Optimization Challenge](https://www.kerneloptimization.fun/)** — Ranked **#64** (1,146 cycles) — Beat Claude
-- 🎓 **CS @ UMD** — Computer Science, University of Maryland - College Park
+- 🎓 **CS @ UMD** — Computer Science, University of Maryland · College Park
 
 ---
 
@@ -81,7 +79,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [besu-eth/besu](https://github.com/besu-eth/besu) | ⭐ 1.8k | [#10566](https://github.com/besu-eth/besu/pull/10566) fix(discv5): lower verbose logs to trace |
 | [carapace-sh/carapace](https://github.com/carapace-sh/carapace) | ⭐ 1.3k | [#1232](https://github.com/carapace-sh/carapace/pull/1232) Document zsh case-insensitive matching setup |
 | [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 948 | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
-| [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 876 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
+| [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 875 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
 | [near/borsh-rs](https://github.com/near/borsh-rs) | ⭐ 429 | [#369](https://github.com/near/borsh-rs/pull/369) fix: handle PhantomData in enum schema derive |
 | [ava-labs/firewood](https://github.com/ava-labs/firewood) | ⭐ 153 | [#2037](https://github.com/ava-labs/firewood/pull/2037) test(fwdctl): refactor CLI test setup |
 | [jiayaoqijia/eth2030](https://github.com/jiayaoqijia/eth2030) | ⭐ 99 | [#31](https://github.com/jiayaoqijia/eth2030/pull/31) fix: harden shielded circuit witness and proof validation |
@@ -91,7 +89,8 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 
 ## 🔧 In Review
 
-> 🤖 Auto-updated — open pull requests currently under review in external repositories.
+<details>
+<summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
 <p><strong>🔍 13 open PRs in review &nbsp;·&nbsp; 13 projects &nbsp;·&nbsp; ⭐ 15.3k+ combined</strong></p>
@@ -113,6 +112,8 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [ScopeLift/stealth-address-sdk](https://github.com/ScopeLift/stealth-address-sdk) | ⭐ 51 | [#117](https://github.com/ScopeLift/stealth-address-sdk/pull/117) fix: dedupe sender transaction lookups |
 <!-- OSS-IN-REVIEW:END -->
 
+</details>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -127,35 +128,9 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Quantitative Trading & Finance
-![Algorithmic Trading](https://img.shields.io/badge/Algorithmic_Trading-FF6B6B?style=for-the-badge&logo=tradingview&logoColor=white)
-![Arbitrage Systems](https://img.shields.io/badge/Arbitrage_Systems-00C853?style=for-the-badge&logo=cashapp&logoColor=white)
-![Market Making](https://img.shields.io/badge/Market_Making-7B1FA2?style=for-the-badge&logo=stripe&logoColor=white)
-![DeFi](https://img.shields.io/badge/DeFi_Protocols-1A1A2E?style=for-the-badge&logo=aave&logoColor=white)
-![CEX/DEX Integration](https://img.shields.io/badge/CEX%2FDEX_Integration-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-
-### Blockchain & Web3
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.py](https://img.shields.io/badge/Web3.py-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
-![CCIP](https://img.shields.io/badge/Chainlink_CCIP-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
-
-### Backend & Real-time Systems
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Cloud & Infrastructure
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+**Quant & Finance** — Algorithmic Trading · Arbitrage · Market-Making · DeFi · CEX/DEX  
+**Blockchain** — Ethereum · Hardhat · Ethers.js · Web3.py · OpenZeppelin · Chainlink CCIP  
+**Backend & Infra** — FastAPI · Node.js · Redis · PostgreSQL · Docker · Kubernetes · GCP / AWS · Terraform
 
 </div>
 
@@ -165,12 +140,8 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sueun-dev&show_icons=true&show[]=reviews&show[]=discussions_started&show[]=discussions_answered&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=sueun-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="170"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sueun-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sueun-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sueun-dev&show_icons=true&show[]=reviews&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sueun-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
 
 </div>
 
