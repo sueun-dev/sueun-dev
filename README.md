@@ -93,19 +93,18 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 13 open PRs in review &nbsp;·&nbsp; 13 projects &nbsp;·&nbsp; ⭐ 15.3k+ combined</strong></p>
+<p><strong>🔍 12 open PRs in review &nbsp;·&nbsp; 12 projects &nbsp;·&nbsp; ⭐ 11.8k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) | ⭐ 4.6k | [#186](https://github.com/tailwindlabs/tailwindcss-forms/pull/186) docs: clarify checkbox checked background colors |
-| [sigp/lighthouse](https://github.com/sigp/lighthouse) | ⭐ 3.4k | [#9374](https://github.com/sigp/lighthouse/pull/9374) Expose process_cpu_seconds_total as a counter |
 | [anza-xyz/agave](https://github.com/anza-xyz/agave) | ⭐ 1.8k | [#12843](https://github.com/anza-xyz/agave/pull/12843) install: handle fish shell path setup |
 | [nats-io/nats.rs](https://github.com/nats-io/nats.rs) | ⭐ 1.5k | [#1597](https://github.com/nats-io/nats.rs/pull/1597) Improve stream overlap error context |
 | [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) | ⭐ 992 | [#5019](https://github.com/celestiaorg/celestia-node/pull/5019) share: add RowsWithNamespace tests |
 | [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) | ⭐ 824 | [#414](https://github.com/duneanalytics/evm.codes/pull/414) Fix API method guards |
 | [openapistack/openapi-backend](https://github.com/openapistack/openapi-backend) | ⭐ 683 | [#903](https://github.com/openapistack/openapi-backend/pull/903) fix: honor optional request bodies during validation |
-| [solana-foundation/surfpool](https://github.com/solana-foundation/surfpool) | ⭐ 563 | [#681](https://github.com/solana-foundation/surfpool/pull/681) docs: document Studio UI build inputs |
-| [pinecone-io/python-sdk](https://github.com/pinecone-io/python-sdk) | ⭐ 446 | [#675](https://github.com/pinecone-io/python-sdk/pull/675) Validate dry_run update mode |
+| [solana-foundation/surfpool](https://github.com/solana-foundation/surfpool) | ⭐ 564 | [#681](https://github.com/solana-foundation/surfpool/pull/681) docs: document Studio UI build inputs |
+| [pinecone-io/python-sdk](https://github.com/pinecone-io/python-sdk) | ⭐ 447 | [#675](https://github.com/pinecone-io/python-sdk/pull/675) Validate dry_run update mode |
 | [psf/pypistats.org](https://github.com/psf/pypistats.org) | ⭐ 195 | [#108](https://github.com/psf/pypistats.org/pull/108) Document development setup prerequisites |
 | [PostHog/duckgres](https://github.com/PostHog/duckgres) | ⭐ 133 | [#678](https://github.com/PostHog/duckgres/pull/678) Fix file persistence session initialization |
 | [dfinity/evm-rpc-canister](https://github.com/dfinity/evm-rpc-canister) | ⭐ 84 | [#596](https://github.com/dfinity/evm-rpc-canister/pull/596) feat: derive Hash for evm_rpc_types hex wrappers |
