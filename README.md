@@ -106,7 +106,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [solana-foundation/surfpool](https://github.com/solana-foundation/surfpool) | ⭐ 564 | [#681](https://github.com/solana-foundation/surfpool/pull/681) docs: document Studio UI build inputs |
 | [pinecone-io/python-sdk](https://github.com/pinecone-io/python-sdk) | ⭐ 447 | [#675](https://github.com/pinecone-io/python-sdk/pull/675) Validate dry_run update mode |
 | [psf/pypistats.org](https://github.com/psf/pypistats.org) | ⭐ 195 | [#108](https://github.com/psf/pypistats.org/pull/108) Document development setup prerequisites |
-| [PostHog/duckgres](https://github.com/PostHog/duckgres) | ⭐ 133 | [#678](https://github.com/PostHog/duckgres/pull/678) Fix file persistence session initialization |
+| [PostHog/duckgres](https://github.com/PostHog/duckgres) | ⭐ 134 | [#678](https://github.com/PostHog/duckgres/pull/678) Fix file persistence session initialization |
 | [dfinity/evm-rpc-canister](https://github.com/dfinity/evm-rpc-canister) | ⭐ 84 | [#596](https://github.com/dfinity/evm-rpc-canister/pull/596) feat: derive Hash for evm_rpc_types hex wrappers |
 | [ScopeLift/stealth-address-sdk](https://github.com/ScopeLift/stealth-address-sdk) | ⭐ 51 | [#117](https://github.com/ScopeLift/stealth-address-sdk/pull/117) fix: dedupe sender transaction lookups |
 <!-- OSS-IN-REVIEW:END -->
