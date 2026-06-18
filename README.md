@@ -78,8 +78,8 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [getsentry/responses](https://github.com/getsentry/responses) | ⭐ 4.3k | [#797](https://github.com/getsentry/responses/pull/797) docs: update tox Python version examples |
 | [besu-eth/besu](https://github.com/besu-eth/besu) | ⭐ 1.8k | [#10566](https://github.com/besu-eth/besu/pull/10566) fix(discv5): lower verbose logs to trace |
 | [carapace-sh/carapace](https://github.com/carapace-sh/carapace) | ⭐ 1.3k | [#1232](https://github.com/carapace-sh/carapace/pull/1232) Document zsh case-insensitive matching setup |
-| [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 955 | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
-| [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 876 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
+| [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 956 | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
+| [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 875 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
 | [near/borsh-rs](https://github.com/near/borsh-rs) | ⭐ 429 | [#369](https://github.com/near/borsh-rs/pull/369) fix: handle PhantomData in enum schema derive |
 | [ava-labs/firewood](https://github.com/ava-labs/firewood) | ⭐ 153 | [#2037](https://github.com/ava-labs/firewood/pull/2037) test(fwdctl): refactor CLI test setup |
 | [jiayaoqijia/eth2030](https://github.com/jiayaoqijia/eth2030) | ⭐ 99 | [#31](https://github.com/jiayaoqijia/eth2030/pull/31) fix: harden shielded circuit witness and proof validation |
@@ -106,7 +106,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [solana-foundation/surfpool](https://github.com/solana-foundation/surfpool) | ⭐ 564 | [#681](https://github.com/solana-foundation/surfpool/pull/681) docs: document Studio UI build inputs |
 | [pinecone-io/python-sdk](https://github.com/pinecone-io/python-sdk) | ⭐ 447 | [#675](https://github.com/pinecone-io/python-sdk/pull/675) Validate dry_run update mode |
 | [psf/pypistats.org](https://github.com/psf/pypistats.org) | ⭐ 194 | [#108](https://github.com/psf/pypistats.org/pull/108) Document development setup prerequisites |
-| [PostHog/duckgres](https://github.com/PostHog/duckgres) | ⭐ 134 | [#678](https://github.com/PostHog/duckgres/pull/678) Fix file persistence session initialization |
+| [PostHog/duckgres](https://github.com/PostHog/duckgres) | ⭐ 135 | [#678](https://github.com/PostHog/duckgres/pull/678) Fix file persistence session initialization |
 | [dfinity/evm-rpc-canister](https://github.com/dfinity/evm-rpc-canister) | ⭐ 84 | [#596](https://github.com/dfinity/evm-rpc-canister/pull/596) feat: derive Hash for evm_rpc_types hex wrappers |
 | [ScopeLift/stealth-address-sdk](https://github.com/ScopeLift/stealth-address-sdk) | ⭐ 51 | [#117](https://github.com/ScopeLift/stealth-address-sdk/pull/117) fix: dedupe sender transaction lookups |
 <!-- OSS-IN-REVIEW:END -->
