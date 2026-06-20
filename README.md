@@ -93,7 +93,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 12 open PRs in review &nbsp;·&nbsp; 12 projects &nbsp;·&nbsp; ⭐ 11.8k+ combined</strong></p>
+<p><strong>🔍 13 open PRs in review &nbsp;·&nbsp; 13 projects &nbsp;·&nbsp; ⭐ 12k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -104,9 +104,10 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) | ⭐ 824 | [#414](https://github.com/duneanalytics/evm.codes/pull/414) Fix API method guards |
 | [openapistack/openapi-backend](https://github.com/openapistack/openapi-backend) | ⭐ 683 | [#903](https://github.com/openapistack/openapi-backend/pull/903) fix: honor optional request bodies during validation |
 | [solana-foundation/surfpool](https://github.com/solana-foundation/surfpool) | ⭐ 564 | [#681](https://github.com/solana-foundation/surfpool/pull/681) docs: document Studio UI build inputs |
-| [pinecone-io/python-sdk](https://github.com/pinecone-io/python-sdk) | ⭐ 447 | [#675](https://github.com/pinecone-io/python-sdk/pull/675) Validate dry_run update mode |
+| [pinecone-io/python-sdk](https://github.com/pinecone-io/python-sdk) | ⭐ 448 | [#675](https://github.com/pinecone-io/python-sdk/pull/675) Validate dry_run update mode |
 | [psf/pypistats.org](https://github.com/psf/pypistats.org) | ⭐ 194 | [#108](https://github.com/psf/pypistats.org/pull/108) Document development setup prerequisites |
 | [PostHog/duckgres](https://github.com/PostHog/duckgres) | ⭐ 135 | [#678](https://github.com/PostHog/duckgres/pull/678) Fix file persistence session initialization |
+| [alloy-rs/chains](https://github.com/alloy-rs/chains) | ⭐ 107 | [#300](https://github.com/alloy-rs/chains/pull/300) docs: correct etherscan url examples in Chain spec |
 | [dfinity/evm-rpc-canister](https://github.com/dfinity/evm-rpc-canister) | ⭐ 84 | [#596](https://github.com/dfinity/evm-rpc-canister/pull/596) feat: derive Hash for evm_rpc_types hex wrappers |
 | [ScopeLift/stealth-address-sdk](https://github.com/ScopeLift/stealth-address-sdk) | ⭐ 51 | [#117](https://github.com/ScopeLift/stealth-address-sdk/pull/117) fix: dedupe sender transaction lookups |
 <!-- OSS-IN-REVIEW:END -->
