@@ -71,14 +71,15 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 10k+ stars reached &nbsp;·&nbsp; 8 open-source projects &nbsp;·&nbsp; 8 merged PRs</strong></p>
+<p><strong>🌟 19.8k+ stars reached &nbsp;·&nbsp; 9 open-source projects &nbsp;·&nbsp; 9 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
+| [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.7k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
 | [getsentry/responses](https://github.com/getsentry/responses) | ⭐ 4.3k | [#797](https://github.com/getsentry/responses/pull/797) docs: update tox Python version examples |
 | [besu-eth/besu](https://github.com/besu-eth/besu) | ⭐ 1.8k | [#10566](https://github.com/besu-eth/besu/pull/10566) fix(discv5): lower verbose logs to trace |
 | [carapace-sh/carapace](https://github.com/carapace-sh/carapace) | ⭐ 1.4k | [#1232](https://github.com/carapace-sh/carapace/pull/1232) Document zsh case-insensitive matching setup |
-| [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 967 | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
+| [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 971 | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
 | [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 878 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
 | [near/borsh-rs](https://github.com/near/borsh-rs) | ⭐ 429 | [#369](https://github.com/near/borsh-rs/pull/369) fix: handle PhantomData in enum schema derive |
 | [ava-labs/firewood](https://github.com/ava-labs/firewood) | ⭐ 153 | [#2037](https://github.com/ava-labs/firewood/pull/2037) test(fwdctl): refactor CLI test setup |
@@ -93,11 +94,10 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 16 open PRs in review &nbsp;·&nbsp; 16 projects &nbsp;·&nbsp; ⭐ 33.8k+ combined</strong></p>
+<p><strong>🔍 15 open PRs in review &nbsp;·&nbsp; 15 projects &nbsp;·&nbsp; ⭐ 24k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.7k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 8.8k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) | ⭐ 4.6k | [#186](https://github.com/tailwindlabs/tailwindcss-forms/pull/186) docs: clarify checkbox checked background colors |
 | [charmbracelet/log](https://github.com/charmbracelet/log) | ⭐ 3.3k | [#218](https://github.com/charmbracelet/log/pull/218) docs: fix README install path to charm.land/log/v2 |
@@ -112,6 +112,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [PostHog/duckgres](https://github.com/PostHog/duckgres) | ⭐ 135 | [#678](https://github.com/PostHog/duckgres/pull/678) Fix file persistence session initialization |
 | [alloy-rs/chains](https://github.com/alloy-rs/chains) | ⭐ 107 | [#300](https://github.com/alloy-rs/chains/pull/300) docs: correct etherscan url examples in Chain spec |
 | [dfinity/evm-rpc-canister](https://github.com/dfinity/evm-rpc-canister) | ⭐ 84 | [#596](https://github.com/dfinity/evm-rpc-canister/pull/596) feat: derive Hash for evm_rpc_types hex wrappers |
+| [ScopeLift/stealth-address-sdk](https://github.com/ScopeLift/stealth-address-sdk) | ⭐ 51 | [#117](https://github.com/ScopeLift/stealth-address-sdk/pull/117) fix: dedupe sender transaction lookups |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
