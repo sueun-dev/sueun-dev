@@ -79,7 +79,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [getsentry/responses](https://github.com/getsentry/responses) | ⭐ 4.3k | [#797](https://github.com/getsentry/responses/pull/797) docs: update tox Python version examples |
 | [besu-eth/besu](https://github.com/besu-eth/besu) | ⭐ 1.8k | [#10566](https://github.com/besu-eth/besu/pull/10566) fix(discv5): lower verbose logs to trace |
 | [carapace-sh/carapace](https://github.com/carapace-sh/carapace) | ⭐ 1.4k | [#1232](https://github.com/carapace-sh/carapace/pull/1232) Document zsh case-insensitive matching setup |
-| [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 971 | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
+| [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 973 | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
 | [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 878 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
 | [near/borsh-rs](https://github.com/near/borsh-rs) | ⭐ 429 | [#369](https://github.com/near/borsh-rs/pull/369) fix: handle PhantomData in enum schema derive |
 | [ava-labs/firewood](https://github.com/ava-labs/firewood) | ⭐ 153 | [#2037](https://github.com/ava-labs/firewood/pull/2037) test(fwdctl): refactor CLI test setup |
@@ -94,10 +94,11 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 15 open PRs in review &nbsp;·&nbsp; 15 projects &nbsp;·&nbsp; ⭐ 24k+ combined</strong></p>
+<p><strong>🔍 18 open PRs in review &nbsp;·&nbsp; 18 projects &nbsp;·&nbsp; ⭐ 49.3k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
+| [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.5k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 8.8k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) | ⭐ 4.6k | [#186](https://github.com/tailwindlabs/tailwindcss-forms/pull/186) docs: clarify checkbox checked background colors |
 | [charmbracelet/log](https://github.com/charmbracelet/log) | ⭐ 3.3k | [#218](https://github.com/charmbracelet/log/pull/218) docs: fix README install path to charm.land/log/v2 |
@@ -105,14 +106,13 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [nats-io/nats.rs](https://github.com/nats-io/nats.rs) | ⭐ 1.5k | [#1597](https://github.com/nats-io/nats.rs/pull/1597) Improve stream overlap error context |
 | [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) | ⭐ 992 | [#5019](https://github.com/celestiaorg/celestia-node/pull/5019) share: add RowsWithNamespace tests |
 | [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) | ⭐ 824 | [#414](https://github.com/duneanalytics/evm.codes/pull/414) Fix API method guards |
-| [openapistack/openapi-backend](https://github.com/openapistack/openapi-backend) | ⭐ 683 | [#903](https://github.com/openapistack/openapi-backend/pull/903) fix: honor optional request bodies during validation |
-| [solana-foundation/surfpool](https://github.com/solana-foundation/surfpool) | ⭐ 566 | [#681](https://github.com/solana-foundation/surfpool/pull/681) docs: document Studio UI build inputs |
+| [openapistack/openapi-backend](https://github.com/openapistack/openapi-backend) | ⭐ 682 | [#903](https://github.com/openapistack/openapi-backend/pull/903) fix: honor optional request bodies during validation |
+| [solana-foundation/surfpool](https://github.com/solana-foundation/surfpool) | ⭐ 567 | [#681](https://github.com/solana-foundation/surfpool/pull/681) docs: document Studio UI build inputs |
 | [pinecone-io/python-sdk](https://github.com/pinecone-io/python-sdk) | ⭐ 448 | [#675](https://github.com/pinecone-io/python-sdk/pull/675) Validate dry_run update mode |
+| [cli/go-gh](https://github.com/cli/go-gh) | ⭐ 423 | [#255](https://github.com/cli/go-gh/pull/255) Keep full precision for non-integer numbers in jq output |
+| [charmbracelet/x](https://github.com/charmbracelet/x) | ⭐ 300 | [#906](https://github.com/charmbracelet/x/pull/906) fix(ansi): reset parser state after grapheme cluster in Truncate |
 | [psf/pypistats.org](https://github.com/psf/pypistats.org) | ⭐ 195 | [#108](https://github.com/psf/pypistats.org/pull/108) Document development setup prerequisites |
-| [PostHog/duckgres](https://github.com/PostHog/duckgres) | ⭐ 135 | [#678](https://github.com/PostHog/duckgres/pull/678) Fix file persistence session initialization |
-| [alloy-rs/chains](https://github.com/alloy-rs/chains) | ⭐ 107 | [#300](https://github.com/alloy-rs/chains/pull/300) docs: correct etherscan url examples in Chain spec |
-| [dfinity/evm-rpc-canister](https://github.com/dfinity/evm-rpc-canister) | ⭐ 84 | [#596](https://github.com/dfinity/evm-rpc-canister/pull/596) feat: derive Hash for evm_rpc_types hex wrappers |
-| [ScopeLift/stealth-address-sdk](https://github.com/ScopeLift/stealth-address-sdk) | ⭐ 51 | [#117](https://github.com/ScopeLift/stealth-address-sdk/pull/117) fix: dedupe sender transaction lookups |
+| [PostHog/duckgres](https://github.com/PostHog/duckgres) | ⭐ 136 | [#678](https://github.com/PostHog/duckgres/pull/678) Fix file persistence session initialization |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
