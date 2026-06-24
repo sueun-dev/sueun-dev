@@ -71,11 +71,12 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 19.8k+ stars reached &nbsp;·&nbsp; 9 open-source projects &nbsp;·&nbsp; 9 merged PRs</strong></p>
+<p><strong>🌟 25k+ stars reached &nbsp;·&nbsp; 10 open-source projects &nbsp;·&nbsp; 10 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.7k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
+| [console-rs/indicatif](https://github.com/console-rs/indicatif) | ⭐ 5.2k | [#815](https://github.com/console-rs/indicatif/pull/815) Fix stray comma after minus sign in HumanFloatCount |
 | [getsentry/responses](https://github.com/getsentry/responses) | ⭐ 4.3k | [#797](https://github.com/getsentry/responses/pull/797) docs: update tox Python version examples |
 | [besu-eth/besu](https://github.com/besu-eth/besu) | ⭐ 1.8k | [#10566](https://github.com/besu-eth/besu/pull/10566) fix(discv5): lower verbose logs to trace |
 | [carapace-sh/carapace](https://github.com/carapace-sh/carapace) | ⭐ 1.4k | [#1232](https://github.com/carapace-sh/carapace/pull/1232) Document zsh case-insensitive matching setup |
@@ -94,23 +95,23 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 19 open PRs in review &nbsp;·&nbsp; 19 projects &nbsp;·&nbsp; ⭐ 54.5k+ combined</strong></p>
+<p><strong>🔍 19 open PRs in review &nbsp;·&nbsp; 19 projects &nbsp;·&nbsp; ⭐ 50.4k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 8.8k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
-| [console-rs/indicatif](https://github.com/console-rs/indicatif) | ⭐ 5.2k | [#815](https://github.com/console-rs/indicatif/pull/815) Fix stray comma after minus sign in HumanFloatCount |
 | [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) | ⭐ 4.6k | [#186](https://github.com/tailwindlabs/tailwindcss-forms/pull/186) docs: clarify checkbox checked background colors |
 | [charmbracelet/log](https://github.com/charmbracelet/log) | ⭐ 3.3k | [#218](https://github.com/charmbracelet/log/pull/218) docs: fix README install path to charm.land/log/v2 |
 | [anza-xyz/agave](https://github.com/anza-xyz/agave) | ⭐ 1.8k | [#12843](https://github.com/anza-xyz/agave/pull/12843) install: handle fish shell path setup |
 | [nats-io/nats.rs](https://github.com/nats-io/nats.rs) | ⭐ 1.5k | [#1597](https://github.com/nats-io/nats.rs/pull/1597) Improve stream overlap error context |
+| [getsentry/sentry-go](https://github.com/getsentry/sentry-go) | ⭐ 1.1k | [#1334](https://github.com/getsentry/sentry-go/pull/1334) fix: preserve literal '%' in non-format log messages |
 | [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) | ⭐ 992 | [#5019](https://github.com/celestiaorg/celestia-node/pull/5019) share: add RowsWithNamespace tests |
 | [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) | ⭐ 824 | [#414](https://github.com/duneanalytics/evm.codes/pull/414) Fix API method guards |
 | [openapistack/openapi-backend](https://github.com/openapistack/openapi-backend) | ⭐ 682 | [#903](https://github.com/openapistack/openapi-backend/pull/903) fix: honor optional request bodies during validation |
-| [solana-foundation/surfpool](https://github.com/solana-foundation/surfpool) | ⭐ 570 | [#681](https://github.com/solana-foundation/surfpool/pull/681) docs: document Studio UI build inputs |
+| [solana-foundation/surfpool](https://github.com/solana-foundation/surfpool) | ⭐ 571 | [#681](https://github.com/solana-foundation/surfpool/pull/681) docs: document Studio UI build inputs |
 | [pinecone-io/python-sdk](https://github.com/pinecone-io/python-sdk) | ⭐ 448 | [#675](https://github.com/pinecone-io/python-sdk/pull/675) Validate dry_run update mode |
-| [cli/go-gh](https://github.com/cli/go-gh) | ⭐ 423 | [#255](https://github.com/cli/go-gh/pull/255) Keep full precision for non-integer numbers in jq output |
+| [cli/go-gh](https://github.com/cli/go-gh) | ⭐ 424 | [#255](https://github.com/cli/go-gh/pull/255) Keep full precision for non-integer numbers in jq output |
 | [charmbracelet/x](https://github.com/charmbracelet/x) | ⭐ 300 | [#906](https://github.com/charmbracelet/x/pull/906) fix(ansi): reset parser state after grapheme cluster in Truncate |
 | [psf/pypistats.org](https://github.com/psf/pypistats.org) | ⭐ 195 | [#108](https://github.com/psf/pypistats.org/pull/108) Document development setup prerequisites |
 <!-- OSS-IN-REVIEW:END -->
