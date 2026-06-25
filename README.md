@@ -71,17 +71,18 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 25k+ stars reached &nbsp;·&nbsp; 10 open-source projects &nbsp;·&nbsp; 10 merged PRs</strong></p>
+<p><strong>🌟 47.1k+ stars reached &nbsp;·&nbsp; 11 open-source projects &nbsp;·&nbsp; 11 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
+| [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3866](https://github.com/redis/go-redis/pull/3866) fix(options): treat unit durations <= 0 as disabled in ParseURL |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.7k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
 | [console-rs/indicatif](https://github.com/console-rs/indicatif) | ⭐ 5.2k | [#815](https://github.com/console-rs/indicatif/pull/815) Fix stray comma after minus sign in HumanFloatCount |
 | [getsentry/responses](https://github.com/getsentry/responses) | ⭐ 4.3k | [#797](https://github.com/getsentry/responses/pull/797) docs: update tox Python version examples |
 | [besu-eth/besu](https://github.com/besu-eth/besu) | ⭐ 1.8k | [#10566](https://github.com/besu-eth/besu/pull/10566) fix(discv5): lower verbose logs to trace |
 | [carapace-sh/carapace](https://github.com/carapace-sh/carapace) | ⭐ 1.4k | [#1232](https://github.com/carapace-sh/carapace/pull/1232) Document zsh case-insensitive matching setup |
-| [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 975 | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
-| [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 879 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
+| [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 977 | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
+| [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 880 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
 | [near/borsh-rs](https://github.com/near/borsh-rs) | ⭐ 429 | [#369](https://github.com/near/borsh-rs/pull/369) fix: handle PhantomData in enum schema derive |
 | [ava-labs/firewood](https://github.com/ava-labs/firewood) | ⭐ 153 | [#2037](https://github.com/ava-labs/firewood/pull/2037) test(fwdctl): refactor CLI test setup |
 | [jiayaoqijia/eth2030](https://github.com/jiayaoqijia/eth2030) | ⭐ 99 | [#31](https://github.com/jiayaoqijia/eth2030/pull/31) fix: harden shielded circuit witness and proof validation |
@@ -95,23 +96,23 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 21 open PRs in review &nbsp;·&nbsp; 21 projects &nbsp;·&nbsp; ⭐ 79.3k+ combined</strong></p>
+<p><strong>🔍 23 open PRs in review &nbsp;·&nbsp; 22 projects &nbsp;·&nbsp; ⭐ 68.8k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
-| [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3866](https://github.com/redis/go-redis/pull/3866) fix(options): treat unit durations <= 0 as disabled in ParseURL |
+| [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.5k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 8.8k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [nats-io/nats.go](https://github.com/nats-io/nats.go) | ⭐ 6.7k | [#2099](https://github.com/nats-io/nats.go/pull/2099) [FIXED] MsgsTimeout iterator yields spurious (nil, nil) after a timeout |
 | [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) | ⭐ 4.6k | [#186](https://github.com/tailwindlabs/tailwindcss-forms/pull/186) docs: clarify checkbox checked background colors |
 | [charmbracelet/log](https://github.com/charmbracelet/log) | ⭐ 3.3k | [#218](https://github.com/charmbracelet/log/pull/218) docs: fix README install path to charm.land/log/v2 |
 | [anza-xyz/agave](https://github.com/anza-xyz/agave) | ⭐ 1.8k | [#12843](https://github.com/anza-xyz/agave/pull/12843) install: handle fish shell path setup |
 | [nats-io/nats.rs](https://github.com/nats-io/nats.rs) | ⭐ 1.5k | [#1597](https://github.com/nats-io/nats.rs/pull/1597) Improve stream overlap error context |
-| [getsentry/sentry-go](https://github.com/getsentry/sentry-go) | ⭐ 1.1k | [#1334](https://github.com/getsentry/sentry-go/pull/1334) fix: preserve literal '%' in non-format log messages |
+| [getsentry/sentry-go](https://github.com/getsentry/sentry-go) | ⭐ 1.1k | [#1336](https://github.com/getsentry/sentry-go/pull/1336) fix(scope): deep-copy event processors when cloning a scope · +1 more |
 | [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) | ⭐ 993 | [#5019](https://github.com/celestiaorg/celestia-node/pull/5019) share: add RowsWithNamespace tests |
 | [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) | ⭐ 824 | [#414](https://github.com/duneanalytics/evm.codes/pull/414) Fix API method guards |
 | [openapistack/openapi-backend](https://github.com/openapistack/openapi-backend) | ⭐ 682 | [#903](https://github.com/openapistack/openapi-backend/pull/903) fix: honor optional request bodies during validation |
-| [solana-foundation/surfpool](https://github.com/solana-foundation/surfpool) | ⭐ 570 | [#681](https://github.com/solana-foundation/surfpool/pull/681) docs: document Studio UI build inputs |
+| [solana-foundation/surfpool](https://github.com/solana-foundation/surfpool) | ⭐ 571 | [#681](https://github.com/solana-foundation/surfpool/pull/681) docs: document Studio UI build inputs |
 | [pinecone-io/python-sdk](https://github.com/pinecone-io/python-sdk) | ⭐ 448 | [#675](https://github.com/pinecone-io/python-sdk/pull/675) Validate dry_run update mode |
 | [cli/go-gh](https://github.com/cli/go-gh) | ⭐ 424 | [#255](https://github.com/cli/go-gh/pull/255) Keep full precision for non-integer numbers in jq output |
 <!-- OSS-IN-REVIEW:END -->
