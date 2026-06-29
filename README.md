@@ -71,12 +71,12 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 47.1k+ stars reached &nbsp;·&nbsp; 11 open-source projects &nbsp;·&nbsp; 11 merged PRs</strong></p>
+<p><strong>🌟 47.2k+ stars reached &nbsp;·&nbsp; 11 open-source projects &nbsp;·&nbsp; 11 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3866](https://github.com/redis/go-redis/pull/3866) fix(options): treat unit durations <= 0 as disabled in ParseURL |
-| [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.7k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
+| [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.8k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
 | [console-rs/indicatif](https://github.com/console-rs/indicatif) | ⭐ 5.2k | [#815](https://github.com/console-rs/indicatif/pull/815) Fix stray comma after minus sign in HumanFloatCount |
 | [getsentry/responses](https://github.com/getsentry/responses) | ⭐ 4.3k | [#797](https://github.com/getsentry/responses/pull/797) docs: update tox Python version examples |
 | [besu-eth/besu](https://github.com/besu-eth/besu) | ⭐ 1.8k | [#10566](https://github.com/besu-eth/besu/pull/10566) fix(discv5): lower verbose logs to trace |
@@ -96,13 +96,14 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 27 open PRs in review &nbsp;·&nbsp; 26 projects &nbsp;·&nbsp; ⭐ 133.2k+ combined</strong></p>
+<p><strong>🔍 28 open PRs in review &nbsp;·&nbsp; 27 projects &nbsp;·&nbsp; ⭐ 149.1k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 33k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers |
+| [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | ⭐ 15.9k | [#6679](https://github.com/goreleaser/goreleaser/pull/6679) fix(builders): reject empty target string |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.5k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 8.8k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 8.6k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
@@ -114,7 +115,6 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [getsentry/sentry-go](https://github.com/getsentry/sentry-go) | ⭐ 1.1k | [#1336](https://github.com/getsentry/sentry-go/pull/1336) fix(scope): deep-copy event processors when cloning a scope · +1 more |
 | [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) | ⭐ 993 | [#5019](https://github.com/celestiaorg/celestia-node/pull/5019) share: add RowsWithNamespace tests |
 | [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) | ⭐ 824 | [#414](https://github.com/duneanalytics/evm.codes/pull/414) Fix API method guards |
-| [openapistack/openapi-backend](https://github.com/openapistack/openapi-backend) | ⭐ 682 | [#903](https://github.com/openapistack/openapi-backend/pull/903) fix: honor optional request bodies during validation |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
