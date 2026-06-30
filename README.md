@@ -82,7 +82,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [getsentry/responses](https://github.com/getsentry/responses) | ⭐ 4.3k | [#797](https://github.com/getsentry/responses/pull/797) docs: update tox Python version examples |
 | [besu-eth/besu](https://github.com/besu-eth/besu) | ⭐ 1.8k | [#10566](https://github.com/besu-eth/besu/pull/10566) fix(discv5): lower verbose logs to trace |
 | [carapace-sh/carapace](https://github.com/carapace-sh/carapace) | ⭐ 1.4k | [#1232](https://github.com/carapace-sh/carapace/pull/1232) Document zsh case-insensitive matching setup |
-| [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 984 | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
+| [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 985 | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
 | [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 882 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
 | [near/borsh-rs](https://github.com/near/borsh-rs) | ⭐ 429 | [#369](https://github.com/near/borsh-rs/pull/369) fix: handle PhantomData in enum schema derive |
 | [ava-labs/firewood](https://github.com/ava-labs/firewood) | ⭐ 153 | [#2037](https://github.com/ava-labs/firewood/pull/2037) test(fwdctl): refactor CLI test setup |
@@ -97,7 +97,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 27 open PRs in review &nbsp;·&nbsp; 27 projects &nbsp;·&nbsp; ⭐ 134.3k+ combined</strong></p>
+<p><strong>🔍 28 open PRs in review &nbsp;·&nbsp; 28 projects &nbsp;·&nbsp; ⭐ 134.6k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
