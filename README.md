@@ -71,18 +71,19 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 63.1k+ stars reached &nbsp;·&nbsp; 12 open-source projects &nbsp;·&nbsp; 12 merged PRs</strong></p>
+<p><strong>🌟 69.7k+ stars reached &nbsp;·&nbsp; 13 open-source projects &nbsp;·&nbsp; 13 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3866](https://github.com/redis/go-redis/pull/3866) fix(options): treat unit durations <= 0 as disabled in ParseURL |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | ⭐ 15.9k | [#6679](https://github.com/goreleaser/goreleaser/pull/6679) fix(builders): reject empty target string |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.8k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
+| [nats-io/nats.go](https://github.com/nats-io/nats.go) | ⭐ 6.7k | [#2099](https://github.com/nats-io/nats.go/pull/2099) [FIXED] MsgsTimeout iterator yields spurious (nil, nil) after a timeout |
 | [console-rs/indicatif](https://github.com/console-rs/indicatif) | ⭐ 5.2k | [#815](https://github.com/console-rs/indicatif/pull/815) Fix stray comma after minus sign in HumanFloatCount |
 | [getsentry/responses](https://github.com/getsentry/responses) | ⭐ 4.3k | [#797](https://github.com/getsentry/responses/pull/797) docs: update tox Python version examples |
 | [besu-eth/besu](https://github.com/besu-eth/besu) | ⭐ 1.8k | [#10566](https://github.com/besu-eth/besu/pull/10566) fix(discv5): lower verbose logs to trace |
 | [carapace-sh/carapace](https://github.com/carapace-sh/carapace) | ⭐ 1.4k | [#1232](https://github.com/carapace-sh/carapace/pull/1232) Document zsh case-insensitive matching setup |
-| [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 986 | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
+| [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 987 | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
 | [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 882 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
 | [near/borsh-rs](https://github.com/near/borsh-rs) | ⭐ 429 | [#369](https://github.com/near/borsh-rs/pull/369) fix: handle PhantomData in enum schema derive |
 | [ava-labs/firewood](https://github.com/ava-labs/firewood) | ⭐ 153 | [#2037](https://github.com/ava-labs/firewood/pull/2037) test(fwdctl): refactor CLI test setup |
@@ -97,7 +98,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 28 open PRs in review &nbsp;·&nbsp; 28 projects &nbsp;·&nbsp; ⭐ 134.6k+ combined</strong></p>
+<p><strong>🔍 26 open PRs in review &nbsp;·&nbsp; 26 projects &nbsp;·&nbsp; ⭐ 127k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -107,15 +108,15 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.5k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 8.8k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 8.6k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
-| [nats-io/nats.go](https://github.com/nats-io/nats.go) | ⭐ 6.7k | [#2099](https://github.com/nats-io/nats.go/pull/2099) [FIXED] MsgsTimeout iterator yields spurious (nil, nil) after a timeout |
 | [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) | ⭐ 4.6k | [#186](https://github.com/tailwindlabs/tailwindcss-forms/pull/186) docs: clarify checkbox checked background colors |
 | [charmbracelet/log](https://github.com/charmbracelet/log) | ⭐ 3.3k | [#218](https://github.com/charmbracelet/log/pull/218) docs: fix README install path to charm.land/log/v2 |
 | [anza-xyz/agave](https://github.com/anza-xyz/agave) | ⭐ 1.8k | [#12843](https://github.com/anza-xyz/agave/pull/12843) install: handle fish shell path setup |
 | [nats-io/nats.rs](https://github.com/nats-io/nats.rs) | ⭐ 1.5k | [#1597](https://github.com/nats-io/nats.rs/pull/1597) Improve stream overlap error context |
 | [getsentry/sentry-go](https://github.com/getsentry/sentry-go) | ⭐ 1.1k | [#1334](https://github.com/getsentry/sentry-go/pull/1334) fix: preserve literal '%' in non-format log messages |
 | [segmentio/encoding](https://github.com/segmentio/encoding) | ⭐ 1.1k | [#167](https://github.com/segmentio/encoding/pull/167) json: report integer duration overflow against time.Duration |
-| [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) | ⭐ 993 | [#5019](https://github.com/celestiaorg/celestia-node/pull/5019) share: add RowsWithNamespace tests |
 | [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) | ⭐ 823 | [#414](https://github.com/duneanalytics/evm.codes/pull/414) Fix API method guards |
+| [openapistack/openapi-backend](https://github.com/openapistack/openapi-backend) | ⭐ 682 | [#903](https://github.com/openapistack/openapi-backend/pull/903) fix: honor optional request bodies during validation |
+| [grafana/dskit](https://github.com/grafana/dskit) | ⭐ 574 | [#1010](https://github.com/grafana/dskit/pull/1010) docs(cache): correct WrapWithLRUCache expiry behavior in godoc |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
