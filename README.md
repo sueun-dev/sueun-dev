@@ -88,7 +88,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [near/borsh-rs](https://github.com/near/borsh-rs) | ⭐ 429 | [#369](https://github.com/near/borsh-rs/pull/369) fix: handle PhantomData in enum schema derive |
 | [ava-labs/firewood](https://github.com/ava-labs/firewood) | ⭐ 153 | [#2037](https://github.com/ava-labs/firewood/pull/2037) test(fwdctl): refactor CLI test setup |
 | [alloy-rs/chains](https://github.com/alloy-rs/chains) | ⭐ 107 | [#300](https://github.com/alloy-rs/chains/pull/300) docs: correct etherscan url examples in Chain spec |
-| [jiayaoqijia/eth2030](https://github.com/jiayaoqijia/eth2030) | ⭐ 99 | [#31](https://github.com/jiayaoqijia/eth2030/pull/31) fix: harden shielded circuit witness and proof validation |
+| [jiayaoqijia/eth2030](https://github.com/jiayaoqijia/eth2030) | ⭐ 100 | [#31](https://github.com/jiayaoqijia/eth2030/pull/31) fix: harden shielded circuit witness and proof validation |
 <!-- OSS-CONTRIBUTIONS:END -->
 
 ---
@@ -99,7 +99,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 25 open PRs in review &nbsp;·&nbsp; 25 projects &nbsp;·&nbsp; ⭐ 127k+ combined</strong></p>
+<p><strong>🔍 25 open PRs in review &nbsp;·&nbsp; 25 projects &nbsp;·&nbsp; ⭐ 127.1k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
