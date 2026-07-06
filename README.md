@@ -85,7 +85,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [carapace-sh/carapace](https://github.com/carapace-sh/carapace) | ⭐ 1.4k | [#1232](https://github.com/carapace-sh/carapace/pull/1232) Document zsh case-insensitive matching setup |
 | [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 1k | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
 | [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 884 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
-| [near/borsh-rs](https://github.com/near/borsh-rs) | ⭐ 429 | [#369](https://github.com/near/borsh-rs/pull/369) fix: handle PhantomData in enum schema derive |
+| [near/borsh-rs](https://github.com/near/borsh-rs) | ⭐ 428 | [#369](https://github.com/near/borsh-rs/pull/369) fix: handle PhantomData in enum schema derive |
 | [ava-labs/firewood](https://github.com/ava-labs/firewood) | ⭐ 153 | [#2037](https://github.com/ava-labs/firewood/pull/2037) test(fwdctl): refactor CLI test setup |
 | [alloy-rs/chains](https://github.com/alloy-rs/chains) | ⭐ 107 | [#300](https://github.com/alloy-rs/chains/pull/300) docs: correct etherscan url examples in Chain spec |
 | [jiayaoqijia/eth2030](https://github.com/jiayaoqijia/eth2030) | ⭐ 100 | [#31](https://github.com/jiayaoqijia/eth2030/pull/31) fix: harden shielded circuit witness and proof validation |
@@ -99,13 +99,14 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 25 open PRs in review &nbsp;·&nbsp; 25 projects &nbsp;·&nbsp; ⭐ 127.1k+ combined</strong></p>
+<p><strong>🔍 27 open PRs in review &nbsp;·&nbsp; 26 projects &nbsp;·&nbsp; ⭐ 302.7k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 175.6k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 33.2k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
-| [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers |
+| [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3882](https://github.com/redis/go-redis/pull/3882) fix(options): keep single brackets for IPv6 hosts without a port in ParseURL · +1 more |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.5k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 8.8k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 8.6k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
@@ -117,7 +118,6 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [segmentio/encoding](https://github.com/segmentio/encoding) | ⭐ 1.1k | [#167](https://github.com/segmentio/encoding/pull/167) json: report integer duration overflow against time.Duration |
 | [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) | ⭐ 823 | [#414](https://github.com/duneanalytics/evm.codes/pull/414) Fix API method guards |
 | [openapistack/openapi-backend](https://github.com/openapistack/openapi-backend) | ⭐ 682 | [#903](https://github.com/openapistack/openapi-backend/pull/903) fix: honor optional request bodies during validation |
-| [solana-foundation/surfpool](https://github.com/solana-foundation/surfpool) | ⭐ 577 | [#681](https://github.com/solana-foundation/surfpool/pull/681) docs: document Studio UI build inputs |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
