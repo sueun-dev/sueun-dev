@@ -99,11 +99,12 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 27 open PRs in review &nbsp;·&nbsp; 26 projects &nbsp;·&nbsp; ⭐ 302.7k+ combined</strong></p>
+<p><strong>🔍 28 open PRs in review &nbsp;·&nbsp; 27 projects &nbsp;·&nbsp; ⭐ 342.7k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 175.6k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
+| [gofiber/fiber](https://github.com/gofiber/fiber) | ⭐ 39.9k | [#4507](https://github.com/gofiber/fiber/pull/4507) 🐛 bug: Fix the normalization of the leading slash in the root path for fs.FS static serving |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 33.2k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3882](https://github.com/redis/go-redis/pull/3882) fix(options): keep single brackets for IPv6 hosts without a port in ParseURL · +1 more |
@@ -117,7 +118,6 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [getsentry/sentry-go](https://github.com/getsentry/sentry-go) | ⭐ 1.1k | [#1334](https://github.com/getsentry/sentry-go/pull/1334) fix: preserve literal '%' in non-format log messages |
 | [segmentio/encoding](https://github.com/segmentio/encoding) | ⭐ 1.1k | [#167](https://github.com/segmentio/encoding/pull/167) json: report integer duration overflow against time.Duration |
 | [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) | ⭐ 823 | [#414](https://github.com/duneanalytics/evm.codes/pull/414) Fix API method guards |
-| [openapistack/openapi-backend](https://github.com/openapistack/openapi-backend) | ⭐ 682 | [#903](https://github.com/openapistack/openapi-backend/pull/903) fix: honor optional request bodies during validation |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
