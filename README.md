@@ -71,10 +71,11 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 70k+ stars reached &nbsp;·&nbsp; 14 open-source projects &nbsp;·&nbsp; 15 merged PRs</strong></p>
+<p><strong>🌟 109.9k+ stars reached &nbsp;·&nbsp; 15 open-source projects &nbsp;·&nbsp; 16 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
+| [gofiber/fiber](https://github.com/gofiber/fiber) | ⭐ 39.9k | [#4507](https://github.com/gofiber/fiber/pull/4507) 🐛 bug: Fix the normalization of the leading slash in the root path for fs.FS static serving |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3882](https://github.com/redis/go-redis/pull/3882) fix(options): keep single brackets for IPv6 hosts without a port in ParseURL · +1 more |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | ⭐ 15.9k | [#6679](https://github.com/goreleaser/goreleaser/pull/6679) fix(builders): reject empty target string |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.8k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
@@ -99,12 +100,11 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 27 open PRs in review &nbsp;·&nbsp; 27 projects &nbsp;·&nbsp; ⭐ 342.9k+ combined</strong></p>
+<p><strong>🔍 27 open PRs in review &nbsp;·&nbsp; 27 projects &nbsp;·&nbsp; ⭐ 303.1k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 175.7k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
-| [gofiber/fiber](https://github.com/gofiber/fiber) | ⭐ 39.9k | [#4507](https://github.com/gofiber/fiber/pull/4507) 🐛 bug: Fix the normalization of the leading slash in the root path for fs.FS static serving |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 175.8k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 33.3k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers |
@@ -117,7 +117,8 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [nats-io/nats.rs](https://github.com/nats-io/nats.rs) | ⭐ 1.5k | [#1597](https://github.com/nats-io/nats.rs/pull/1597) Improve stream overlap error context |
 | [getsentry/sentry-go](https://github.com/getsentry/sentry-go) | ⭐ 1.1k | [#1334](https://github.com/getsentry/sentry-go/pull/1334) fix: preserve literal '%' in non-format log messages |
 | [segmentio/encoding](https://github.com/segmentio/encoding) | ⭐ 1.1k | [#167](https://github.com/segmentio/encoding/pull/167) json: report integer duration overflow against time.Duration |
-| [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) | ⭐ 824 | [#414](https://github.com/duneanalytics/evm.codes/pull/414) Fix API method guards |
+| [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) | ⭐ 823 | [#414](https://github.com/duneanalytics/evm.codes/pull/414) Fix API method guards |
+| [openapistack/openapi-backend](https://github.com/openapistack/openapi-backend) | ⭐ 682 | [#903](https://github.com/openapistack/openapi-backend/pull/903) fix: honor optional request bodies during validation |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
