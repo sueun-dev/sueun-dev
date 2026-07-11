@@ -100,16 +100,17 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 28 open PRs in review &nbsp;·&nbsp; 28 projects &nbsp;·&nbsp; ⭐ 283.1k+ combined</strong></p>
+<p><strong>🔍 29 open PRs in review &nbsp;·&nbsp; 29 projects &nbsp;·&nbsp; ⭐ 289.1k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 175.9k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
-| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 33.6k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
+| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 33.8k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.5k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 8.8k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 8.7k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
+| [hashicorp/hcl](https://github.com/hashicorp/hcl) | ⭐ 5.8k | [#815](https://github.com/hashicorp/hcl/pull/815) ext/typeexpr: render optional attributes in TypeString |
 | [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) | ⭐ 4.6k | [#186](https://github.com/tailwindlabs/tailwindcss-forms/pull/186) docs: clarify checkbox checked background colors |
 | [charmbracelet/log](https://github.com/charmbracelet/log) | ⭐ 3.3k | [#218](https://github.com/charmbracelet/log/pull/218) docs: fix README install path to charm.land/log/v2 |
 | [anza-xyz/agave](https://github.com/anza-xyz/agave) | ⭐ 1.8k | [#12843](https://github.com/anza-xyz/agave/pull/12843) install: handle fish shell path setup |
@@ -118,7 +119,6 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [segmentio/encoding](https://github.com/segmentio/encoding) | ⭐ 1.1k | [#167](https://github.com/segmentio/encoding/pull/167) json: report integer duration overflow against time.Duration |
 | [prometheus/procfs](https://github.com/prometheus/procfs) | ⭐ 874 | [#842](https://github.com/prometheus/procfs/pull/842) fix(mdstat): parse (W), (J) and (R) component device flags |
 | [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) | ⭐ 823 | [#414](https://github.com/duneanalytics/evm.codes/pull/414) Fix API method guards |
-| [openapistack/openapi-backend](https://github.com/openapistack/openapi-backend) | ⭐ 683 | [#903](https://github.com/openapistack/openapi-backend/pull/903) fix: honor optional request bodies during validation |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
