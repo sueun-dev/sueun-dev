@@ -100,7 +100,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 32 open PRs in review &nbsp;·&nbsp; 32 projects &nbsp;·&nbsp; ⭐ 290.9k+ combined</strong></p>
+<p><strong>🔍 35 open PRs in review &nbsp;·&nbsp; 35 projects &nbsp;·&nbsp; ⭐ 291.8k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
