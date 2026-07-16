@@ -71,7 +71,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 115.4k+ stars reached &nbsp;·&nbsp; 16 open-source projects &nbsp;·&nbsp; 18 merged PRs</strong></p>
+<p><strong>🌟 115.4k+ stars reached &nbsp;·&nbsp; 17 open-source projects &nbsp;·&nbsp; 19 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -100,11 +100,11 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 35 open PRs in review &nbsp;·&nbsp; 35 projects &nbsp;·&nbsp; ⭐ 292k+ combined</strong></p>
+<p><strong>🔍 34 open PRs in review &nbsp;·&nbsp; 34 projects &nbsp;·&nbsp; ⭐ 292k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 176.2k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 176.3k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 34k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.6k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
