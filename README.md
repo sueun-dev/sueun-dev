@@ -86,7 +86,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [besu-eth/besu](https://github.com/besu-eth/besu) | ⭐ 1.8k | [#10566](https://github.com/besu-eth/besu/pull/10566) fix(discv5): lower verbose logs to trace |
 | [carapace-sh/carapace](https://github.com/carapace-sh/carapace) | ⭐ 1.4k | [#1232](https://github.com/carapace-sh/carapace/pull/1232) Document zsh case-insensitive matching setup |
 | [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 1k | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
-| [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 885 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
+| [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 886 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
 | [near/borsh-rs](https://github.com/near/borsh-rs) | ⭐ 429 | [#369](https://github.com/near/borsh-rs/pull/369) fix: handle PhantomData in enum schema derive |
 | [ava-labs/firewood](https://github.com/ava-labs/firewood) | ⭐ 153 | [#2037](https://github.com/ava-labs/firewood/pull/2037) test(fwdctl): refactor CLI test setup |
 | [alloy-rs/chains](https://github.com/alloy-rs/chains) | ⭐ 107 | [#300](https://github.com/alloy-rs/chains/pull/300) docs: correct etherscan url examples in Chain spec |
@@ -100,7 +100,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 34 open PRs in review &nbsp;·&nbsp; 34 projects &nbsp;·&nbsp; ⭐ 292k+ combined</strong></p>
+<p><strong>🔍 34 open PRs in review &nbsp;·&nbsp; 34 projects &nbsp;·&nbsp; ⭐ 292.1k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -118,7 +118,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [nats-io/nats.rs](https://github.com/nats-io/nats.rs) | ⭐ 1.5k | [#1597](https://github.com/nats-io/nats.rs/pull/1597) Improve stream overlap error context |
 | [segmentio/encoding](https://github.com/segmentio/encoding) | ⭐ 1.1k | [#167](https://github.com/segmentio/encoding/pull/167) json: report integer duration overflow against time.Duration |
 | [prometheus/procfs](https://github.com/prometheus/procfs) | ⭐ 875 | [#842](https://github.com/prometheus/procfs/pull/842) fix(mdstat): parse (W), (J) and (R) component device flags |
-| [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) | ⭐ 824 | [#414](https://github.com/duneanalytics/evm.codes/pull/414) Fix API method guards |
+| [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) | ⭐ 825 | [#414](https://github.com/duneanalytics/evm.codes/pull/414) Fix API method guards |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
