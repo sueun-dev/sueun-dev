@@ -104,8 +104,8 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 176.4k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
-| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 34k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 176.5k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
+| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 34.1k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.6k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 8.8k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
@@ -118,7 +118,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [nats-io/nats.rs](https://github.com/nats-io/nats.rs) | ⭐ 1.5k | [#1597](https://github.com/nats-io/nats.rs/pull/1597) Improve stream overlap error context |
 | [segmentio/encoding](https://github.com/segmentio/encoding) | ⭐ 1.1k | [#167](https://github.com/segmentio/encoding/pull/167) json: report integer duration overflow against time.Duration |
 | [prometheus/procfs](https://github.com/prometheus/procfs) | ⭐ 875 | [#842](https://github.com/prometheus/procfs/pull/842) fix(mdstat): parse (W), (J) and (R) component device flags |
-| [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) | ⭐ 825 | [#414](https://github.com/duneanalytics/evm.codes/pull/414) Fix API method guards |
+| [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) | ⭐ 826 | [#414](https://github.com/duneanalytics/evm.codes/pull/414) Fix API method guards |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
