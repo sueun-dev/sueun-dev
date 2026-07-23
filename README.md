@@ -100,7 +100,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 34 open PRs in review &nbsp;·&nbsp; 34 projects &nbsp;·&nbsp; ⭐ 292.7k+ combined</strong></p>
+<p><strong>🔍 36 open PRs in review &nbsp;·&nbsp; 36 projects &nbsp;·&nbsp; ⭐ 294.3k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -116,9 +116,9 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [anza-xyz/agave](https://github.com/anza-xyz/agave) | ⭐ 1.8k | [#12843](https://github.com/anza-xyz/agave/pull/12843) install: handle fish shell path setup |
 | [hashicorp/go-getter](https://github.com/hashicorp/go-getter) | ⭐ 1.8k | [#653](https://github.com/hashicorp/go-getter/pull/653) Fix off-by-one in tar FilesLimit that rejects archives at exactly the limit |
 | [nats-io/nats.rs](https://github.com/nats-io/nats.rs) | ⭐ 1.5k | [#1597](https://github.com/nats-io/nats.rs/pull/1597) Improve stream overlap error context |
+| [santhosh-tekuri/jsonschema](https://github.com/santhosh-tekuri/jsonschema) | ⭐ 1.2k | [#263](https://github.com/santhosh-tekuri/jsonschema/pull/263) format: reject signed numeric tokens in ipv4 and time |
 | [segmentio/encoding](https://github.com/segmentio/encoding) | ⭐ 1.1k | [#167](https://github.com/segmentio/encoding/pull/167) json: report integer duration overflow against time.Duration |
 | [prometheus/procfs](https://github.com/prometheus/procfs) | ⭐ 875 | [#842](https://github.com/prometheus/procfs/pull/842) fix(mdstat): parse (W), (J) and (R) component device flags |
-| [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) | ⭐ 826 | [#414](https://github.com/duneanalytics/evm.codes/pull/414) Fix API method guards |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
