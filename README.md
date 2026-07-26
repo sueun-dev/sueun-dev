@@ -71,7 +71,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 116.2k+ stars reached &nbsp;·&nbsp; 19 open-source projects &nbsp;·&nbsp; 21 merged PRs</strong></p>
+<p><strong>🌟 118.6k+ stars reached &nbsp;·&nbsp; 20 open-source projects &nbsp;·&nbsp; 22 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -83,13 +83,13 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [h3js/h3](https://github.com/h3js/h3) | ⭐ 5.4k | [#1450](https://github.com/h3js/h3/pull/1450) docs: remove non-existent sendEventStream from createEventStream example |
 | [console-rs/indicatif](https://github.com/console-rs/indicatif) | ⭐ 5.2k | [#815](https://github.com/console-rs/indicatif/pull/815) Fix stray comma after minus sign in HumanFloatCount |
 | [getsentry/responses](https://github.com/getsentry/responses) | ⭐ 4.3k | [#797](https://github.com/getsentry/responses/pull/797) docs: update tox Python version examples |
+| [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) | ⭐ 2.4k | [#2275](https://github.com/lestrrat-go/jwx/pull/2275) jwe: serialize the JSON "aad" member as BASE64URL(JWE AAD) |
 | [besu-eth/besu](https://github.com/besu-eth/besu) | ⭐ 1.8k | [#10566](https://github.com/besu-eth/besu/pull/10566) fix(discv5): lower verbose logs to trace |
 | [carapace-sh/carapace](https://github.com/carapace-sh/carapace) | ⭐ 1.4k | [#1232](https://github.com/carapace-sh/carapace/pull/1232) Document zsh case-insensitive matching setup |
 | [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 1k | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
 | [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 887 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
 | [sigstore/sigstore](https://github.com/sigstore/sigstore) | ⭐ 532 | [#2381](https://github.com/sigstore/sigstore/pull/2381) fix(oauthflow): default the device flow poll interval to 5s per RFC 8628 |
 | [near/borsh-rs](https://github.com/near/borsh-rs) | ⭐ 429 | [#369](https://github.com/near/borsh-rs/pull/369) fix: handle PhantomData in enum schema derive |
-| [ava-labs/firewood](https://github.com/ava-labs/firewood) | ⭐ 153 | [#2037](https://github.com/ava-labs/firewood/pull/2037) test(fwdctl): refactor CLI test setup |
 <!-- OSS-CONTRIBUTIONS:END -->
 
 ---
@@ -100,7 +100,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 40 open PRs in review &nbsp;·&nbsp; 40 projects &nbsp;·&nbsp; ⭐ 312.4k+ combined</strong></p>
+<p><strong>🔍 39 open PRs in review &nbsp;·&nbsp; 39 projects &nbsp;·&nbsp; ⭐ 310k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -115,10 +115,10 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [klauspost/compress](https://github.com/klauspost/compress) | ⭐ 5.6k | [#1177](https://github.com/klauspost/compress/pull/1177) zstd: don't clear the registered dictionary when decoding past the window |
 | [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) | ⭐ 4.6k | [#186](https://github.com/tailwindlabs/tailwindcss-forms/pull/186) docs: clarify checkbox checked background colors |
 | [charmbracelet/log](https://github.com/charmbracelet/log) | ⭐ 3.3k | [#218](https://github.com/charmbracelet/log/pull/218) docs: fix README install path to charm.land/log/v2 |
-| [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) | ⭐ 2.4k | [#2275](https://github.com/lestrrat-go/jwx/pull/2275) jwe: serialize the JSON "aad" member as BASE64URL(JWE AAD) |
 | [anza-xyz/agave](https://github.com/anza-xyz/agave) | ⭐ 1.8k | [#12843](https://github.com/anza-xyz/agave/pull/12843) install: handle fish shell path setup |
 | [hashicorp/go-getter](https://github.com/hashicorp/go-getter) | ⭐ 1.8k | [#653](https://github.com/hashicorp/go-getter/pull/653) Fix off-by-one in tar FilesLimit that rejects archives at exactly the limit |
 | [nats-io/nats.rs](https://github.com/nats-io/nats.rs) | ⭐ 1.5k | [#1597](https://github.com/nats-io/nats.rs/pull/1597) Improve stream overlap error context |
+| [santhosh-tekuri/jsonschema](https://github.com/santhosh-tekuri/jsonschema) | ⭐ 1.2k | [#263](https://github.com/santhosh-tekuri/jsonschema/pull/263) format: reject signed numeric tokens in ipv4 and time |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
