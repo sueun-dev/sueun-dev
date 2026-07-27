@@ -100,11 +100,11 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 39 open PRs in review &nbsp;·&nbsp; 39 projects &nbsp;·&nbsp; ⭐ 310.1k+ combined</strong></p>
+<p><strong>🔍 39 open PRs in review &nbsp;·&nbsp; 39 projects &nbsp;·&nbsp; ⭐ 310.2k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 176.9k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 177k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 34.4k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.6k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
@@ -115,7 +115,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [klauspost/compress](https://github.com/klauspost/compress) | ⭐ 5.6k | [#1177](https://github.com/klauspost/compress/pull/1177) zstd: don't clear the registered dictionary when decoding past the window |
 | [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) | ⭐ 4.6k | [#186](https://github.com/tailwindlabs/tailwindcss-forms/pull/186) docs: clarify checkbox checked background colors |
 | [charmbracelet/log](https://github.com/charmbracelet/log) | ⭐ 3.3k | [#218](https://github.com/charmbracelet/log/pull/218) docs: fix README install path to charm.land/log/v2 |
-| [anza-xyz/agave](https://github.com/anza-xyz/agave) | ⭐ 1.8k | [#12843](https://github.com/anza-xyz/agave/pull/12843) install: handle fish shell path setup |
+| [anza-xyz/agave](https://github.com/anza-xyz/agave) | ⭐ 1.9k | [#12843](https://github.com/anza-xyz/agave/pull/12843) install: handle fish shell path setup |
 | [hashicorp/go-getter](https://github.com/hashicorp/go-getter) | ⭐ 1.8k | [#653](https://github.com/hashicorp/go-getter/pull/653) Fix off-by-one in tar FilesLimit that rejects archives at exactly the limit |
 | [nats-io/nats.rs](https://github.com/nats-io/nats.rs) | ⭐ 1.5k | [#1597](https://github.com/nats-io/nats.rs/pull/1597) Improve stream overlap error context |
 | [santhosh-tekuri/jsonschema](https://github.com/santhosh-tekuri/jsonschema) | ⭐ 1.2k | [#263](https://github.com/santhosh-tekuri/jsonschema/pull/263) format: reject signed numeric tokens in ipv4 and time |
