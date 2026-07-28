@@ -104,7 +104,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 177k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 177.1k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 34.4k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.6k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
