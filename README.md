@@ -71,7 +71,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 118.7k+ stars reached &nbsp;·&nbsp; 20 open-source projects &nbsp;·&nbsp; 22 merged PRs</strong></p>
+<p><strong>🌟 118.8k+ stars reached &nbsp;·&nbsp; 21 open-source projects &nbsp;·&nbsp; 23 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -89,7 +89,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 1k | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
 | [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 887 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
 | [sigstore/sigstore](https://github.com/sigstore/sigstore) | ⭐ 534 | [#2381](https://github.com/sigstore/sigstore/pull/2381) fix(oauthflow): default the device flow poll interval to 5s per RFC 8628 |
-| [near/borsh-rs](https://github.com/near/borsh-rs) | ⭐ 429 | [#369](https://github.com/near/borsh-rs/pull/369) fix: handle PhantomData in enum schema derive |
+| [near/borsh-rs](https://github.com/near/borsh-rs) | ⭐ 430 | [#369](https://github.com/near/borsh-rs/pull/369) fix: handle PhantomData in enum schema derive |
 <!-- OSS-CONTRIBUTIONS:END -->
 
 ---
@@ -100,7 +100,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 42 open PRs in review &nbsp;·&nbsp; 41 projects &nbsp;·&nbsp; ⭐ 316.8k+ combined</strong></p>
+<p><strong>🔍 41 open PRs in review &nbsp;·&nbsp; 40 projects &nbsp;·&nbsp; ⭐ 316.7k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
