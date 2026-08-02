@@ -89,7 +89,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 1k | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
 | [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 887 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
 | [sigstore/sigstore](https://github.com/sigstore/sigstore) | ⭐ 534 | [#2381](https://github.com/sigstore/sigstore/pull/2381) fix(oauthflow): default the device flow poll interval to 5s per RFC 8628 |
-| [near/borsh-rs](https://github.com/near/borsh-rs) | ⭐ 430 | [#369](https://github.com/near/borsh-rs/pull/369) fix: handle PhantomData in enum schema derive |
+| [near/borsh-rs](https://github.com/near/borsh-rs) | ⭐ 429 | [#369](https://github.com/near/borsh-rs/pull/369) fix: handle PhantomData in enum schema derive |
 <!-- OSS-CONTRIBUTIONS:END -->
 
 ---
@@ -100,12 +100,12 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 40 open PRs in review &nbsp;·&nbsp; 39 projects &nbsp;·&nbsp; ⭐ 316.6k+ combined</strong></p>
+<p><strong>🔍 40 open PRs in review &nbsp;·&nbsp; 39 projects &nbsp;·&nbsp; ⭐ 316.7k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 177.5k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
-| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 34.6k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
+| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 34.7k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.6k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
