@@ -88,7 +88,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [carapace-sh/carapace](https://github.com/carapace-sh/carapace) | ⭐ 1.4k | [#1232](https://github.com/carapace-sh/carapace/pull/1232) Document zsh case-insensitive matching setup |
 | [sigstore/rekor](https://github.com/sigstore/rekor) | ⭐ 1.2k | [#2908](https://github.com/sigstore/rekor/pull/2908) alpine: hash only the bytes read when computing the control.tar.gz digest |
 | [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 1k | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
-| [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 887 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
+| [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 888 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
 | [sigstore/sigstore](https://github.com/sigstore/sigstore) | ⭐ 534 | [#2381](https://github.com/sigstore/sigstore/pull/2381) fix(oauthflow): default the device flow poll interval to 5s per RFC 8628 |
 <!-- OSS-CONTRIBUTIONS:END -->
 
@@ -100,7 +100,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 40 open PRs in review &nbsp;·&nbsp; 39 projects &nbsp;·&nbsp; ⭐ 316.9k+ combined</strong></p>
+<p><strong>🔍 41 open PRs in review &nbsp;·&nbsp; 40 projects &nbsp;·&nbsp; ⭐ 324.6k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -111,6 +111,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 8.9k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 8.8k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
+| [go-git/go-git](https://github.com/go-git/go-git) | ⭐ 7.6k | [#2295](https://github.com/go-git/go-git/pull/2295) plumbing: format/packfile, reset base position on backward delta copy |
 | [hashicorp/hcl](https://github.com/hashicorp/hcl) | ⭐ 5.8k | [#815](https://github.com/hashicorp/hcl/pull/815) ext/typeexpr: render optional attributes in TypeString |
 | [klauspost/compress](https://github.com/klauspost/compress) | ⭐ 5.6k | [#1177](https://github.com/klauspost/compress/pull/1177) zstd: don't clear the registered dictionary when decoding past the window |
 | [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) | ⭐ 4.6k | [#186](https://github.com/tailwindlabs/tailwindcss-forms/pull/186) docs: clarify checkbox checked background colors |
@@ -118,7 +119,6 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [charmbracelet/log](https://github.com/charmbracelet/log) | ⭐ 3.3k | [#218](https://github.com/charmbracelet/log/pull/218) docs: fix README install path to charm.land/log/v2 |
 | [goccy/go-yaml](https://github.com/goccy/go-yaml) | ⭐ 2.2k | [#902](https://github.com/goccy/go-yaml/pull/902) fix(parser): limit nesting depth to avoid quadratic parse time |
 | [anza-xyz/agave](https://github.com/anza-xyz/agave) | ⭐ 1.9k | [#12843](https://github.com/anza-xyz/agave/pull/12843) install: handle fish shell path setup |
-| [hashicorp/go-getter](https://github.com/hashicorp/go-getter) | ⭐ 1.8k | [#653](https://github.com/hashicorp/go-getter/pull/653) Fix off-by-one in tar FilesLimit that rejects archives at exactly the limit |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
