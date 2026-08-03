@@ -71,7 +71,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 119.1k+ stars reached &nbsp;·&nbsp; 22 open-source projects &nbsp;·&nbsp; 24 merged PRs</strong></p>
+<p><strong>🌟 120.3k+ stars reached &nbsp;·&nbsp; 23 open-source projects &nbsp;·&nbsp; 25 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -86,10 +86,10 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) | ⭐ 2.4k | [#2275](https://github.com/lestrrat-go/jwx/pull/2275) jwe: serialize the JSON "aad" member as BASE64URL(JWE AAD) |
 | [besu-eth/besu](https://github.com/besu-eth/besu) | ⭐ 1.8k | [#10566](https://github.com/besu-eth/besu/pull/10566) fix(discv5): lower verbose logs to trace |
 | [carapace-sh/carapace](https://github.com/carapace-sh/carapace) | ⭐ 1.4k | [#1232](https://github.com/carapace-sh/carapace/pull/1232) Document zsh case-insensitive matching setup |
+| [sigstore/rekor](https://github.com/sigstore/rekor) | ⭐ 1.2k | [#2908](https://github.com/sigstore/rekor/pull/2908) alpine: hash only the bytes read when computing the control.tar.gz digest |
 | [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 1k | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
 | [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 887 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
 | [sigstore/sigstore](https://github.com/sigstore/sigstore) | ⭐ 534 | [#2381](https://github.com/sigstore/sigstore/pull/2381) fix(oauthflow): default the device flow poll interval to 5s per RFC 8628 |
-| [near/borsh-rs](https://github.com/near/borsh-rs) | ⭐ 429 | [#369](https://github.com/near/borsh-rs/pull/369) fix: handle PhantomData in enum schema derive |
 <!-- OSS-CONTRIBUTIONS:END -->
 
 ---
@@ -100,12 +100,12 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 41 open PRs in review &nbsp;·&nbsp; 40 projects &nbsp;·&nbsp; ⭐ 318.1k+ combined</strong></p>
+<p><strong>🔍 40 open PRs in review &nbsp;·&nbsp; 39 projects &nbsp;·&nbsp; ⭐ 316.9k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 177.7k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
-| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 34.7k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
+| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 34.8k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.7k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
