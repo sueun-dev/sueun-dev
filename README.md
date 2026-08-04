@@ -89,7 +89,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [sigstore/rekor](https://github.com/sigstore/rekor) | ⭐ 1.2k | [#2908](https://github.com/sigstore/rekor/pull/2908) alpine: hash only the bytes read when computing the control.tar.gz digest |
 | [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 1k | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
 | [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 888 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
-| [sigstore/sigstore](https://github.com/sigstore/sigstore) | ⭐ 534 | [#2381](https://github.com/sigstore/sigstore/pull/2381) fix(oauthflow): default the device flow poll interval to 5s per RFC 8628 |
+| [sigstore/sigstore](https://github.com/sigstore/sigstore) | ⭐ 535 | [#2381](https://github.com/sigstore/sigstore/pull/2381) fix(oauthflow): default the device flow poll interval to 5s per RFC 8628 |
 <!-- OSS-CONTRIBUTIONS:END -->
 
 ---
@@ -100,7 +100,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 41 open PRs in review &nbsp;·&nbsp; 40 projects &nbsp;·&nbsp; ⭐ 324.6k+ combined</strong></p>
+<p><strong>🔍 42 open PRs in review &nbsp;·&nbsp; 41 projects &nbsp;·&nbsp; ⭐ 333.7k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -108,6 +108,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 34.8k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.7k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
+| [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.3k | [#5150](https://github.com/anchore/syft/pull/5150) Fix wrong SPDX license expression when a package has multiple licenses |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 8.9k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 8.8k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
@@ -118,7 +119,6 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [goccy/go-json](https://github.com/goccy/go-json) | ⭐ 3.7k | [#598](https://github.com/goccy/go-json/pull/598) decoder: reject malformed number literals to match encoding/json |
 | [charmbracelet/log](https://github.com/charmbracelet/log) | ⭐ 3.3k | [#218](https://github.com/charmbracelet/log/pull/218) docs: fix README install path to charm.land/log/v2 |
 | [goccy/go-yaml](https://github.com/goccy/go-yaml) | ⭐ 2.2k | [#902](https://github.com/goccy/go-yaml/pull/902) fix(parser): limit nesting depth to avoid quadratic parse time |
-| [anza-xyz/agave](https://github.com/anza-xyz/agave) | ⭐ 1.9k | [#12843](https://github.com/anza-xyz/agave/pull/12843) install: handle fish shell path setup |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
