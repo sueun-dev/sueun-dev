@@ -100,7 +100,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 44 open PRs in review &nbsp;·&nbsp; 39 projects &nbsp;·&nbsp; ⭐ 396.5k+ combined</strong></p>
+<p><strong>🔍 46 open PRs in review &nbsp;·&nbsp; 40 projects &nbsp;·&nbsp; ⭐ 405.5k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -110,15 +110,15 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [helm/helm](https://github.com/helm/helm) | ⭐ 30.1k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.7k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
-| [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.4k | [#5150](https://github.com/anchore/syft/pull/5150) Fix wrong SPDX license expression when a package has multiple licenses |
+| [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.4k | [#5160](https://github.com/anchore/syft/pull/5160) fix(java): resolve ${project.groupId} inherited from a parent POM · +1 more |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
+| [mvdan/sh](https://github.com/mvdan/sh) | ⭐ 9k | [#1369](https://github.com/mvdan/sh/pull/1369) expand: give printf numbers a leading-quote character value |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 8.9k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 8.8k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
 | [go-git/go-git](https://github.com/go-git/go-git) | ⭐ 7.6k | [#2295](https://github.com/go-git/go-git/pull/2295) plumbing: format/packfile, reset base position on backward delta copy |
 | [hashicorp/hcl](https://github.com/hashicorp/hcl) | ⭐ 5.8k | [#815](https://github.com/hashicorp/hcl/pull/815) ext/typeexpr: render optional attributes in TypeString |
 | [BurntSushi/toml](https://github.com/BurntSushi/toml) | ⭐ 5k | [#509](https://github.com/BurntSushi/toml/pull/509) encode: reject integers that don't fit in int64 · +1 more |
 | [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) | ⭐ 4.6k | [#186](https://github.com/tailwindlabs/tailwindcss-forms/pull/186) docs: clarify checkbox checked background colors |
-| [goccy/go-json](https://github.com/goccy/go-json) | ⭐ 3.7k | [#598](https://github.com/goccy/go-json/pull/598) decoder: reject malformed number literals to match encoding/json |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
