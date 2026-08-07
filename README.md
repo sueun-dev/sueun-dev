@@ -100,13 +100,14 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 42 open PRs in review &nbsp;·&nbsp; 38 projects &nbsp;·&nbsp; ⭐ 366.3k+ combined</strong></p>
+<p><strong>🔍 44 open PRs in review &nbsp;·&nbsp; 39 projects &nbsp;·&nbsp; ⭐ 396.5k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 177.9k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.3k | [#11058](https://github.com/aquasecurity/trivy/pull/11058) fix(python): parse poetry dependencies with marker-specific constraints · +2 more |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 178k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.3k | [#11059](https://github.com/aquasecurity/trivy/pull/11059) fix(java): don't inherit a relativePath POM that only matches the parent ArtifactID · +3 more |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 34.9k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
+| [helm/helm](https://github.com/helm/helm) | ⭐ 30.1k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.7k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
 | [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.4k | [#5150](https://github.com/anchore/syft/pull/5150) Fix wrong SPDX license expression when a package has multiple licenses |
@@ -118,7 +119,6 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [BurntSushi/toml](https://github.com/BurntSushi/toml) | ⭐ 5k | [#509](https://github.com/BurntSushi/toml/pull/509) encode: reject integers that don't fit in int64 · +1 more |
 | [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) | ⭐ 4.6k | [#186](https://github.com/tailwindlabs/tailwindcss-forms/pull/186) docs: clarify checkbox checked background colors |
 | [goccy/go-json](https://github.com/goccy/go-json) | ⭐ 3.7k | [#598](https://github.com/goccy/go-json/pull/598) decoder: reject malformed number literals to match encoding/json |
-| [goccy/go-yaml](https://github.com/goccy/go-yaml) | ⭐ 2.2k | [#902](https://github.com/goccy/go-yaml/pull/902) fix(parser): limit nesting depth to avoid quadratic parse time |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
