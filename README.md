@@ -71,11 +71,12 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 126.5k+ stars reached &nbsp;·&nbsp; 26 open-source projects &nbsp;·&nbsp; 29 merged PRs</strong></p>
+<p><strong>🌟 167.1k+ stars reached &nbsp;·&nbsp; 28 open-source projects &nbsp;·&nbsp; 31 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [gofiber/fiber](https://github.com/gofiber/fiber) | ⭐ 40k | [#4507](https://github.com/gofiber/fiber/pull/4507) 🐛 bug: Fix the normalization of the leading slash in the root path for fs.FS static serving |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.3k | [#11050](https://github.com/aquasecurity/trivy/pull/11050) fix(python): normalize dependency names in PEP 621 pyproject.toml |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers · +2 more |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | ⭐ 16k | [#6679](https://github.com/goreleaser/goreleaser/pull/6679) fix(builders): reject empty target string |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.8k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
@@ -84,12 +85,11 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [h3js/h3](https://github.com/h3js/h3) | ⭐ 5.4k | [#1450](https://github.com/h3js/h3/pull/1450) docs: remove non-existent sendEventStream from createEventStream example |
 | [console-rs/indicatif](https://github.com/console-rs/indicatif) | ⭐ 5.2k | [#815](https://github.com/console-rs/indicatif/pull/815) Fix stray comma after minus sign in HumanFloatCount |
 | [getsentry/responses](https://github.com/getsentry/responses) | ⭐ 4.3k | [#797](https://github.com/getsentry/responses/pull/797) docs: update tox Python version examples |
+| [charmbracelet/log](https://github.com/charmbracelet/log) | ⭐ 3.3k | [#218](https://github.com/charmbracelet/log/pull/218) docs: fix README install path to charm.land/log/v2 |
 | [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) | ⭐ 2.4k | [#2275](https://github.com/lestrrat-go/jwx/pull/2275) jwe: serialize the JSON "aad" member as BASE64URL(JWE AAD) |
 | [besu-eth/besu](https://github.com/besu-eth/besu) | ⭐ 1.8k | [#10566](https://github.com/besu-eth/besu/pull/10566) fix(discv5): lower verbose logs to trace |
 | [carapace-sh/carapace](https://github.com/carapace-sh/carapace) | ⭐ 1.4k | [#1232](https://github.com/carapace-sh/carapace/pull/1232) Document zsh case-insensitive matching setup |
 | [sigstore/rekor](https://github.com/sigstore/rekor) | ⭐ 1.2k | [#2908](https://github.com/sigstore/rekor/pull/2908) alpine: hash only the bytes read when computing the control.tar.gz digest |
-| [floatpane/matcha](https://github.com/floatpane/matcha) | ⭐ 1.1k | [#525](https://github.com/floatpane/matcha/pull/525) fix(imap): close debug log file handle to prevent fd leak |
-| [lambdaclass/ethrex](https://github.com/lambdaclass/ethrex) | ⭐ 889 | [#6342](https://github.com/lambdaclass/ethrex/pull/6342) fix(levm): validate remaining block gas in parallel pipeline |
 <!-- OSS-CONTRIBUTIONS:END -->
 
 ---
@@ -100,12 +100,12 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 41 open PRs in review &nbsp;·&nbsp; 39 projects &nbsp;·&nbsp; ⭐ 369.5k+ combined</strong></p>
+<p><strong>🔍 42 open PRs in review &nbsp;·&nbsp; 38 projects &nbsp;·&nbsp; ⭐ 366.3k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 177.9k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.3k | [#11050](https://github.com/aquasecurity/trivy/pull/11050) fix(python): normalize dependency names in PEP 621 pyproject.toml |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.3k | [#11058](https://github.com/aquasecurity/trivy/pull/11058) fix(python): parse poetry dependencies with marker-specific constraints · +2 more |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 34.9k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.7k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
@@ -118,7 +118,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [BurntSushi/toml](https://github.com/BurntSushi/toml) | ⭐ 5k | [#509](https://github.com/BurntSushi/toml/pull/509) encode: reject integers that don't fit in int64 · +1 more |
 | [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) | ⭐ 4.6k | [#186](https://github.com/tailwindlabs/tailwindcss-forms/pull/186) docs: clarify checkbox checked background colors |
 | [goccy/go-json](https://github.com/goccy/go-json) | ⭐ 3.7k | [#598](https://github.com/goccy/go-json/pull/598) decoder: reject malformed number literals to match encoding/json |
-| [charmbracelet/log](https://github.com/charmbracelet/log) | ⭐ 3.3k | [#218](https://github.com/charmbracelet/log/pull/218) docs: fix README install path to charm.land/log/v2 |
+| [goccy/go-yaml](https://github.com/goccy/go-yaml) | ⭐ 2.2k | [#902](https://github.com/goccy/go-yaml/pull/902) fix(parser): limit nesting depth to avoid quadratic parse time |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
