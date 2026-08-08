@@ -71,7 +71,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 167.1k+ stars reached &nbsp;·&nbsp; 28 open-source projects &nbsp;·&nbsp; 31 merged PRs</strong></p>
+<p><strong>🌟 167.2k+ stars reached &nbsp;·&nbsp; 28 open-source projects &nbsp;·&nbsp; 31 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -100,7 +100,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 46 open PRs in review &nbsp;·&nbsp; 40 projects &nbsp;·&nbsp; ⭐ 405.5k+ combined</strong></p>
+<p><strong>🔍 48 open PRs in review &nbsp;·&nbsp; 41 projects &nbsp;·&nbsp; ⭐ 418.3k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -109,16 +109,16 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 34.9k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [helm/helm](https://github.com/helm/helm) | ⭐ 30.1k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
+| [anchore/grype](https://github.com/anchore/grype) | ⭐ 12.7k | [#3641](https://github.com/anchore/grype/pull/3641) fix(match): skip packages with an empty version like the "unknown" sentinel |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.7k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
-| [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.4k | [#5160](https://github.com/anchore/syft/pull/5160) fix(java): resolve ${project.groupId} inherited from a parent POM · +1 more |
+| [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.4k | [#5161](https://github.com/anchore/syft/pull/5161) fix(python): keep epoch-pinned requirements in the SBOM · +2 more |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
 | [mvdan/sh](https://github.com/mvdan/sh) | ⭐ 9k | [#1369](https://github.com/mvdan/sh/pull/1369) expand: give printf numbers a leading-quote character value |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 8.9k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 8.8k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
-| [go-git/go-git](https://github.com/go-git/go-git) | ⭐ 7.6k | [#2295](https://github.com/go-git/go-git/pull/2295) plumbing: format/packfile, reset base position on backward delta copy |
+| [go-git/go-git](https://github.com/go-git/go-git) | ⭐ 7.7k | [#2295](https://github.com/go-git/go-git/pull/2295) plumbing: format/packfile, reset base position on backward delta copy |
 | [hashicorp/hcl](https://github.com/hashicorp/hcl) | ⭐ 5.8k | [#815](https://github.com/hashicorp/hcl/pull/815) ext/typeexpr: render optional attributes in TypeString |
 | [BurntSushi/toml](https://github.com/BurntSushi/toml) | ⭐ 5k | [#509](https://github.com/BurntSushi/toml/pull/509) encode: reject integers that don't fit in int64 · +1 more |
-| [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) | ⭐ 4.6k | [#186](https://github.com/tailwindlabs/tailwindcss-forms/pull/186) docs: clarify checkbox checked background colors |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
