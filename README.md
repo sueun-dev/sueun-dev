@@ -100,21 +100,21 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 50 open PRs in review &nbsp;·&nbsp; 43 projects &nbsp;·&nbsp; ⭐ 484.2k+ combined</strong></p>
+<p><strong>🔍 52 open PRs in review &nbsp;·&nbsp; 44 projects &nbsp;·&nbsp; ⭐ 488.1k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 178.1k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 65.6k | [#19367](https://github.com/prometheus/prometheus/pull/19367) fix(model/histogram): do not miss counter resets behind empty buckets in DetectReset |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.3k | [#11059](https://github.com/aquasecurity/trivy/pull/11059) fix(java): don't inherit a relativePath POM that only matches the parent ArtifactID · +3 more |
-| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 34.9k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
+| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 35k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [helm/helm](https://github.com/helm/helm) | ⭐ 30.1k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 12.7k | [#3641](https://github.com/anchore/grype/pull/3641) fix(match): skip packages with an empty version like the "unknown" sentinel |
+| [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#8989](https://github.com/open-policy-agent/opa/pull/8989) topdown: fix false modulo by zero for multiples of 2^64 · +1 more |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.7k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
 | [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.4k | [#5161](https://github.com/anchore/syft/pull/5161) fix(python): keep epoch-pinned requirements in the SBOM · +2 more |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
-| [mvdan/sh](https://github.com/mvdan/sh) | ⭐ 9k | [#1369](https://github.com/mvdan/sh/pull/1369) expand: give printf numbers a leading-quote character value |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 8.9k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 8.8k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
 | [go-git/go-git](https://github.com/go-git/go-git) | ⭐ 7.7k | [#2295](https://github.com/go-git/go-git/pull/2295) plumbing: format/packfile, reset base position on backward delta copy |
