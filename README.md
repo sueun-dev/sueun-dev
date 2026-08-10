@@ -71,14 +71,15 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 167.2k+ stars reached &nbsp;·&nbsp; 28 open-source projects &nbsp;·&nbsp; 31 merged PRs</strong></p>
+<p><strong>🌟 179.3k+ stars reached &nbsp;·&nbsp; 29 open-source projects &nbsp;·&nbsp; 32 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [gofiber/fiber](https://github.com/gofiber/fiber) | ⭐ 40k | [#4507](https://github.com/gofiber/fiber/pull/4507) 🐛 bug: Fix the normalization of the leading slash in the root path for fs.FS static serving |
+| [gofiber/fiber](https://github.com/gofiber/fiber) | ⭐ 40.1k | [#4507](https://github.com/gofiber/fiber/pull/4507) 🐛 bug: Fix the normalization of the leading slash in the root path for fs.FS static serving |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.3k | [#11050](https://github.com/aquasecurity/trivy/pull/11050) fix(python): normalize dependency names in PEP 621 pyproject.toml |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers · +2 more |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | ⭐ 16k | [#6679](https://github.com/goreleaser/goreleaser/pull/6679) fix(builders): reject empty target string |
+| [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#8989](https://github.com/open-policy-agent/opa/pull/8989) topdown: fix false modulo by zero for multiples of 2^64 |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.9k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
 | [nats-io/nats.go](https://github.com/nats-io/nats.go) | ⭐ 6.7k | [#2099](https://github.com/nats-io/nats.go/pull/2099) [FIXED] MsgsTimeout iterator yields spurious (nil, nil) after a timeout |
 | [klauspost/compress](https://github.com/klauspost/compress) | ⭐ 5.6k | [#1177](https://github.com/klauspost/compress/pull/1177) zstd: don't clear the registered dictionary when decoding past the window |
@@ -89,7 +90,6 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) | ⭐ 2.4k | [#2275](https://github.com/lestrrat-go/jwx/pull/2275) jwe: serialize the JSON "aad" member as BASE64URL(JWE AAD) |
 | [besu-eth/besu](https://github.com/besu-eth/besu) | ⭐ 1.8k | [#10566](https://github.com/besu-eth/besu/pull/10566) fix(discv5): lower verbose logs to trace |
 | [carapace-sh/carapace](https://github.com/carapace-sh/carapace) | ⭐ 1.4k | [#1232](https://github.com/carapace-sh/carapace/pull/1232) Document zsh case-insensitive matching setup |
-| [sigstore/rekor](https://github.com/sigstore/rekor) | ⭐ 1.2k | [#2908](https://github.com/sigstore/rekor/pull/2908) alpine: hash only the bytes read when computing the control.tar.gz digest |
 <!-- OSS-CONTRIBUTIONS:END -->
 
 ---
@@ -100,19 +100,19 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 55 open PRs in review &nbsp;·&nbsp; 46 projects &nbsp;·&nbsp; ⭐ 509.7k+ combined</strong></p>
+<p><strong>🔍 55 open PRs in review &nbsp;·&nbsp; 46 projects &nbsp;·&nbsp; ⭐ 509.8k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 178.2k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
-| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 65.6k | [#19367](https://github.com/prometheus/prometheus/pull/19367) fix(model/histogram): do not miss counter resets behind empty buckets in DetectReset |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 65.7k | [#19367](https://github.com/prometheus/prometheus/pull/19367) fix(model/histogram): do not miss counter resets behind empty buckets in DetectReset |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.3k | [#11059](https://github.com/aquasecurity/trivy/pull/11059) fix(java): don't inherit a relativePath POM that only matches the parent ArtifactID · +3 more |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 35k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [helm/helm](https://github.com/helm/helm) | ⭐ 30.1k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.1k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 12.7k | [#3641](https://github.com/anchore/grype/pull/3641) fix(match): skip packages with an empty version like the "unknown" sentinel |
-| [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#8989](https://github.com/open-policy-agent/opa/pull/8989) topdown: fix false modulo by zero for multiples of 2^64 · +1 more |
+| [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#8987](https://github.com/open-policy-agent/opa/pull/8987) topdown: fix sum overflow when integer elements fit int64 but the sum does not |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.7k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
 | [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.4k | [#5161](https://github.com/anchore/syft/pull/5161) fix(python): keep epoch-pinned requirements in the SBOM · +2 more |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
