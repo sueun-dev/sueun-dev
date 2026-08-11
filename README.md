@@ -71,12 +71,12 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 179.3k+ stars reached &nbsp;·&nbsp; 29 open-source projects &nbsp;·&nbsp; 32 merged PRs</strong></p>
+<p><strong>🌟 179.4k+ stars reached &nbsp;·&nbsp; 29 open-source projects &nbsp;·&nbsp; 32 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [gofiber/fiber](https://github.com/gofiber/fiber) | ⭐ 40.1k | [#4507](https://github.com/gofiber/fiber/pull/4507) 🐛 bug: Fix the normalization of the leading slash in the root path for fs.FS static serving |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.3k | [#11050](https://github.com/aquasecurity/trivy/pull/11050) fix(python): normalize dependency names in PEP 621 pyproject.toml |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.4k | [#11050](https://github.com/aquasecurity/trivy/pull/11050) fix(python): normalize dependency names in PEP 621 pyproject.toml |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers · +2 more |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | ⭐ 16k | [#6679](https://github.com/goreleaser/goreleaser/pull/6679) fix(builders): reject empty target string |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#8989](https://github.com/open-policy-agent/opa/pull/8989) topdown: fix false modulo by zero for multiples of 2^64 |
@@ -100,13 +100,13 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 55 open PRs in review &nbsp;·&nbsp; 46 projects &nbsp;·&nbsp; ⭐ 509.8k+ combined</strong></p>
+<p><strong>🔍 57 open PRs in review &nbsp;·&nbsp; 46 projects &nbsp;·&nbsp; ⭐ 509.9k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 178.2k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 65.7k | [#19367](https://github.com/prometheus/prometheus/pull/19367) fix(model/histogram): do not miss counter resets behind empty buckets in DetectReset |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.3k | [#11059](https://github.com/aquasecurity/trivy/pull/11059) fix(java): don't inherit a relativePath POM that only matches the parent ArtifactID · +3 more |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.4k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(bun): derive package name and version from the identifier · +5 more |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 35k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [helm/helm](https://github.com/helm/helm) | ⭐ 30.1k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
