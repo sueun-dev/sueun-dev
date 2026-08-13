@@ -100,11 +100,11 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 58 open PRs in review &nbsp;·&nbsp; 47 projects &nbsp;·&nbsp; ⭐ 488.5k+ combined</strong></p>
+<p><strong>🔍 58 open PRs in review &nbsp;·&nbsp; 46 projects &nbsp;·&nbsp; ⭐ 494.5k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 178.4k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 178.5k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.4k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(bun): derive package name and version from the identifier · +5 more |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 35.1k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [helm/helm](https://github.com/helm/helm) | ⭐ 30.2k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
@@ -114,7 +114,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.1k | [#2625](https://github.com/jackc/pgx/pull/2625) pgconn: use the default port for a URL host that omits its port |
 | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | ⭐ 14k | [#9130](https://github.com/cert-manager/cert-manager/pull/9130) fix: encode directoryName SANs with explicit tagging · +1 more |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 12.7k | [#3641](https://github.com/anchore/grype/pull/3641) fix(match): skip packages with an empty version like the "unknown" sentinel |
-| [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#9004](https://github.com/open-policy-agent/opa/pull/9004) internal/semver: reject leading zeroes and empty pre-release/build |
+| [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#9004](https://github.com/open-policy-agent/opa/pull/9004) semver: reject leading zeroes and empty pre-release/build |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.7k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
 | [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.4k | [#5161](https://github.com/anchore/syft/pull/5161) fix(python): keep epoch-pinned requirements in the SBOM · +2 more |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
