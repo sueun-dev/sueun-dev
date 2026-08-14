@@ -71,7 +71,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 245.2k+ stars reached &nbsp;·&nbsp; 31 open-source projects &nbsp;·&nbsp; 37 merged PRs</strong></p>
+<p><strong>🌟 245.3k+ stars reached &nbsp;·&nbsp; 31 open-source projects &nbsp;·&nbsp; 37 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -100,18 +100,18 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 58 open PRs in review &nbsp;·&nbsp; 46 projects &nbsp;·&nbsp; ⭐ 494.5k+ combined</strong></p>
+<p><strong>🔍 61 open PRs in review &nbsp;·&nbsp; 46 projects &nbsp;·&nbsp; ⭐ 494.6k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 178.5k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.4k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(bun): derive package name and version from the identifier · +5 more |
-| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 35.1k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
+| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 35.2k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [helm/helm](https://github.com/helm/helm) | ⭐ 30.2k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.7k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.1k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
-| [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.2k | [#8421](https://github.com/coredns/coredns/pull/8421) plugin/rewrite: apply rcode rewrites to responses with no records |
-| [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.1k | [#2625](https://github.com/jackc/pgx/pull/2625) pgconn: use the default port for a URL host that omits its port |
+| [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.2k | [#8438](https://github.com/coredns/coredns/pull/8438) plugin/cache: preserve AD when storing cache entries · +1 more |
+| [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.1k | [#2628](https://github.com/jackc/pgx/pull/2628) pgtype: preserve precision in Numeric.ScanScientific · +1 more |
 | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | ⭐ 14k | [#9130](https://github.com/cert-manager/cert-manager/pull/9130) fix: encode directoryName SANs with explicit tagging · +1 more |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 12.7k | [#3641](https://github.com/anchore/grype/pull/3641) fix(match): skip packages with an empty version like the "unknown" sentinel |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#9004](https://github.com/open-policy-agent/opa/pull/9004) semver: reject leading zeroes and empty pre-release/build |
