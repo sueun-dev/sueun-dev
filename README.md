@@ -71,7 +71,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 245.3k+ stars reached &nbsp;·&nbsp; 31 open-source projects &nbsp;·&nbsp; 37 merged PRs</strong></p>
+<p><strong>🌟 246k+ stars reached &nbsp;·&nbsp; 32 open-source projects &nbsp;·&nbsp; 38 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -100,11 +100,11 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 61 open PRs in review &nbsp;·&nbsp; 46 projects &nbsp;·&nbsp; ⭐ 494.6k+ combined</strong></p>
+<p><strong>🔍 60 open PRs in review &nbsp;·&nbsp; 45 projects &nbsp;·&nbsp; ⭐ 494k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 178.5k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 178.6k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.4k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(bun): derive package name and version from the identifier · +5 more |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 35.2k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [helm/helm](https://github.com/helm/helm) | ⭐ 30.2k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
