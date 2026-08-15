@@ -71,7 +71,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 246k+ stars reached &nbsp;·&nbsp; 32 open-source projects &nbsp;·&nbsp; 38 merged PRs</strong></p>
+<p><strong>🌟 260.2k+ stars reached &nbsp;·&nbsp; 33 open-source projects &nbsp;·&nbsp; 39 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -80,6 +80,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.4k | [#11050](https://github.com/aquasecurity/trivy/pull/11050) fix(python): normalize dependency names in PEP 621 pyproject.toml |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers · +2 more |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | ⭐ 16k | [#6679](https://github.com/goreleaser/goreleaser/pull/6679) fix(builders): reject empty target string |
+| [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.2k | [#8438](https://github.com/coredns/coredns/pull/8438) plugin/cache: preserve AD when storing cache entries |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#8987](https://github.com/open-policy-agent/opa/pull/8987) topdown: fix sum overflow when integer elements fit int64 but the sum does not · +1 more |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.9k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
 | [nats-io/nats.go](https://github.com/nats-io/nats.go) | ⭐ 6.7k | [#2099](https://github.com/nats-io/nats.go/pull/2099) [FIXED] MsgsTimeout iterator yields spurious (nil, nil) after a timeout |
@@ -89,7 +90,6 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [getsentry/responses](https://github.com/getsentry/responses) | ⭐ 4.3k | [#797](https://github.com/getsentry/responses/pull/797) docs: update tox Python version examples |
 | [charmbracelet/log](https://github.com/charmbracelet/log) | ⭐ 3.4k | [#218](https://github.com/charmbracelet/log/pull/218) docs: fix README install path to charm.land/log/v2 |
 | [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) | ⭐ 2.4k | [#2275](https://github.com/lestrrat-go/jwx/pull/2275) jwe: serialize the JSON "aad" member as BASE64URL(JWE AAD) |
-| [besu-eth/besu](https://github.com/besu-eth/besu) | ⭐ 1.8k | [#10566](https://github.com/besu-eth/besu/pull/10566) fix(discv5): lower verbose logs to trace |
 <!-- OSS-CONTRIBUTIONS:END -->
 
 ---
@@ -100,18 +100,18 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 60 open PRs in review &nbsp;·&nbsp; 45 projects &nbsp;·&nbsp; ⭐ 494k+ combined</strong></p>
+<p><strong>🔍 58 open PRs in review &nbsp;·&nbsp; 44 projects &nbsp;·&nbsp; ⭐ 488.9k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 178.6k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 178.5k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.4k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(bun): derive package name and version from the identifier · +5 more |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 35.2k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
-| [helm/helm](https://github.com/helm/helm) | ⭐ 30.2k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
-| [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.7k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
+| [helm/helm](https://github.com/helm/helm) | ⭐ 30.1k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
+| [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.1k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
-| [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.2k | [#8438](https://github.com/coredns/coredns/pull/8438) plugin/cache: preserve AD when storing cache entries · +1 more |
-| [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.1k | [#2628](https://github.com/jackc/pgx/pull/2628) pgtype: preserve precision in Numeric.ScanScientific · +1 more |
+| [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.2k | [#8421](https://github.com/coredns/coredns/pull/8421) plugin/rewrite: apply rcode rewrites to responses with no records |
+| [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.1k | [#2630](https://github.com/jackc/pgx/pull/2630) pgtype: support non-comma text array delimiters · +2 more |
 | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | ⭐ 14k | [#9130](https://github.com/cert-manager/cert-manager/pull/9130) fix: encode directoryName SANs with explicit tagging · +1 more |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 12.7k | [#3641](https://github.com/anchore/grype/pull/3641) fix(match): skip packages with an empty version like the "unknown" sentinel |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#9004](https://github.com/open-policy-agent/opa/pull/9004) semver: reject leading zeroes and empty pre-release/build |
