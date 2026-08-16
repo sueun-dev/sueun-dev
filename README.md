@@ -71,7 +71,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 260.4k+ stars reached &nbsp;·&nbsp; 34 open-source projects &nbsp;·&nbsp; 41 merged PRs</strong></p>
+<p><strong>🌟 274.5k+ stars reached &nbsp;·&nbsp; 35 open-source projects &nbsp;·&nbsp; 43 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -81,6 +81,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers · +2 more |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | ⭐ 16k | [#6679](https://github.com/goreleaser/goreleaser/pull/6679) fix(builders): reject empty target string |
 | [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.2k | [#8438](https://github.com/coredns/coredns/pull/8438) plugin/cache: preserve AD when storing cache entries |
+| [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.1k | [#2630](https://github.com/jackc/pgx/pull/2630) pgtype: support non-comma text array delimiters · +1 more |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#8987](https://github.com/open-policy-agent/opa/pull/8987) topdown: fix sum overflow when integer elements fit int64 but the sum does not · +1 more |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.9k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
 | [nats-io/nats.go](https://github.com/nats-io/nats.go) | ⭐ 6.7k | [#2099](https://github.com/nats-io/nats.go/pull/2099) [FIXED] MsgsTimeout iterator yields spurious (nil, nil) after a timeout |
@@ -89,7 +90,6 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [console-rs/indicatif](https://github.com/console-rs/indicatif) | ⭐ 5.2k | [#815](https://github.com/console-rs/indicatif/pull/815) Fix stray comma after minus sign in HumanFloatCount |
 | [getsentry/responses](https://github.com/getsentry/responses) | ⭐ 4.3k | [#797](https://github.com/getsentry/responses/pull/797) docs: update tox Python version examples |
 | [charmbracelet/log](https://github.com/charmbracelet/log) | ⭐ 3.4k | [#218](https://github.com/charmbracelet/log/pull/218) docs: fix README install path to charm.land/log/v2 |
-| [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) | ⭐ 2.4k | [#2275](https://github.com/lestrrat-go/jwx/pull/2275) jwe: serialize the JSON "aad" member as BASE64URL(JWE AAD) |
 <!-- OSS-CONTRIBUTIONS:END -->
 
 ---
@@ -100,7 +100,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 56 open PRs in review &nbsp;·&nbsp; 43 projects &nbsp;·&nbsp; ⭐ 488.9k+ combined</strong></p>
+<p><strong>🔍 54 open PRs in review &nbsp;·&nbsp; 43 projects &nbsp;·&nbsp; ⭐ 489k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -111,7 +111,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.1k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
 | [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.2k | [#8421](https://github.com/coredns/coredns/pull/8421) plugin/rewrite: apply rcode rewrites to responses with no records |
-| [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.1k | [#2630](https://github.com/jackc/pgx/pull/2630) pgtype: support non-comma text array delimiters · +2 more |
+| [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.1k | [#2625](https://github.com/jackc/pgx/pull/2625) pgconn: use the default port for a URL host that omits its port |
 | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | ⭐ 14k | [#9130](https://github.com/cert-manager/cert-manager/pull/9130) fix: encode directoryName SANs with explicit tagging · +1 more |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 12.7k | [#3641](https://github.com/anchore/grype/pull/3641) fix(match): skip packages with an empty version like the "unknown" sentinel |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#9004](https://github.com/open-policy-agent/opa/pull/9004) semver: reject leading zeroes and empty pre-release/build |
