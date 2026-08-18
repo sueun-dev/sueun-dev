@@ -71,7 +71,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 283.1k+ stars reached &nbsp;·&nbsp; 36 open-source projects &nbsp;·&nbsp; 44 merged PRs</strong></p>
+<p><strong>🌟 283.2k+ stars reached &nbsp;·&nbsp; 36 open-source projects &nbsp;·&nbsp; 45 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -80,7 +80,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.5k | [#11050](https://github.com/aquasecurity/trivy/pull/11050) fix(python): normalize dependency names in PEP 621 pyproject.toml |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers · +2 more |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | ⭐ 16k | [#6679](https://github.com/goreleaser/goreleaser/pull/6679) fix(builders): reject empty target string |
-| [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.2k | [#8438](https://github.com/coredns/coredns/pull/8438) plugin/cache: preserve AD when storing cache entries |
+| [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.2k | [#8421](https://github.com/coredns/coredns/pull/8421) plugin/rewrite: apply rcode rewrites to responses with no records · +1 more |
 | [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.1k | [#2630](https://github.com/jackc/pgx/pull/2630) pgtype: support non-comma text array delimiters · +1 more |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#8987](https://github.com/open-policy-agent/opa/pull/8987) topdown: fix sum overflow when integer elements fit int64 but the sum does not · +1 more |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.9k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
@@ -100,7 +100,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 54 open PRs in review &nbsp;·&nbsp; 43 projects &nbsp;·&nbsp; ⭐ 489.3k+ combined</strong></p>
+<p><strong>🔍 54 open PRs in review &nbsp;·&nbsp; 44 projects &nbsp;·&nbsp; ⭐ 475.7k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -110,8 +110,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [helm/helm](https://github.com/helm/helm) | ⭐ 30.1k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.1k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
-| [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.2k | [#8421](https://github.com/coredns/coredns/pull/8421) plugin/rewrite: apply rcode rewrites to responses with no records |
-| [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.1k | [#2631](https://github.com/jackc/pgx/pull/2631) pgtype: parse extended-range text timestamps · +1 more |
+| [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.1k | [#2631](https://github.com/jackc/pgx/pull/2631) pgtype: parse extended-range text timestamps |
 | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | ⭐ 14k | [#9130](https://github.com/cert-manager/cert-manager/pull/9130) fix: encode directoryName SANs with explicit tagging · +1 more |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 12.8k | [#3641](https://github.com/anchore/grype/pull/3641) fix(match): skip packages with an empty version like the "unknown" sentinel |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#9004](https://github.com/open-policy-agent/opa/pull/9004) semver: reject leading zeroes and empty pre-release/build |
@@ -119,6 +118,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.4k | [#5161](https://github.com/anchore/syft/pull/5161) fix(python): keep epoch-pinned requirements in the SBOM · +2 more |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 8.9k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
+| [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 8.8k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
