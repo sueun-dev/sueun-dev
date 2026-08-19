@@ -71,7 +71,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 283.2k+ stars reached &nbsp;·&nbsp; 36 open-source projects &nbsp;·&nbsp; 45 merged PRs</strong></p>
+<p><strong>🌟 283.3k+ stars reached &nbsp;·&nbsp; 36 open-source projects &nbsp;·&nbsp; 46 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -80,7 +80,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.5k | [#11050](https://github.com/aquasecurity/trivy/pull/11050) fix(python): normalize dependency names in PEP 621 pyproject.toml |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers · +2 more |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | ⭐ 16k | [#6679](https://github.com/goreleaser/goreleaser/pull/6679) fix(builders): reject empty target string |
-| [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.2k | [#8421](https://github.com/coredns/coredns/pull/8421) plugin/rewrite: apply rcode rewrites to responses with no records · +1 more |
+| [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.3k | [#8421](https://github.com/coredns/coredns/pull/8421) plugin/rewrite: apply rcode rewrites to responses with no records · +1 more |
 | [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.2k | [#2630](https://github.com/jackc/pgx/pull/2630) pgtype: support non-comma text array delimiters · +1 more |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#8987](https://github.com/open-policy-agent/opa/pull/8987) topdown: fix sum overflow when integer elements fit int64 but the sum does not · +1 more |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.9k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
@@ -100,7 +100,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 53 open PRs in review &nbsp;·&nbsp; 43 projects &nbsp;·&nbsp; ⭐ 461.6k+ combined</strong></p>
+<p><strong>🔍 52 open PRs in review &nbsp;·&nbsp; 42 projects &nbsp;·&nbsp; ⭐ 461.4k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
