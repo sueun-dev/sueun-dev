@@ -71,7 +71,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 283.3k+ stars reached &nbsp;·&nbsp; 36 open-source projects &nbsp;·&nbsp; 46 merged PRs</strong></p>
+<p><strong>🌟 306.9k+ stars reached &nbsp;·&nbsp; 39 open-source projects &nbsp;·&nbsp; 49 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -82,14 +82,14 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | ⭐ 16k | [#6679](https://github.com/goreleaser/goreleaser/pull/6679) fix(builders): reject empty target string |
 | [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.3k | [#8421](https://github.com/coredns/coredns/pull/8421) plugin/rewrite: apply rcode rewrites to responses with no records · +1 more |
 | [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.2k | [#2630](https://github.com/jackc/pgx/pull/2630) pgtype: support non-comma text array delimiters · +1 more |
+| [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | ⭐ 14k | [#9130](https://github.com/cert-manager/cert-manager/pull/9130) fix: encode directoryName SANs with explicit tagging |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#8987](https://github.com/open-policy-agent/opa/pull/8987) topdown: fix sum overflow when integer elements fit int64 but the sum does not · +1 more |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.9k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
+| [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.4k | [#5161](https://github.com/anchore/syft/pull/5161) fix(python): keep epoch-pinned requirements in the SBOM |
 | [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | ⭐ 8.6k | [#5448](https://github.com/prometheus/alertmanager/pull/5448) config: keep local SMTP auth secret overrides |
 | [nats-io/nats.go](https://github.com/nats-io/nats.go) | ⭐ 6.7k | [#2099](https://github.com/nats-io/nats.go/pull/2099) [FIXED] MsgsTimeout iterator yields spurious (nil, nil) after a timeout |
 | [klauspost/compress](https://github.com/klauspost/compress) | ⭐ 5.6k | [#1177](https://github.com/klauspost/compress/pull/1177) zstd: don't clear the registered dictionary when decoding past the window |
 | [h3js/h3](https://github.com/h3js/h3) | ⭐ 5.4k | [#1450](https://github.com/h3js/h3/pull/1450) docs: remove non-existent sendEventStream from createEventStream example |
-| [console-rs/indicatif](https://github.com/console-rs/indicatif) | ⭐ 5.2k | [#815](https://github.com/console-rs/indicatif/pull/815) Fix stray comma after minus sign in HumanFloatCount |
-| [getsentry/responses](https://github.com/getsentry/responses) | ⭐ 4.3k | [#797](https://github.com/getsentry/responses/pull/797) docs: update tox Python version examples |
 <!-- OSS-CONTRIBUTIONS:END -->
 
 ---
@@ -100,7 +100,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 53 open PRs in review &nbsp;·&nbsp; 43 projects &nbsp;·&nbsp; ⭐ 527.3k+ combined</strong></p>
+<p><strong>🔍 51 open PRs in review &nbsp;·&nbsp; 42 projects &nbsp;·&nbsp; ⭐ 527.4k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -111,11 +111,11 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [helm/helm](https://github.com/helm/helm) | ⭐ 30.2k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.1k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
-| [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | ⭐ 14k | [#9130](https://github.com/cert-manager/cert-manager/pull/9130) fix: encode directoryName SANs with explicit tagging · +1 more |
+| [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | ⭐ 14k | [#9129](https://github.com/cert-manager/cert-manager/pull/9129) fix: renewBeforePercentage validation checks the complement of the effective renewBefore |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 12.8k | [#3641](https://github.com/anchore/grype/pull/3641) fix(match): skip packages with an empty version like the "unknown" sentinel |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#9004](https://github.com/open-policy-agent/opa/pull/9004) semver: reject leading zeroes and empty pre-release/build |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.7k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
-| [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.4k | [#5161](https://github.com/anchore/syft/pull/5161) fix(python): keep epoch-pinned requirements in the SBOM · +2 more |
+| [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.4k | [#5201](https://github.com/anchore/syft/pull/5201) fix(rpm): keep the epoch when parsing RPM manifest packages · +2 more |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 8.9k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 8.8k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
