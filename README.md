@@ -71,13 +71,13 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 307k+ stars reached &nbsp;·&nbsp; 39 open-source projects &nbsp;·&nbsp; 50 merged PRs</strong></p>
+<p><strong>🌟 307k+ stars reached &nbsp;·&nbsp; 39 open-source projects &nbsp;·&nbsp; 51 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 65.8k | [#19367](https://github.com/prometheus/prometheus/pull/19367) fix(model/histogram): do not miss counter resets behind empty buckets in DetectReset |
 | [gofiber/fiber](https://github.com/gofiber/fiber) | ⭐ 40.1k | [#4507](https://github.com/gofiber/fiber/pull/4507) 🐛 bug: Fix the normalization of the leading slash in the root path for fs.FS static serving |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.5k | [#11050](https://github.com/aquasecurity/trivy/pull/11050) fix(python): normalize dependency names in PEP 621 pyproject.toml |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.6k | [#11050](https://github.com/aquasecurity/trivy/pull/11050) fix(python): normalize dependency names in PEP 621 pyproject.toml |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers · +2 more |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | ⭐ 16k | [#6679](https://github.com/goreleaser/goreleaser/pull/6679) fix(builders): reject empty target string |
 | [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.3k | [#8421](https://github.com/coredns/coredns/pull/8421) plugin/rewrite: apply rcode rewrites to responses with no records · +1 more |
@@ -86,7 +86,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#8987](https://github.com/open-policy-agent/opa/pull/8987) topdown: fix sum overflow when integer elements fit int64 but the sum does not · +1 more |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.9k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
 | [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.4k | [#5201](https://github.com/anchore/syft/pull/5201) fix(rpm): keep the epoch when parsing RPM manifest packages · +1 more |
-| [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | ⭐ 8.6k | [#5448](https://github.com/prometheus/alertmanager/pull/5448) config: keep local SMTP auth secret overrides |
+| [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | ⭐ 8.6k | [#5447](https://github.com/prometheus/alertmanager/pull/5447) timeinterval: fix negative days_of_month across DST transitions · +1 more |
 | [nats-io/nats.go](https://github.com/nats-io/nats.go) | ⭐ 6.7k | [#2099](https://github.com/nats-io/nats.go/pull/2099) [FIXED] MsgsTimeout iterator yields spurious (nil, nil) after a timeout |
 | [klauspost/compress](https://github.com/klauspost/compress) | ⭐ 5.6k | [#1177](https://github.com/klauspost/compress/pull/1177) zstd: don't clear the registered dictionary when decoding past the window |
 | [h3js/h3](https://github.com/h3js/h3) | ⭐ 5.4k | [#1450](https://github.com/h3js/h3/pull/1450) docs: remove non-existent sendEventStream from createEventStream example |
@@ -100,13 +100,13 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 50 open PRs in review &nbsp;·&nbsp; 42 projects &nbsp;·&nbsp; ⭐ 527.6k+ combined</strong></p>
+<p><strong>🔍 50 open PRs in review &nbsp;·&nbsp; 42 projects &nbsp;·&nbsp; ⭐ 527.7k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 179.1k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 179.2k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 65.8k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.5k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier · +5 more |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.6k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier · +5 more |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 35.4k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [helm/helm](https://github.com/helm/helm) | ⭐ 30.2k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
@@ -115,7 +115,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 12.8k | [#3641](https://github.com/anchore/grype/pull/3641) fix(match): skip packages with an empty version like the "unknown" sentinel |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#9004](https://github.com/open-policy-agent/opa/pull/9004) semver: reject leading zeroes and empty pre-release/build |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.7k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
-| [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.4k | [#5160](https://github.com/anchore/syft/pull/5160) fix(java): resolve ${project.groupId} inherited from a parent POM · +1 more |
+| [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.4k | [#5216](https://github.com/anchore/syft/pull/5216) fix(elixir): use Hex package names from mix.lock · +2 more |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 8.9k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 8.8k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
