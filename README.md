@@ -85,7 +85,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | ⭐ 14k | [#9130](https://github.com/cert-manager/cert-manager/pull/9130) fix: encode directoryName SANs with explicit tagging |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#8987](https://github.com/open-policy-agent/opa/pull/8987) topdown: fix sum overflow when integer elements fit int64 but the sum does not · +1 more |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.9k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
-| [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.4k | [#5201](https://github.com/anchore/syft/pull/5201) fix(rpm): keep the epoch when parsing RPM manifest packages · +1 more |
+| [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.5k | [#5201](https://github.com/anchore/syft/pull/5201) fix(rpm): keep the epoch when parsing RPM manifest packages · +1 more |
 | [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | ⭐ 8.6k | [#5447](https://github.com/prometheus/alertmanager/pull/5447) timeinterval: fix negative days_of_month across DST transitions · +1 more |
 | [nats-io/nats.go](https://github.com/nats-io/nats.go) | ⭐ 6.7k | [#2099](https://github.com/nats-io/nats.go/pull/2099) [FIXED] MsgsTimeout iterator yields spurious (nil, nil) after a timeout |
 | [klauspost/compress](https://github.com/klauspost/compress) | ⭐ 5.6k | [#1177](https://github.com/klauspost/compress/pull/1177) zstd: don't clear the registered dictionary when decoding past the window |
@@ -100,7 +100,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 50 open PRs in review &nbsp;·&nbsp; 42 projects &nbsp;·&nbsp; ⭐ 527.8k+ combined</strong></p>
+<p><strong>🔍 50 open PRs in review &nbsp;·&nbsp; 42 projects &nbsp;·&nbsp; ⭐ 527.9k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -110,12 +110,12 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 35.5k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [helm/helm](https://github.com/helm/helm) | ⭐ 30.2k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
-| [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.1k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
+| [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.2k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
 | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | ⭐ 14k | [#9129](https://github.com/cert-manager/cert-manager/pull/9129) fix: renewBeforePercentage validation checks the complement of the effective renewBefore |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 12.8k | [#3641](https://github.com/anchore/grype/pull/3641) fix(match): skip packages with an empty version like the "unknown" sentinel |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.1k | [#9004](https://github.com/open-policy-agent/opa/pull/9004) semver: reject leading zeroes and empty pre-release/build |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.7k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
-| [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.4k | [#5216](https://github.com/anchore/syft/pull/5216) fix(elixir): use Hex package names from mix.lock · +2 more |
+| [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.5k | [#5216](https://github.com/anchore/syft/pull/5216) fix(elixir): use Hex package names from mix.lock · +2 more |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 9k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 8.8k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
