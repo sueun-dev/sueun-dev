@@ -71,13 +71,13 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 307.3k+ stars reached &nbsp;·&nbsp; 39 open-source projects &nbsp;·&nbsp; 51 merged PRs</strong></p>
+<p><strong>🌟 307.4k+ stars reached &nbsp;·&nbsp; 39 open-source projects &nbsp;·&nbsp; 51 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 65.8k | [#19367](https://github.com/prometheus/prometheus/pull/19367) fix(model/histogram): do not miss counter resets behind empty buckets in DetectReset |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 65.9k | [#19367](https://github.com/prometheus/prometheus/pull/19367) fix(model/histogram): do not miss counter resets behind empty buckets in DetectReset |
 | [gofiber/fiber](https://github.com/gofiber/fiber) | ⭐ 40.1k | [#4507](https://github.com/gofiber/fiber/pull/4507) 🐛 bug: Fix the normalization of the leading slash in the root path for fs.FS static serving |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.6k | [#11050](https://github.com/aquasecurity/trivy/pull/11050) fix(python): normalize dependency names in PEP 621 pyproject.toml |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.7k | [#11050](https://github.com/aquasecurity/trivy/pull/11050) fix(python): normalize dependency names in PEP 621 pyproject.toml |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers · +2 more |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | ⭐ 16k | [#6679](https://github.com/goreleaser/goreleaser/pull/6679) fix(builders): reject empty target string |
 | [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.3k | [#8421](https://github.com/coredns/coredns/pull/8421) plugin/rewrite: apply rcode rewrites to responses with no records · +1 more |
@@ -100,14 +100,14 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 50 open PRs in review &nbsp;·&nbsp; 42 projects &nbsp;·&nbsp; ⭐ 528.5k+ combined</strong></p>
+<p><strong>🔍 50 open PRs in review &nbsp;·&nbsp; 42 projects &nbsp;·&nbsp; ⭐ 528.7k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 179.5k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
-| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 65.8k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.6k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier · +5 more |
-| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 35.6k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 179.6k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 65.9k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.7k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier · +5 more |
+| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 35.7k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [helm/helm](https://github.com/helm/helm) | ⭐ 30.2k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.6k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.2k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
