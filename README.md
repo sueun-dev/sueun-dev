@@ -1,37 +1,16 @@
-<div align="center">
+# Sueun Cho
 
-<!-- Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=170&section=header&text=Sueun%20Cho&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Sueun Cho"/>
+Quantitative Systems Engineer · Blockchain Infrastructure Developer
 
-<!-- Typing Animation Subtitle -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=620&lines=Quantitative+Systems+Engineer;Blockchain+Infrastructure+Developer;Founder+%40+Coinhelio;Kernel+Optimization+Rank+%2364+%E2%80%94+Beat+Claude" alt="Typing SVG" /></a>
+## Founder & Builder
 
-<!-- Badges Row -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sueun-dev&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sueun-dev?style=for-the-badge&color=6C63FF&labelColor=1a1a2e&logo=github&logoColor=white&label=Followers" alt="Followers" />
-  <a href="https://coinhelio.com"><img src="https://img.shields.io/badge/Focus-Quant_·_Crypto_·_Web3-6C63FF?style=for-the-badge&labelColor=1a1a2e" alt="Focus" /></a>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Founder & Builder
-
-[![Coinhelio](https://img.shields.io/badge/🌟_Coinhelio-Founder-FFD700?style=for-the-badge&labelColor=1a1a2e)](https://coinhelio.com)
+Founder @ [Coinhelio](https://coinhelio.com)
 
 *Building the next generation crypto analytics platform*
 
----
+## Kernel Optimization Challenge
 
-### ⚡ Kernel Optimization Challenge
-
-[![Kernel Optimization](https://img.shields.io/badge/Rank_%2364-1,146_cycles-00C853?style=for-the-badge&labelColor=1a1a2e)](https://www.kerneloptimization.fun/)
-[![Beat Claude](https://img.shields.io/badge/✓_Beat_Claude-00C853?style=for-the-badge&labelColor=1a1a2e)](https://www.kerneloptimization.fun/)
-[![Recruiting Threshold](https://img.shields.io/badge/✓_Beat_Recruiting_Threshold-00C853?style=for-the-badge&labelColor=1a1a2e)](https://www.kerneloptimization.fun/)
+[Rank #64 · 1,146 cycles](https://www.kerneloptimization.fun/) — Beat Claude and the recruiting threshold.
 
 <a href="https://www.kerneloptimization.fun/">
   <img src="assets/kernel-optimization-rank.png?v=2" alt="Kernel Optimization Challenge - Rank #64" width="600"/>
@@ -39,21 +18,15 @@
 
 *Anthropic's low-level performance optimization competition*
 
-</div>
-
----
-
-## 👨‍💻 About Me
+## About Me
 
 Software Engineer specializing in **quantitative trading systems** and **blockchain infrastructure**. I architect high-performance, low-latency systems that process real-time market data across centralized and decentralized exchanges.
 
-- 📊 **Quantitative Systems** — Arbitrage engines, market-making algorithms, and cross-exchange hedging strategies
-- ⛓️ **Web3 Development** — Smart contract development, DeFi protocol integration, and on-chain data analysis
-- 🎓 **CS @ UMD** — Computer Science, University of Maryland · College Park
+- **Quantitative Systems** — Arbitrage engines, market-making algorithms, and cross-exchange hedging strategies
+- **Web3 Development** — Smart contract development, DeFi protocol integration, and on-chain data analysis
+- **CS @ UMD** — Computer Science, University of Maryland · College Park
 
----
-
-## 🚩 Flagship Repositories
+## Flagship Repositories
 
 | Repository | Focus |
 | --- | --- |
@@ -64,11 +37,9 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [cross-perp-basis-engine](https://github.com/sueun-dev/cross-perp-basis-engine) | Delta-neutral perpetual basis engine across offshore venues |
 | [upbit-market-intelligence-console](https://github.com/sueun-dev/upbit-market-intelligence-console) | Full-stack Upbit market intelligence and listing strategy console |
 
----
+## Open Source Contributions
 
-## 🌍 Open Source Contributions
-
-> 🤖 Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
+> Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
 <p><strong>🌟 309.4k+ stars reached &nbsp;·&nbsp; 41 open-source projects &nbsp;·&nbsp; 54 merged PRs</strong></p>
@@ -92,12 +63,10 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [h3js/h3](https://github.com/h3js/h3) | ⭐ 5.4k | [#1450](https://github.com/h3js/h3/pull/1450) docs: remove non-existent sendEventStream from createEventStream example |
 <!-- OSS-CONTRIBUTIONS:END -->
 
----
-
-## 🔧 In Review
+## In Review
 
 <details>
-<summary>🔍 <strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
+<summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
 <p><strong>🔍 49 open PRs in review &nbsp;·&nbsp; 40 projects &nbsp;·&nbsp; ⭐ 527.7k+ combined</strong></p>
@@ -123,44 +92,14 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 
 </details>
 
----
+## Tech Stack
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Core Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Languages** — Python · TypeScript · Go · Rust · Solidity · C++
 
 **Quant & Finance** — Algorithmic Trading · Arbitrage · Market-Making · DeFi · CEX/DEX  
 **Blockchain** — Ethereum · Hardhat · Ethers.js · Web3.py · OpenZeppelin · Chainlink CCIP  
 **Backend & Infra** — FastAPI · Node.js · Redis · PostgreSQL · Docker · Kubernetes · GCP / AWS · Terraform
 
-</div>
+## Contact
 
----
-
-## 📫 Contact
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://sueun-dev.github.io)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://sueun-dev.github.io/assets/sueun-cho-resume.pdf)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sueun.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sueun-cho-625262252/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Bentley_Cho)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%"/>
-
-</div>
+[Portfolio](https://sueun-dev.github.io) · [Resume](https://sueun-dev.github.io/assets/sueun-cho-resume.pdf) · [Email](mailto:sueun.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sueun-cho-625262252/) · [X](https://x.com/Bentley_Cho)
