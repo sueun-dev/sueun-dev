@@ -42,17 +42,17 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 309.8k+ stars reached &nbsp;·&nbsp; 41 open-source projects &nbsp;·&nbsp; 55 merged PRs</strong></p>
+<p><strong>🌟 309.8k+ stars reached &nbsp;·&nbsp; 41 open-source projects &nbsp;·&nbsp; 56 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 66.1k | [#19367](https://github.com/prometheus/prometheus/pull/19367) fix(model/histogram): do not miss counter resets behind empty buckets in DetectReset |
-| [gofiber/fiber](https://github.com/gofiber/fiber) | ⭐ 40.1k | [#4507](https://github.com/gofiber/fiber/pull/4507) 🐛 bug: Fix the normalization of the leading slash in the root path for fs.FS static serving |
+| [gofiber/fiber](https://github.com/gofiber/fiber) | ⭐ 40.2k | [#4507](https://github.com/gofiber/fiber/pull/4507) 🐛 bug: Fix the normalization of the leading slash in the root path for fs.FS static serving |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.9k | [#11050](https://github.com/aquasecurity/trivy/pull/11050) fix(python): normalize dependency names in PEP 621 pyproject.toml |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers · +2 more |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | ⭐ 16k | [#6679](https://github.com/goreleaser/goreleaser/pull/6679) fix(builders): reject empty target string |
 | [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.3k | [#8421](https://github.com/coredns/coredns/pull/8421) plugin/rewrite: apply rcode rewrites to responses with no records · +1 more |
-| [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.2k | [#2647](https://github.com/jackc/pgx/pull/2647) pgtype: quote text range bounds · +2 more |
+| [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.2k | [#2651](https://github.com/jackc/pgx/pull/2651) pgtype: preserve delimiters inside multirange bounds · +3 more |
 | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | ⭐ 14.1k | [#9129](https://github.com/cert-manager/cert-manager/pull/9129) fix(webhook): validate renewBeforePercentage against the effective renewBefore · +1 more |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.2k | [#8987](https://github.com/open-policy-agent/opa/pull/8987) topdown: fix sum overflow when integer elements fit int64 but the sum does not · +1 more |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.9k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
@@ -69,18 +69,17 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 49 open PRs in review &nbsp;·&nbsp; 40 projects &nbsp;·&nbsp; ⭐ 528.8k+ combined</strong></p>
+<p><strong>🔍 48 open PRs in review &nbsp;·&nbsp; 39 projects &nbsp;·&nbsp; ⭐ 514.6k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 180.7k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 180.8k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 66.1k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.9k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier · +5 more |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 36.4k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [helm/helm](https://github.com/helm/helm) | ⭐ 30.2k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.7k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.3k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
-| [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.2k | [#2651](https://github.com/jackc/pgx/pull/2651) pgtype: preserve delimiters inside multirange bounds |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 12.9k | [#3687](https://github.com/anchore/grype/pull/3687) fix: normalize apk package fallback versions for CPE matching · +1 more |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.2k | [#9004](https://github.com/open-policy-agent/opa/pull/9004) semver: reject leading zeroes and empty pre-release/build |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.8k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
@@ -88,6 +87,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 9k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 8.9k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
+| [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | ⭐ 8.6k | [#5449](https://github.com/prometheus/alertmanager/pull/5449) inhibit: preserve source-only matches in equal-label index |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
