@@ -52,7 +52,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers · +2 more |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | ⭐ 16.1k | [#6679](https://github.com/goreleaser/goreleaser/pull/6679) fix(builders): reject empty target string |
 | [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.3k | [#8421](https://github.com/coredns/coredns/pull/8421) plugin/rewrite: apply rcode rewrites to responses with no records · +1 more |
-| [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.2k | [#2651](https://github.com/jackc/pgx/pull/2651) pgtype: preserve delimiters inside multirange bounds · +3 more |
+| [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.3k | [#2651](https://github.com/jackc/pgx/pull/2651) pgtype: preserve delimiters inside multirange bounds · +3 more |
 | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | ⭐ 14.1k | [#9129](https://github.com/cert-manager/cert-manager/pull/9129) fix(webhook): validate renewBeforePercentage against the effective renewBefore · +1 more |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.2k | [#8987](https://github.com/open-policy-agent/opa/pull/8987) topdown: fix sum overflow when integer elements fit int64 but the sum does not · +1 more |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.9k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
@@ -69,11 +69,11 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 46 open PRs in review &nbsp;·&nbsp; 37 projects &nbsp;·&nbsp; ⭐ 505.9k+ combined</strong></p>
+<p><strong>🔍 46 open PRs in review &nbsp;·&nbsp; 37 projects &nbsp;·&nbsp; ⭐ 506k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 181.1k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 181.2k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 66.1k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 37.9k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier · +5 more |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 36.5k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
