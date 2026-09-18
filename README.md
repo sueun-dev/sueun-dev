@@ -42,7 +42,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 310.1k+ stars reached &nbsp;·&nbsp; 41 open-source projects &nbsp;·&nbsp; 57 merged PRs</strong></p>
+<p><strong>🌟 310.1k+ stars reached &nbsp;·&nbsp; 41 open-source projects &nbsp;·&nbsp; 58 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -54,7 +54,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.3k | [#8421](https://github.com/coredns/coredns/pull/8421) plugin/rewrite: apply rcode rewrites to responses with no records · +1 more |
 | [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.3k | [#2651](https://github.com/jackc/pgx/pull/2651) pgtype: preserve delimiters inside multirange bounds · +3 more |
 | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | ⭐ 14.1k | [#9129](https://github.com/cert-manager/cert-manager/pull/9129) fix(webhook): validate renewBeforePercentage against the effective renewBefore · +1 more |
-| [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.2k | [#8987](https://github.com/open-policy-agent/opa/pull/8987) topdown: fix sum overflow when integer elements fit int64 but the sum does not · +1 more |
+| [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.2k | [#9004](https://github.com/open-policy-agent/opa/pull/9004) semver: reject leading zeroes and empty pre-release/build · +2 more |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.9k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
 | [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.6k | [#5201](https://github.com/anchore/syft/pull/5201) fix(rpm): keep the epoch when parsing RPM manifest packages · +1 more |
 | [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | ⭐ 8.6k | [#5449](https://github.com/prometheus/alertmanager/pull/5449) inhibit: preserve source-only matches in equal-label index · +2 more |
@@ -69,7 +69,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 47 open PRs in review &nbsp;·&nbsp; 38 projects &nbsp;·&nbsp; ⭐ 507.5k+ combined</strong></p>
+<p><strong>🔍 46 open PRs in review &nbsp;·&nbsp; 37 projects &nbsp;·&nbsp; ⭐ 495.3k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -81,13 +81,13 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.7k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.3k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 12.9k | [#3687](https://github.com/anchore/grype/pull/3687) fix: normalize apk package fallback versions for CPE matching · +1 more |
-| [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.2k | [#9004](https://github.com/open-policy-agent/opa/pull/9004) semver: reject leading zeroes and empty pre-release/build |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.8k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
 | [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.6k | [#5216](https://github.com/anchore/syft/pull/5216) fix(elixir): use Hex package names from mix.lock · +2 more |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 9k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 8.9k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
 | [go-git/go-git](https://github.com/go-git/go-git) | ⭐ 7.7k | [#2295](https://github.com/go-git/go-git/pull/2295) plumbing: format/packfile, reset base position on backward delta copy |
+| [hashicorp/hcl](https://github.com/hashicorp/hcl) | ⭐ 5.8k | [#815](https://github.com/hashicorp/hcl/pull/815) ext/typeexpr: render optional attributes in TypeString |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
