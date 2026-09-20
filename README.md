@@ -81,7 +81,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.7k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.3k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 12.9k | [#3687](https://github.com/anchore/grype/pull/3687) fix: normalize apk package fallback versions for CPE matching · +1 more |
-| [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.8k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
+| [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.9k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
 | [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.6k | [#5216](https://github.com/anchore/syft/pull/5216) fix(elixir): use Hex package names from mix.lock · +2 more |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 9k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
