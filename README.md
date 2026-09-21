@@ -42,11 +42,11 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 310.2k+ stars reached &nbsp;·&nbsp; 41 open-source projects &nbsp;·&nbsp; 58 merged PRs</strong></p>
+<p><strong>🌟 310.3k+ stars reached &nbsp;·&nbsp; 42 open-source projects &nbsp;·&nbsp; 59 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 66.1k | [#19367](https://github.com/prometheus/prometheus/pull/19367) fix(model/histogram): do not miss counter resets behind empty buckets in DetectReset |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 66.2k | [#19367](https://github.com/prometheus/prometheus/pull/19367) fix(model/histogram): do not miss counter resets behind empty buckets in DetectReset |
 | [gofiber/fiber](https://github.com/gofiber/fiber) | ⭐ 40.2k | [#4507](https://github.com/gofiber/fiber/pull/4507) 🐛 bug: Fix the normalization of the leading slash in the root path for fs.FS static serving |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 38k | [#11050](https://github.com/aquasecurity/trivy/pull/11050) fix(python): normalize dependency names in PEP 621 pyproject.toml |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.2k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers · +2 more |
@@ -69,12 +69,12 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 49 open PRs in review &nbsp;·&nbsp; 40 projects &nbsp;·&nbsp; ⭐ 496.4k+ combined</strong></p>
+<p><strong>🔍 50 open PRs in review &nbsp;·&nbsp; 41 projects &nbsp;·&nbsp; ⭐ 497k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 181.3k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
-| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 66.1k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 181.4k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 66.2k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 38k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier · +5 more |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 36.7k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [helm/helm](https://github.com/helm/helm) | ⭐ 30.3k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
