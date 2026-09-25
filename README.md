@@ -69,11 +69,11 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 53 open PRs in review &nbsp;·&nbsp; 44 projects &nbsp;·&nbsp; ⭐ 498.1k+ combined</strong></p>
+<p><strong>🔍 54 open PRs in review &nbsp;·&nbsp; 45 projects &nbsp;·&nbsp; ⭐ 505.8k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 181.6k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 181.7k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 66.2k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 38.1k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier · +5 more |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 36.8k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
@@ -87,7 +87,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 9k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 8.9k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
 | [go-git/go-git](https://github.com/go-git/go-git) | ⭐ 7.8k | [#2295](https://github.com/go-git/go-git/pull/2295) plumbing: format/packfile, reset base position on backward delta copy |
-| [hashicorp/hcl](https://github.com/hashicorp/hcl) | ⭐ 5.8k | [#815](https://github.com/hashicorp/hcl/pull/815) ext/typeexpr: render optional attributes in TypeString |
+| [agronholm/apscheduler](https://github.com/agronholm/apscheduler) | ⭐ 7.6k | [#1143](https://github.com/agronholm/apscheduler/pull/1143) [3.x] Backport calendar interval midnight DST fix (#1138) |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
