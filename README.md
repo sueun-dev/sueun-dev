@@ -42,11 +42,11 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 310.9k+ stars reached &nbsp;·&nbsp; 43 open-source projects &nbsp;·&nbsp; 60 merged PRs</strong></p>
+<p><strong>🌟 318.6k+ stars reached &nbsp;·&nbsp; 44 open-source projects &nbsp;·&nbsp; 61 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 66.2k | [#19367](https://github.com/prometheus/prometheus/pull/19367) fix(model/histogram): do not miss counter resets behind empty buckets in DetectReset |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 66.3k | [#19367](https://github.com/prometheus/prometheus/pull/19367) fix(model/histogram): do not miss counter resets behind empty buckets in DetectReset |
 | [gofiber/fiber](https://github.com/gofiber/fiber) | ⭐ 40.2k | [#4507](https://github.com/gofiber/fiber/pull/4507) 🐛 bug: Fix the normalization of the leading slash in the root path for fs.FS static serving |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 38.1k | [#11050](https://github.com/aquasecurity/trivy/pull/11050) fix(python): normalize dependency names in PEP 621 pyproject.toml |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.3k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers · +2 more |
@@ -58,9 +58,9 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.9k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
 | [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.6k | [#5201](https://github.com/anchore/syft/pull/5201) fix(rpm): keep the epoch when parsing RPM manifest packages · +1 more |
 | [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | ⭐ 8.6k | [#5449](https://github.com/prometheus/alertmanager/pull/5449) inhibit: preserve source-only matches in equal-label index · +2 more |
+| [agronholm/apscheduler](https://github.com/agronholm/apscheduler) | ⭐ 7.6k | [#1143](https://github.com/agronholm/apscheduler/pull/1143) [3.x] Backport calendar interval midnight DST fix (#1138) |
 | [nats-io/nats.go](https://github.com/nats-io/nats.go) | ⭐ 6.8k | [#2099](https://github.com/nats-io/nats.go/pull/2099) [FIXED] MsgsTimeout iterator yields spurious (nil, nil) after a timeout |
 | [klauspost/compress](https://github.com/klauspost/compress) | ⭐ 5.6k | [#1177](https://github.com/klauspost/compress/pull/1177) zstd: don't clear the registered dictionary when decoding past the window |
-| [h3js/h3](https://github.com/h3js/h3) | ⭐ 5.4k | [#1450](https://github.com/h3js/h3/pull/1450) docs: remove non-existent sendEventStream from createEventStream example |
 <!-- OSS-CONTRIBUTIONS:END -->
 
 ## In Review
@@ -69,12 +69,12 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 56 open PRs in review &nbsp;·&nbsp; 47 projects &nbsp;·&nbsp; ⭐ 506k+ combined</strong></p>
+<p><strong>🔍 56 open PRs in review &nbsp;·&nbsp; 47 projects &nbsp;·&nbsp; ⭐ 501k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 181.8k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
-| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 66.2k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 66.3k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 38.1k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier · +5 more |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 36.9k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [helm/helm](https://github.com/helm/helm) | ⭐ 30.3k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
@@ -87,7 +87,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 9k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 8.9k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
 | [go-git/go-git](https://github.com/go-git/go-git) | ⭐ 7.8k | [#2295](https://github.com/go-git/go-git/pull/2295) plumbing: format/packfile, reset base position on backward delta copy |
-| [agronholm/apscheduler](https://github.com/agronholm/apscheduler) | ⭐ 7.6k | [#1143](https://github.com/agronholm/apscheduler/pull/1143) [3.x] Backport calendar interval midnight DST fix (#1138) |
+| [hashicorp/hcl](https://github.com/hashicorp/hcl) | ⭐ 5.8k | [#815](https://github.com/hashicorp/hcl/pull/815) ext/typeexpr: render optional attributes in TypeString |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
