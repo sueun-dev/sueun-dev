@@ -60,7 +60,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | ⭐ 8.6k | [#5449](https://github.com/prometheus/alertmanager/pull/5449) inhibit: preserve source-only matches in equal-label index · +2 more |
 | [agronholm/apscheduler](https://github.com/agronholm/apscheduler) | ⭐ 7.6k | [#1143](https://github.com/agronholm/apscheduler/pull/1143) [3.x] Backport calendar interval midnight DST fix (#1138) |
 | [nats-io/nats.go](https://github.com/nats-io/nats.go) | ⭐ 6.8k | [#2099](https://github.com/nats-io/nats.go/pull/2099) [FIXED] MsgsTimeout iterator yields spurious (nil, nil) after a timeout |
-| [klauspost/compress](https://github.com/klauspost/compress) | ⭐ 5.6k | [#1177](https://github.com/klauspost/compress/pull/1177) zstd: don't clear the registered dictionary when decoding past the window |
+| [klauspost/compress](https://github.com/klauspost/compress) | ⭐ 5.7k | [#1177](https://github.com/klauspost/compress/pull/1177) zstd: don't clear the registered dictionary when decoding past the window |
 <!-- OSS-CONTRIBUTIONS:END -->
 
 ## In Review
@@ -69,7 +69,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 55 open PRs in review &nbsp;·&nbsp; 46 projects &nbsp;·&nbsp; ⭐ 497.3k+ combined</strong></p>
+<p><strong>🔍 55 open PRs in review &nbsp;·&nbsp; 46 projects &nbsp;·&nbsp; ⭐ 497.4k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -85,7 +85,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.6k | [#5216](https://github.com/anchore/syft/pull/5216) fix(elixir): use Hex package names from mix.lock · +2 more |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 9k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
-| [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 8.9k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
+| [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 9k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
 | [go-git/go-git](https://github.com/go-git/go-git) | ⭐ 7.8k | [#2295](https://github.com/go-git/go-git/pull/2295) plumbing: format/packfile, reset base position on backward delta copy |
 | [hashicorp/hcl](https://github.com/hashicorp/hcl) | ⭐ 5.8k | [#815](https://github.com/hashicorp/hcl/pull/815) ext/typeexpr: render optional attributes in TypeString |
 <!-- OSS-IN-REVIEW:END -->
