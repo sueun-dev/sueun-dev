@@ -69,7 +69,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 57 open PRs in review &nbsp;·&nbsp; 48 projects &nbsp;·&nbsp; ⭐ 504.7k+ combined</strong></p>
+<p><strong>🔍 58 open PRs in review &nbsp;·&nbsp; 49 projects &nbsp;·&nbsp; ⭐ 515.4k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -82,12 +82,12 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.3k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 12.9k | [#3687](https://github.com/anchore/grype/pull/3687) fix: normalize apk package fallback versions for CPE matching · +1 more |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.9k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
+| [rq/rq](https://github.com/rq/rq) | ⭐ 10.7k | [#2498](https://github.com/rq/rq/pull/2498) Stop Group._add_jobs from executing the caller's pipeline |
 | [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.6k | [#5216](https://github.com/anchore/syft/pull/5216) fix(elixir): use Hex package names from mix.lock · +2 more |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 9k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 9k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
 | [go-git/go-git](https://github.com/go-git/go-git) | ⭐ 7.8k | [#2295](https://github.com/go-git/go-git/pull/2295) plumbing: format/packfile, reset base position on backward delta copy |
-| [scikit-learn-contrib/imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) | ⭐ 7.1k | [#1219](https://github.com/scikit-learn-contrib/imbalanced-learn/pull/1219) [MRG] Fix InstanceHardnessThreshold class probability indexing |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
