@@ -69,7 +69,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 58 open PRs in review &nbsp;·&nbsp; 49 projects &nbsp;·&nbsp; ⭐ 515.6k+ combined</strong></p>
+<p><strong>🔍 59 open PRs in review &nbsp;·&nbsp; 50 projects &nbsp;·&nbsp; ⭐ 528.9k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -80,6 +80,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [helm/helm](https://github.com/helm/helm) | ⭐ 30.3k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.7k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.4k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
+| [brianc/node-postgres](https://github.com/brianc/node-postgres) | ⭐ 13.2k | [#3799](https://github.com/brianc/node-postgres/pull/3799) fix(pg): preserve seconds in historical Date timezone offsets |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 13k | [#3687](https://github.com/anchore/grype/pull/3687) fix: normalize apk package fallback versions for CPE matching · +1 more |
 | [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 11.9k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
 | [rq/rq](https://github.com/rq/rq) | ⭐ 10.7k | [#2498](https://github.com/rq/rq/pull/2498) Stop Group._add_jobs from executing the caller's pipeline |
@@ -87,7 +88,6 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 9k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 9k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
-| [go-git/go-git](https://github.com/go-git/go-git) | ⭐ 7.8k | [#2295](https://github.com/go-git/go-git/pull/2295) plumbing: format/packfile, reset base position on backward delta copy |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
