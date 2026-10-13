@@ -57,7 +57,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.4k | [#9004](https://github.com/open-policy-agent/opa/pull/9004) semver: reject leading zeroes and empty pre-release/build · +2 more |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.9k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
 | [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.7k | [#5201](https://github.com/anchore/syft/pull/5201) fix(rpm): keep the epoch when parsing RPM manifest packages · +1 more |
-| [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | ⭐ 8.6k | [#5449](https://github.com/prometheus/alertmanager/pull/5449) inhibit: preserve source-only matches in equal-label index · +2 more |
+| [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | ⭐ 8.7k | [#5449](https://github.com/prometheus/alertmanager/pull/5449) inhibit: preserve source-only matches in equal-label index · +2 more |
 | [agronholm/apscheduler](https://github.com/agronholm/apscheduler) | ⭐ 7.7k | [#1143](https://github.com/agronholm/apscheduler/pull/1143) [3.x] Backport calendar interval midnight DST fix (#1138) |
 | [nats-io/nats.go](https://github.com/nats-io/nats.go) | ⭐ 6.8k | [#2099](https://github.com/nats-io/nats.go/pull/2099) [FIXED] MsgsTimeout iterator yields spurious (nil, nil) after a timeout |
 | [klauspost/compress](https://github.com/klauspost/compress) | ⭐ 5.7k | [#1177](https://github.com/klauspost/compress/pull/1177) zstd: don't clear the registered dictionary when decoding past the window |
@@ -69,16 +69,17 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 60 open PRs in review &nbsp;·&nbsp; 52 projects &nbsp;·&nbsp; ⭐ 527.4k+ combined</strong></p>
+<p><strong>🔍 62 open PRs in review &nbsp;·&nbsp; 54 projects &nbsp;·&nbsp; ⭐ 549.2k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 182.9k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 183k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 66.5k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 38.4k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier · +5 more |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 37.4k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [helm/helm](https://github.com/helm/helm) | ⭐ 30.3k | [#32520](https://github.com/helm/helm/pull/32520) fix(strvals): preserve integer precision in --set-json |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.7k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
+| [onnx/onnx](https://github.com/onnx/onnx) | ⭐ 21.6k | [#8595](https://github.com/onnx/onnx/pull/8595) fix(reference): put ceil_mode extra padding at the end of pooling axes |
 | [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.4k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
 | [brianc/node-postgres](https://github.com/brianc/node-postgres) | ⭐ 13.2k | [#3799](https://github.com/brianc/node-postgres/pull/3799) fix(pg): preserve seconds in historical Date timezone offsets |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 13k | [#3687](https://github.com/anchore/grype/pull/3687) fix: normalize apk package fallback versions for CPE matching · +1 more |
@@ -87,7 +88,6 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 | [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.7k | [#5216](https://github.com/anchore/syft/pull/5216) fix(elixir): use Hex package names from mix.lock · +2 more |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.2k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 9k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
-| [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 9k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
