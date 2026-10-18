@@ -42,7 +42,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 321.3k+ stars reached &nbsp;·&nbsp; 48 open-source projects &nbsp;·&nbsp; 66 merged PRs</strong></p>
+<p><strong>🌟 321.4k+ stars reached &nbsp;·&nbsp; 48 open-source projects &nbsp;·&nbsp; 66 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -69,11 +69,11 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 54 open PRs in review &nbsp;·&nbsp; 50 projects &nbsp;·&nbsp; ⭐ 514.6k+ combined</strong></p>
+<p><strong>🔍 54 open PRs in review &nbsp;·&nbsp; 50 projects &nbsp;·&nbsp; ⭐ 514.7k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 183.6k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 183.7k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 66.6k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 38.5k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier · +2 more |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 37.7k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
