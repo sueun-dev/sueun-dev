@@ -42,7 +42,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 325.5k+ stars reached &nbsp;·&nbsp; 50 open-source projects &nbsp;·&nbsp; 68 merged PRs</strong></p>
+<p><strong>🌟 325.6k+ stars reached &nbsp;·&nbsp; 50 open-source projects &nbsp;·&nbsp; 68 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -69,14 +69,14 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 52 open PRs in review &nbsp;·&nbsp; 48 projects &nbsp;·&nbsp; ⭐ 512.1k+ combined</strong></p>
+<p><strong>🔍 51 open PRs in review &nbsp;·&nbsp; 47 projects &nbsp;·&nbsp; ⭐ 506.4k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 184.3k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 66.7k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 38.6k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier · +2 more |
-| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 37.9k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
+| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 38k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.7k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [onnx/onnx](https://github.com/onnx/onnx) | ⭐ 21.6k | [#8595](https://github.com/onnx/onnx/pull/8595) fix(reference): put ceil_mode extra padding at the end of pooling axes |
 | [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.4k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
