@@ -42,13 +42,13 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 325.9k+ stars reached &nbsp;·&nbsp; 50 open-source projects &nbsp;·&nbsp; 68 merged PRs</strong></p>
+<p><strong>🌟 326k+ stars reached &nbsp;·&nbsp; 50 open-source projects &nbsp;·&nbsp; 68 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 66.8k | [#19367](https://github.com/prometheus/prometheus/pull/19367) fix(model/histogram): do not miss counter resets behind empty buckets in DetectReset |
 | [gofiber/fiber](https://github.com/gofiber/fiber) | ⭐ 40.2k | [#4507](https://github.com/gofiber/fiber/pull/4507) 🐛 bug: Fix the normalization of the leading slash in the root path for fs.FS static serving |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 38.7k | [#11051](https://github.com/aquasecurity/trivy/pull/11051) fix(php): keep dependency edges to packages named like PHP extensions · +1 more |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 38.8k | [#11051](https://github.com/aquasecurity/trivy/pull/11051) fix(php): keep dependency edges to packages named like PHP extensions · +1 more |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.3k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers · +2 more |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | ⭐ 16.1k | [#6679](https://github.com/goreleaser/goreleaser/pull/6679) fix(builders): reject empty target string |
 | [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.4k | [#8421](https://github.com/coredns/coredns/pull/8421) plugin/rewrite: apply rcode rewrites to responses with no records · +1 more |
@@ -69,14 +69,14 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 51 open PRs in review &nbsp;·&nbsp; 47 projects &nbsp;·&nbsp; ⭐ 507.4k+ combined</strong></p>
+<p><strong>🔍 51 open PRs in review &nbsp;·&nbsp; 47 projects &nbsp;·&nbsp; ⭐ 507.6k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 184.9k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 185k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 66.8k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 38.7k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier · +2 more |
-| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 38.1k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 38.8k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier · +2 more |
+| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 38.2k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.7k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [onnx/onnx](https://github.com/onnx/onnx) | ⭐ 21.6k | [#8595](https://github.com/onnx/onnx/pull/8595) fix(reference): put ceil_mode extra padding at the end of pooling axes |
 | [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.4k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
