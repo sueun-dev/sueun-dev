@@ -42,7 +42,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 > Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 326.1k+ stars reached &nbsp;·&nbsp; 50 open-source projects &nbsp;·&nbsp; 68 merged PRs</strong></p>
+<p><strong>🌟 326.2k+ stars reached &nbsp;·&nbsp; 50 open-source projects &nbsp;·&nbsp; 68 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -69,7 +69,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 50 open PRs in review &nbsp;·&nbsp; 47 projects &nbsp;·&nbsp; ⭐ 507.9k+ combined</strong></p>
+<p><strong>🔍 50 open PRs in review &nbsp;·&nbsp; 47 projects &nbsp;·&nbsp; ⭐ 508k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
