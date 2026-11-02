@@ -43,25 +43,25 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 49 open PRs in review &nbsp;·&nbsp; 47 projects &nbsp;·&nbsp; ⭐ 509.1k+ combined</strong></p>
+<p><strong>🔍 45 open PRs in review &nbsp;·&nbsp; 43 projects &nbsp;·&nbsp; ⭐ 286.2k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 185.7k | [#17053](https://github.com/ollama/ollama/pull/17053) docs: correct default seed in modelfile parameter table |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 66.9k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 38.9k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 38.5k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
-| [uber-go/zap](https://github.com/uber-go/zap) | ⭐ 24.7k | [#1556](https://github.com/uber-go/zap/pull/1556) zapcore: fix DurationEncoder.UnmarshalText doc comment |
 | [onnx/onnx](https://github.com/onnx/onnx) | ⭐ 21.6k | [#8595](https://github.com/onnx/onnx/pull/8595) fix(reference): put ceil_mode extra padding at the end of pooling axes |
 | [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.5k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
 | [brianc/node-postgres](https://github.com/brianc/node-postgres) | ⭐ 13.2k | [#3799](https://github.com/brianc/node-postgres/pull/3799) fix(pg): preserve seconds in historical Date timezone offsets |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 13.2k | [#3687](https://github.com/anchore/grype/pull/3687) fix: normalize apk package fallback versions for CPE matching |
-| [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) | ⭐ 12k | [#706](https://github.com/charmbracelet/lipgloss/pull/706) docs: fix GetTabWidth comment on the unset return value |
 | [rq/rq](https://github.com/rq/rq) | ⭐ 10.7k | [#2498](https://github.com/rq/rq/pull/2498) Stop Group._add_jobs from executing the caller's pipeline |
 | [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.8k | [#5216](https://github.com/anchore/syft/pull/5216) fix(elixir): use Hex package names from mix.lock · +2 more |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.3k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
 | [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 9.1k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 9k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
+| [scikit-learn-contrib/imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) | ⭐ 7.1k | [#1219](https://github.com/scikit-learn-contrib/imbalanced-learn/pull/1219) [MRG] Fix InstanceHardnessThreshold class probability indexing |
+| [tslearn-team/tslearn](https://github.com/tslearn-team/tslearn) | ⭐ 3.2k | [#770](https://github.com/tslearn-team/tslearn/pull/770) [MRG] Avoid datetime64 rounding in feature synchronization |
+| [goccy/go-yaml](https://github.com/goccy/go-yaml) | ⭐ 2.2k | [#902](https://github.com/goccy/go-yaml/pull/902) fix(parser): limit nesting depth to avoid quadratic parse time |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
@@ -87,7 +87,7 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 
 Software Engineer specializing in **quantitative trading systems** and **blockchain infrastructure**. I architect high-performance, low-latency systems that process real-time market data across centralized and decentralized exchanges.
 
-- **Quantitative Systems** — Arbitrage engines, market-making algorithms, and cross-exchange hedging strategies
+- **Quantitative Systems** — Arbitrage engines and cross-exchange hedging strategies
 - **Web3 Development** — Smart contract development, DeFi protocol integration, and on-chain data analysis
 
 ## Trading Systems
@@ -103,7 +103,7 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 
 ## Founder & Builder
 
-Founder @ [Coinhelio](https://coinhelio.com)
+Co-founder @ [Coinhelio](https://coinhelio.com)
 
 *Building the next generation crypto analytics platform*
 
@@ -111,9 +111,9 @@ Founder @ [Coinhelio](https://coinhelio.com)
 
 **Languages** — Python · TypeScript · Go · Rust · Solidity · C++
 
-**Quant & Finance** — Algorithmic Trading · Arbitrage · Market-Making · DeFi · CEX/DEX  
-**Blockchain** — Ethereum · Hardhat · Ethers.js · Web3.py · OpenZeppelin · Chainlink CCIP  
-**Backend & Infra** — FastAPI · Node.js · Redis · PostgreSQL · Docker · Kubernetes · GCP / AWS · Terraform
+**Quant & Finance** — Algorithmic Trading · Arbitrage · CEX/DEX market data  
+**Blockchain** — Ethereum · Solidity · OpenZeppelin · Ethers.js (smart contract samples: [bbaguette-v1](https://github.com/bbaguette-world/bbaguette-v1) · [contract-labs](https://github.com/contract-labs/main))  
+**Backend & Infra** — FastAPI · Node.js · Redis · PostgreSQL · Docker · GCP / AWS
 
 ## Contact
 

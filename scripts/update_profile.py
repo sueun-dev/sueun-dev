@@ -143,6 +143,15 @@ def search_open_prs() -> list[dict]:
     return items
 
 
+# Docs-only PRs (typo and comment fixes) stay out of the In Review table so it
+# leads with code changes.
+DOCS_ONLY = re.compile(r"^docs\b|\bdoc comment\b", re.IGNORECASE)
+
+
+def is_docs_only(pr: dict) -> bool:
+    return bool(DOCS_ONLY.search(pr.get("title", "")))
+
+
 def fetch_public_orgs() -> set[str]:
     try:
         orgs = api_get(f"/users/{USER}/orgs")
@@ -272,8 +281,8 @@ def main() -> int:
     print(f"  {len(prs)} merged PRs")
 
     print("Fetching open pull requests...")
-    open_prs = search_open_prs()
-    print(f"  {len(open_prs)} open PRs")
+    open_prs = [pr for pr in search_open_prs() if not is_docs_only(pr)]
+    print(f"  {len(open_prs)} open PRs (docs-only excluded)")
 
     exclude = EXCLUDE_OWNERS | fetch_public_orgs()
     star_cache: dict[str, int] = {}
