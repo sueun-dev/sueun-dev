@@ -117,4 +117,4 @@ Co-founder @ [Coinhelio](https://coinhelio.com)
 
 ## Contact
 
-[Portfolio](https://sueun-dev.github.io) · [Resume](https://sueun-dev.github.io/assets/sueun-cho-resume.pdf) · [Email](mailto:sueun.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sueun-cho-625262252/) · [X](https://x.com/Bentley_Cho)
+[Portfolio](https://sueun-dev.github.io) · [Resume](https://sueun-dev.github.io/assets/sueun-cho-resume.pdf) · [Email](mailto:sueun.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sueun-cho/) · [X](https://x.com/Bentley_Cho)
