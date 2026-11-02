@@ -1,41 +1,15 @@
 # Sueun Cho
 
-Quantitative Systems Engineer · Blockchain Infrastructure Developer
+M.S. Computer Science @ Northwestern University · Open-source contributor · Blockchain systems
 
-## Founder & Builder
+## Education
 
-Founder @ [Coinhelio](https://coinhelio.com)
+- **Northwestern University** — M.S. Computer Science (2026 – present)
+- **University of Maryland, College Park** — B.S. Computer Science, Minor in General Business
 
-*Building the next generation crypto analytics platform*
+## Research Interests
 
-## Kernel Optimization Challenge
-
-[Rank #64 · 1,146 cycles](https://www.kerneloptimization.fun/) — Beat Claude and the recruiting threshold.
-
-<a href="https://www.kerneloptimization.fun/">
-  <img src="assets/kernel-optimization-rank.png?v=2" alt="Kernel Optimization Challenge - Rank #64" width="600"/>
-</a>
-
-*Anthropic's low-level performance optimization competition*
-
-## About Me
-
-Software Engineer specializing in **quantitative trading systems** and **blockchain infrastructure**. I architect high-performance, low-latency systems that process real-time market data across centralized and decentralized exchanges.
-
-- **Quantitative Systems** — Arbitrage engines, market-making algorithms, and cross-exchange hedging strategies
-- **Web3 Development** — Smart contract development, DeFi protocol integration, and on-chain data analysis
-- **CS @ UMD** — Computer Science, University of Maryland · College Park
-
-## Flagship Repositories
-
-| Repository | Focus |
-| --- | --- |
-| [crypto-market-neutral-platform](https://github.com/sueun-dev/crypto-market-neutral-platform) | Python platform for KRW premium and cross-exchange delta-neutral automation |
-| [krw-arbitrage-console](https://github.com/sueun-dev/krw-arbitrage-console) | TypeScript execution console and real-time premium monitoring stack |
-| [spot-spot-relay-arbitrage](https://github.com/sueun-dev/spot-spot-relay-arbitrage) | Low-latency C++ execution engine for KRW spot versus offshore perpetual hedging |
-| [prediction-market-arbitrage](https://github.com/sueun-dev/prediction-market-arbitrage) | Cross-venue prediction market scanner for Predict.fun and Polymarket |
-| [cross-perp-basis-engine](https://github.com/sueun-dev/cross-perp-basis-engine) | Delta-neutral perpetual basis engine across offshore venues |
-| [upbit-market-intelligence-console](https://github.com/sueun-dev/upbit-market-intelligence-console) | Full-stack Upbit market intelligence and listing strategy console |
+Bitcoin transaction selection and mempool linearization, block-template optimization, and Nakamoto consensus.
 
 ## Open Source Contributions
 
@@ -91,6 +65,47 @@ Software Engineer specializing in **quantitative trading systems** and **blockch
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
+
+## Kernel Optimization
+
+**1,146 cycles** on [Anthropic's original performance take-home](https://github.com/anthropics/original_performance_takehome) — below every Claude reference result listed in its README (best: 1,363 cycles). Rank #64 on the [community leaderboard](https://www.kerneloptimization.fun/).
+
+<a href="https://www.kerneloptimization.fun/">
+  <img src="assets/kernel-optimization-rank.png?v=2" alt="Kernel Optimization Challenge - Rank #64" width="600"/>
+</a>
+
+## Recent Projects
+
+| Repository | Focus |
+| --- | --- |
+| [motion-effects](https://github.com/sueun-dev/motion-effects) | 278 motion effects and 3D graphics techniques — one code file and a 5-second video each (Canvas 2D · WebGL · three.js) |
+| [nu-campus-nav](https://github.com/sueun-dev/nu-campus-nav) | Walking routes on Northwestern's Evanston campus that stay indoors, in the shade and off the stairs (A* routing, sun position, building shadows) |
+| [AICreditsBar](https://github.com/sueun-dev/AICreditsBar) | Native macOS menu-bar app showing remaining Codex and Claude plan limits |
+| [claude-pet](https://github.com/sueun-dev/claude-pet) | Claude Code sessions in the macOS menu bar: status, alerts and permission prompts |
+
+## About Me
+
+Software Engineer specializing in **quantitative trading systems** and **blockchain infrastructure**. I architect high-performance, low-latency systems that process real-time market data across centralized and decentralized exchanges.
+
+- **Quantitative Systems** — Arbitrage engines, market-making algorithms, and cross-exchange hedging strategies
+- **Web3 Development** — Smart contract development, DeFi protocol integration, and on-chain data analysis
+
+## Trading Systems
+
+| Repository | Focus |
+| --- | --- |
+| [crypto-market-neutral-platform](https://github.com/sueun-dev/crypto-market-neutral-platform) | Python platform for KRW premium and cross-exchange delta-neutral automation |
+| [krw-arbitrage-console](https://github.com/sueun-dev/krw-arbitrage-console) | TypeScript execution console and real-time premium monitoring stack |
+| [spot-spot-relay-arbitrage](https://github.com/sueun-dev/spot-spot-relay-arbitrage) | Low-latency C++ execution engine for KRW spot versus offshore perpetual hedging |
+| [prediction-market-arbitrage](https://github.com/sueun-dev/prediction-market-arbitrage) | Cross-venue prediction market scanner for Predict.fun and Polymarket |
+| [cross-perp-basis-engine](https://github.com/sueun-dev/cross-perp-basis-engine) | Delta-neutral perpetual basis engine across offshore venues |
+| [upbit-market-intelligence-console](https://github.com/sueun-dev/upbit-market-intelligence-console) | Full-stack Upbit market intelligence and listing strategy console |
+
+## Founder & Builder
+
+Founder @ [Coinhelio](https://coinhelio.com)
+
+*Building the next generation crypto analytics platform*
 
 ## Tech Stack
 
