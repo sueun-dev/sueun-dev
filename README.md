@@ -43,7 +43,7 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 45 open PRs in review &nbsp;·&nbsp; 43 projects &nbsp;·&nbsp; ⭐ 286.2k+ combined</strong></p>
+<p><strong>🔍 43 open PRs in review &nbsp;·&nbsp; 41 projects &nbsp;·&nbsp; ⭐ 277k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -57,11 +57,11 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 | [rq/rq](https://github.com/rq/rq) | ⭐ 10.7k | [#2498](https://github.com/rq/rq/pull/2498) Stop Group._add_jobs from executing the caller's pipeline |
 | [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.8k | [#5216](https://github.com/anchore/syft/pull/5216) fix(elixir): use Hex package names from mix.lock · +2 more |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.3k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
-| [open-circle/valibot](https://github.com/open-circle/valibot) | ⭐ 9.1k | [#1516](https://github.com/open-circle/valibot/pull/1516) fix: handle z.brand() in zod-to-valibot codemod |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 9k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
 | [scikit-learn-contrib/imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) | ⭐ 7.1k | [#1219](https://github.com/scikit-learn-contrib/imbalanced-learn/pull/1219) [MRG] Fix InstanceHardnessThreshold class probability indexing |
 | [tslearn-team/tslearn](https://github.com/tslearn-team/tslearn) | ⭐ 3.2k | [#770](https://github.com/tslearn-team/tslearn/pull/770) [MRG] Avoid datetime64 rounding in feature synchronization |
 | [goccy/go-yaml](https://github.com/goccy/go-yaml) | ⭐ 2.2k | [#902](https://github.com/goccy/go-yaml/pull/902) fix(parser): limit nesting depth to avoid quadratic parse time |
+| [hashicorp/go-getter](https://github.com/hashicorp/go-getter) | ⭐ 1.8k | [#653](https://github.com/hashicorp/go-getter/pull/653) Fix off-by-one in tar FilesLimit that rejects archives at exactly the limit |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
