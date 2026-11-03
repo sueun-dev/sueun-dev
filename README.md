@@ -16,7 +16,7 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 > Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 326.5k+ stars reached &nbsp;·&nbsp; 50 open-source projects &nbsp;·&nbsp; 68 merged PRs</strong></p>
+<p><strong>🌟 327.1k+ stars reached &nbsp;·&nbsp; 51 open-source projects &nbsp;·&nbsp; 69 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -43,7 +43,7 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 43 open PRs in review &nbsp;·&nbsp; 41 projects &nbsp;·&nbsp; ⭐ 277k+ combined</strong></p>
+<p><strong>🔍 42 open PRs in review &nbsp;·&nbsp; 40 projects &nbsp;·&nbsp; ⭐ 276.6k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
