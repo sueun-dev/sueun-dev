@@ -43,7 +43,7 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 41 open PRs in review &nbsp;·&nbsp; 39 projects &nbsp;·&nbsp; ⭐ 275.3k+ combined</strong></p>
+<p><strong>🔍 41 open PRs in review &nbsp;·&nbsp; 39 projects &nbsp;·&nbsp; ⭐ 275.4k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
