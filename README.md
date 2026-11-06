@@ -16,18 +16,18 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 > Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 327.3k+ stars reached &nbsp;·&nbsp; 51 open-source projects &nbsp;·&nbsp; 69 merged PRs</strong></p>
+<p><strong>🌟 327.4k+ stars reached &nbsp;·&nbsp; 51 open-source projects &nbsp;·&nbsp; 69 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 67k | [#19367](https://github.com/prometheus/prometheus/pull/19367) fix(model/histogram): do not miss counter resets behind empty buckets in DetectReset |
-| [gofiber/fiber](https://github.com/gofiber/fiber) | ⭐ 40.3k | [#4507](https://github.com/gofiber/fiber/pull/4507) 🐛 bug: Fix the normalization of the leading slash in the root path for fs.FS static serving |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 39k | [#11051](https://github.com/aquasecurity/trivy/pull/11051) fix(php): keep dependency edges to packages named like PHP extensions · +1 more |
+| [gofiber/fiber](https://github.com/gofiber/fiber) | ⭐ 40.2k | [#4507](https://github.com/gofiber/fiber/pull/4507) 🐛 bug: Fix the normalization of the leading slash in the root path for fs.FS static serving |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 39.1k | [#11051](https://github.com/aquasecurity/trivy/pull/11051) fix(php): keep dependency edges to packages named like PHP extensions · +1 more |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.3k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers · +2 more |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | ⭐ 16.1k | [#6679](https://github.com/goreleaser/goreleaser/pull/6679) fix(builders): reject empty target string |
 | [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.4k | [#8421](https://github.com/coredns/coredns/pull/8421) plugin/rewrite: apply rcode rewrites to responses with no records · +1 more |
 | [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.4k | [#2651](https://github.com/jackc/pgx/pull/2651) pgtype: preserve delimiters inside multirange bounds · +3 more |
-| [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | ⭐ 14.1k | [#9129](https://github.com/cert-manager/cert-manager/pull/9129) fix(webhook): validate renewBeforePercentage against the effective renewBefore · +1 more |
+| [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | ⭐ 14.2k | [#9129](https://github.com/cert-manager/cert-manager/pull/9129) fix(webhook): validate renewBeforePercentage against the effective renewBefore · +1 more |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.4k | [#9004](https://github.com/open-policy-agent/opa/pull/9004) semver: reject leading zeroes and empty pre-release/build · +2 more |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 9.9k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
 | [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.8k | [#5201](https://github.com/anchore/syft/pull/5201) fix(rpm): keep the epoch when parsing RPM manifest packages · +1 more |
@@ -43,14 +43,15 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 41 open PRs in review &nbsp;·&nbsp; 39 projects &nbsp;·&nbsp; ⭐ 275.4k+ combined</strong></p>
+<p><strong>🔍 42 open PRs in review &nbsp;·&nbsp; 40 projects &nbsp;·&nbsp; ⭐ 712.1k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
+| [morluto/rea](https://github.com/morluto/rea) | ⭐ 436.6k | [#9095](https://github.com/morluto/rea/pull/9095) fix(javascript): name minified receiverless import calls by their final callee |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 67k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 39k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 39.1k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 38.7k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
-| [onnx/onnx](https://github.com/onnx/onnx) | ⭐ 21.6k | [#8595](https://github.com/onnx/onnx/pull/8595) fix(reference): put ceil_mode extra padding at the end of pooling axes |
+| [onnx/onnx](https://github.com/onnx/onnx) | ⭐ 21.7k | [#8595](https://github.com/onnx/onnx/pull/8595) fix(reference): put ceil_mode extra padding at the end of pooling axes |
 | [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.5k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
 | [brianc/node-postgres](https://github.com/brianc/node-postgres) | ⭐ 13.2k | [#3799](https://github.com/brianc/node-postgres/pull/3799) fix(pg): preserve seconds in historical Date timezone offsets |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 13.2k | [#3687](https://github.com/anchore/grype/pull/3687) fix: normalize apk package fallback versions for CPE matching |
@@ -61,7 +62,6 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 | [scikit-learn-contrib/imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) | ⭐ 7.1k | [#1219](https://github.com/scikit-learn-contrib/imbalanced-learn/pull/1219) [MRG] Fix InstanceHardnessThreshold class probability indexing |
 | [tslearn-team/tslearn](https://github.com/tslearn-team/tslearn) | ⭐ 3.2k | [#770](https://github.com/tslearn-team/tslearn/pull/770) [MRG] Avoid datetime64 rounding in feature synchronization |
 | [goccy/go-yaml](https://github.com/goccy/go-yaml) | ⭐ 2.2k | [#902](https://github.com/goccy/go-yaml/pull/902) fix(parser): limit nesting depth to avoid quadratic parse time |
-| [hashicorp/go-getter](https://github.com/hashicorp/go-getter) | ⭐ 1.8k | [#653](https://github.com/hashicorp/go-getter/pull/653) Fix off-by-one in tar FilesLimit that rejects archives at exactly the limit |
 <!-- OSS-IN-REVIEW:END -->
 
 </details>
