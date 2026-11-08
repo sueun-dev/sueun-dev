@@ -16,11 +16,11 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 > Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 327.9k+ stars reached &nbsp;·&nbsp; 51 open-source projects &nbsp;·&nbsp; 69 merged PRs</strong></p>
+<p><strong>🌟 328.1k+ stars reached &nbsp;·&nbsp; 51 open-source projects &nbsp;·&nbsp; 69 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 67.4k | [#19367](https://github.com/prometheus/prometheus/pull/19367) fix(model/histogram): do not miss counter resets behind empty buckets in DetectReset |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 67.5k | [#19367](https://github.com/prometheus/prometheus/pull/19367) fix(model/histogram): do not miss counter resets behind empty buckets in DetectReset |
 | [gofiber/fiber](https://github.com/gofiber/fiber) | ⭐ 40.3k | [#4507](https://github.com/gofiber/fiber/pull/4507) 🐛 bug: Fix the normalization of the leading slash in the root path for fs.FS static serving |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 39.1k | [#11051](https://github.com/aquasecurity/trivy/pull/11051) fix(php): keep dependency edges to packages named like PHP extensions · +1 more |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.3k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers · +2 more |
@@ -30,7 +30,7 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | ⭐ 14.2k | [#9129](https://github.com/cert-manager/cert-manager/pull/9129) fix(webhook): validate renewBeforePercentage against the effective renewBefore · +1 more |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.4k | [#9004](https://github.com/open-policy-agent/opa/pull/9004) semver: reject leading zeroes and empty pre-release/build · +2 more |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 10k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
-| [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.8k | [#5201](https://github.com/anchore/syft/pull/5201) fix(rpm): keep the epoch when parsing RPM manifest packages · +1 more |
+| [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.9k | [#5201](https://github.com/anchore/syft/pull/5201) fix(rpm): keep the epoch when parsing RPM manifest packages · +1 more |
 | [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | ⭐ 8.7k | [#5449](https://github.com/prometheus/alertmanager/pull/5449) inhibit: preserve source-only matches in equal-label index · +2 more |
 | [agronholm/apscheduler](https://github.com/agronholm/apscheduler) | ⭐ 7.7k | [#1143](https://github.com/agronholm/apscheduler/pull/1143) [3.x] Backport calendar interval midnight DST fix (#1138) |
 | [nats-io/nats.go](https://github.com/nats-io/nats.go) | ⭐ 6.8k | [#2099](https://github.com/nats-io/nats.go/pull/2099) [FIXED] MsgsTimeout iterator yields spurious (nil, nil) after a timeout |
@@ -43,12 +43,12 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 42 open PRs in review &nbsp;·&nbsp; 40 projects &nbsp;·&nbsp; ⭐ 716.8k+ combined</strong></p>
+<p><strong>🔍 42 open PRs in review &nbsp;·&nbsp; 40 projects &nbsp;·&nbsp; ⭐ 718.6k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [morluto/rea](https://github.com/morluto/rea) | ⭐ 440.8k | [#9095](https://github.com/morluto/rea/pull/9095) fix(javascript): name minified receiverless import calls by their final callee |
-| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 67.4k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
+| [morluto/rea](https://github.com/morluto/rea) | ⭐ 442.5k | [#9095](https://github.com/morluto/rea/pull/9095) fix(javascript): name minified receiverless import calls by their final callee |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 67.5k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 39.1k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 38.8k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [onnx/onnx](https://github.com/onnx/onnx) | ⭐ 21.7k | [#8595](https://github.com/onnx/onnx/pull/8595) fix(reference): put ceil_mode extra padding at the end of pooling axes |
@@ -56,7 +56,7 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 | [brianc/node-postgres](https://github.com/brianc/node-postgres) | ⭐ 13.2k | [#3799](https://github.com/brianc/node-postgres/pull/3799) fix(pg): preserve seconds in historical Date timezone offsets |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 13.2k | [#3687](https://github.com/anchore/grype/pull/3687) fix: normalize apk package fallback versions for CPE matching |
 | [rq/rq](https://github.com/rq/rq) | ⭐ 10.7k | [#2498](https://github.com/rq/rq/pull/2498) Stop Group._add_jobs from executing the caller's pipeline |
-| [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.8k | [#5216](https://github.com/anchore/syft/pull/5216) fix(elixir): use Hex package names from mix.lock · +2 more |
+| [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.9k | [#5216](https://github.com/anchore/syft/pull/5216) fix(elixir): use Hex package names from mix.lock · +2 more |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.3k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
 | [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 9k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
 | [scikit-learn-contrib/imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) | ⭐ 7.1k | [#1219](https://github.com/scikit-learn-contrib/imbalanced-learn/pull/1219) [MRG] Fix InstanceHardnessThreshold class probability indexing |
