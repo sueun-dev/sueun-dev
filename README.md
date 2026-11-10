@@ -16,7 +16,7 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 > Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 328.2k+ stars reached &nbsp;·&nbsp; 51 open-source projects &nbsp;·&nbsp; 69 merged PRs</strong></p>
+<p><strong>🌟 328.6k+ stars reached &nbsp;·&nbsp; 52 open-source projects &nbsp;·&nbsp; 70 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -43,11 +43,11 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 42 open PRs in review &nbsp;·&nbsp; 40 projects &nbsp;·&nbsp; ⭐ 723.5k+ combined</strong></p>
+<p><strong>🔍 41 open PRs in review &nbsp;·&nbsp; 39 projects &nbsp;·&nbsp; ⭐ 725.2k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [morluto/rea](https://github.com/morluto/rea) | ⭐ 447.1k | [#9095](https://github.com/morluto/rea/pull/9095) fix(javascript): name minified receiverless import calls by their final callee |
+| [morluto/rea](https://github.com/morluto/rea) | ⭐ 449k | [#9095](https://github.com/morluto/rea/pull/9095) fix(javascript): name minified receiverless import calls by their final callee |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 67.6k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 39.2k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 38.9k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
