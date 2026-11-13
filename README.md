@@ -16,7 +16,7 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 > Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 328.9k+ stars reached &nbsp;·&nbsp; 52 open-source projects &nbsp;·&nbsp; 71 merged PRs</strong></p>
+<p><strong>🌟 328.8k+ stars reached &nbsp;·&nbsp; 52 open-source projects &nbsp;·&nbsp; 71 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -25,8 +25,8 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 39.3k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier · +2 more |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.3k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers · +2 more |
 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | ⭐ 16.1k | [#6679](https://github.com/goreleaser/goreleaser/pull/6679) fix(builders): reject empty target string |
-| [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.4k | [#2651](https://github.com/jackc/pgx/pull/2651) pgtype: preserve delimiters inside multirange bounds · +3 more |
 | [coredns/coredns](https://github.com/coredns/coredns) | ⭐ 14.4k | [#8421](https://github.com/coredns/coredns/pull/8421) plugin/rewrite: apply rcode rewrites to responses with no records · +1 more |
+| [jackc/pgx](https://github.com/jackc/pgx) | ⭐ 14.4k | [#2651](https://github.com/jackc/pgx/pull/2651) pgtype: preserve delimiters inside multirange bounds · +3 more |
 | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | ⭐ 14.2k | [#9129](https://github.com/cert-manager/cert-manager/pull/9129) fix(webhook): validate renewBeforePercentage against the effective renewBefore · +1 more |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | ⭐ 12.5k | [#9004](https://github.com/open-policy-agent/opa/pull/9004) semver: reject leading zeroes and empty pre-release/build · +2 more |
 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | ⭐ 10k | [#3093](https://github.com/SeaQL/sea-orm/pull/3093) Fix non-compiling codegen for Money columns with precision and scale |
@@ -43,11 +43,11 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 40 open PRs in review &nbsp;·&nbsp; 38 projects &nbsp;·&nbsp; ⭐ 694k+ combined</strong></p>
+<p><strong>🔍 40 open PRs in review &nbsp;·&nbsp; 38 projects &nbsp;·&nbsp; ⭐ 694.8k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [morluto/rea](https://github.com/morluto/rea) | ⭐ 456.7k | [#9095](https://github.com/morluto/rea/pull/9095) fix(javascript): name minified receiverless import calls by their final callee |
+| [morluto/rea](https://github.com/morluto/rea) | ⭐ 457.6k | [#9095](https://github.com/morluto/rea/pull/9095) fix(javascript): name minified receiverless import calls by their final callee |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 67.6k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 39.1k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [onnx/onnx](https://github.com/onnx/onnx) | ⭐ 21.7k | [#8595](https://github.com/onnx/onnx/pull/8595) fix(reference): put ceil_mode extra padding at the end of pooling axes |
@@ -57,7 +57,7 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 | [rq/rq](https://github.com/rq/rq) | ⭐ 10.7k | [#2498](https://github.com/rq/rq/pull/2498) Stop Group._add_jobs from executing the caller's pipeline |
 | [anchore/syft](https://github.com/anchore/syft) | ⭐ 9.9k | [#5216](https://github.com/anchore/syft/pull/5216) fix(elixir): use Hex package names from mix.lock · +2 more |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | ⭐ 9.3k | [#526](https://github.com/golang-jwt/jwt/pull/526) fix: reject out-of-range numeric dates instead of silently wrapping |
-| [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 9k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
+| [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) | ⭐ 9.1k | [#1008](https://github.com/charmbracelet/bubbles/pull/1008) fix(textarea): count runes, not display width, for CharLimit |
 | [scikit-learn-contrib/imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) | ⭐ 7.1k | [#1219](https://github.com/scikit-learn-contrib/imbalanced-learn/pull/1219) [MRG] Fix InstanceHardnessThreshold class probability indexing |
 | [tslearn-team/tslearn](https://github.com/tslearn-team/tslearn) | ⭐ 3.2k | [#770](https://github.com/tslearn-team/tslearn/pull/770) [MRG] Avoid datetime64 rounding in feature synchronization |
 | [goccy/go-yaml](https://github.com/goccy/go-yaml) | ⭐ 2.2k | [#902](https://github.com/goccy/go-yaml/pull/902) fix(parser): limit nesting depth to avoid quadratic parse time |
