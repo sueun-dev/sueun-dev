@@ -16,7 +16,7 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 > Auto-updated from merged pull requests to external repositories, sorted by upstream stars.
 
 <!-- OSS-CONTRIBUTIONS:START -->
-<p><strong>🌟 328.8k+ stars reached &nbsp;·&nbsp; 52 open-source projects &nbsp;·&nbsp; 71 merged PRs</strong></p>
+<p><strong>🌟 328.9k+ stars reached &nbsp;·&nbsp; 52 open-source projects &nbsp;·&nbsp; 71 merged PRs</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
@@ -43,11 +43,11 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 40 open PRs in review &nbsp;·&nbsp; 38 projects &nbsp;·&nbsp; ⭐ 694.8k+ combined</strong></p>
+<p><strong>🔍 40 open PRs in review &nbsp;·&nbsp; 38 projects &nbsp;·&nbsp; ⭐ 696.1k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [morluto/rea](https://github.com/morluto/rea) | ⭐ 457.6k | [#9095](https://github.com/morluto/rea/pull/9095) fix(javascript): name minified receiverless import calls by their final callee |
+| [morluto/rea](https://github.com/morluto/rea) | ⭐ 458.9k | [#9095](https://github.com/morluto/rea/pull/9095) fix(javascript): name minified receiverless import calls by their final callee |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 67.6k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 39.1k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [onnx/onnx](https://github.com/onnx/onnx) | ⭐ 21.7k | [#8595](https://github.com/onnx/onnx/pull/8595) fix(reference): put ceil_mode extra padding at the end of pooling axes |
