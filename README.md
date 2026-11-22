@@ -20,7 +20,7 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 67.7k | [#19367](https://github.com/prometheus/prometheus/pull/19367) fix(model/histogram): do not miss counter resets behind empty buckets in DetectReset |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 67.8k | [#19367](https://github.com/prometheus/prometheus/pull/19367) fix(model/histogram): do not miss counter resets behind empty buckets in DetectReset |
 | [gofiber/fiber](https://github.com/gofiber/fiber) | ⭐ 40.3k | [#4507](https://github.com/gofiber/fiber/pull/4507) 🐛 bug: Fix the normalization of the leading slash in the root path for fs.FS static serving |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | ⭐ 39.6k | [#11071](https://github.com/aquasecurity/trivy/pull/11071) fix(nodejs): derive Bun package name and version from the identifier · +2 more |
 | [redis/go-redis](https://github.com/redis/go-redis) | ⭐ 22.3k | [#3869](https://github.com/redis/go-redis/pull/3869) fix(proto): encode nil *uint8 as "0" like other numeric pointers · +2 more |
@@ -43,13 +43,13 @@ Bitcoin transaction selection and mempool linearization, block-template optimiza
 <summary><strong>Open PRs under review</strong> in external projects — <em>click to expand · auto-updated</em></summary>
 
 <!-- OSS-IN-REVIEW:START -->
-<p><strong>🔍 38 open PRs in review &nbsp;·&nbsp; 36 projects &nbsp;·&nbsp; ⭐ 701.5k+ combined</strong></p>
+<p><strong>🔍 38 open PRs in review &nbsp;·&nbsp; 36 projects &nbsp;·&nbsp; ⭐ 702.4k+ combined</strong></p>
 
 | Project | Stars | Contribution |
 | --- | --- | --- |
-| [morluto/rea](https://github.com/morluto/rea) | ⭐ 472.7k | [#9095](https://github.com/morluto/rea/pull/9095) fix(javascript): name minified receiverless import calls by their final callee |
-| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 67.7k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
-| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 39.4k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
+| [morluto/rea](https://github.com/morluto/rea) | ⭐ 473.6k | [#9095](https://github.com/morluto/rea/pull/9095) fix(javascript): name minified receiverless import calls by their final callee |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | ⭐ 67.8k | [#19466](https://github.com/prometheus/prometheus/pull/19466) promql: fix sort_by_label tie-break for natural-equal labels |
+| [tailscale/tailscale](https://github.com/tailscale/tailscale) | ⭐ 39.5k | [#20267](https://github.com/tailscale/tailscale/pull/20267) util/limiter: don't panic on Allow for a zero-value limiter |
 | [onnx/onnx](https://github.com/onnx/onnx) | ⭐ 21.7k | [#8595](https://github.com/onnx/onnx/pull/8595) fix(reference): put ceil_mode extra padding at the end of pooling axes |
 | [containerd/containerd](https://github.com/containerd/containerd) | ⭐ 21.5k | [#13929](https://github.com/containerd/containerd/pull/13929) oci: fix env deduplication for keys appearing only in overrides |
 | [anchore/grype](https://github.com/anchore/grype) | ⭐ 13.3k | [#3687](https://github.com/anchore/grype/pull/3687) fix: normalize apk package fallback versions for CPE matching |
